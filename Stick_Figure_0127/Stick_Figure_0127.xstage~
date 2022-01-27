@@ -6,8 +6,16 @@
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="4" elementName="Chest" elementFolder="Chest" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="5" elementName="Waist" elementFolder="Waist" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="4" elementName="Chest" elementFolder="Chest" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="5" elementName="Waist" elementFolder="Waist" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
   <element id="6" elementName="Right_Upper_Arm" elementFolder="Right_Upper_Arm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="7" elementName="Right_Forarm" elementFolder="Right_Forarm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="8" elementName="Right_Hand" elementFolder="Right_Hand" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -20,8 +28,16 @@
   <element id="15" elementName="Right_Upper_Leg" elementFolder="Right_Upper_Leg" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="16" elementName="Right_Lower_Leg" elementFolder="Right_Lower_Leg" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="17" elementName="Right_Foot" elementFolder="Right_Foot" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="18" elementName="Head" elementFolder="Head" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="19" elementName="Neck" elementFolder="Neck" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="18" elementName="Head" elementFolder="Head" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="19" elementName="Neck" elementFolder="Neck" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -43,8 +59,12 @@
     <column type="0" name="ATV-0B0ECEC1C4201863" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
     </column>
-    <column type="0" name="ATV-0B0ECEC1C422219E" displayOrder="0" width="100" anonymous="true" id="4"/>
-    <column type="0" name="ATV-0B0ECEC1C4222244" displayOrder="0" width="100" anonymous="true" id="5"/>
+    <column type="0" name="ATV-0B0ECEC1C422219E" displayOrder="0" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1" val="1" id="4"/>
+    </column>
+    <column type="0" name="ATV-0B0ECEC1C4222244" displayOrder="0" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1" val="1" id="5"/>
+    </column>
     <column type="0" name="ATV-0B0ECEC1C42222EA" displayOrder="0" width="100" anonymous="true" id="6"/>
     <column type="0" name="ATV-0B0ECEC1C4222390" displayOrder="0" width="100" anonymous="true" id="7"/>
     <column type="0" name="ATV-0B0ECEC1C4222436" displayOrder="0" width="100" anonymous="true" id="8"/>
@@ -57,8 +77,12 @@
     <column type="0" name="ATV-0B0ECEC1C42228C0" displayOrder="0" width="100" anonymous="true" id="15"/>
     <column type="0" name="ATV-0B0ECEC1C4222966" displayOrder="0" width="100" anonymous="true" id="16"/>
     <column type="0" name="ATV-0B0ECEC1C4222A0C" displayOrder="0" width="100" anonymous="true" id="17"/>
-    <column type="0" name="ATV-0B0ECEC1C4222AB2" displayOrder="0" width="100" anonymous="true" id="18"/>
-    <column type="0" name="ATV-0B0ECEC1C4222B58" displayOrder="0" width="100" anonymous="true" id="19"/>
+    <column type="0" name="ATV-0B0ECEC1C4222AB2" displayOrder="0" width="100" anonymous="true" id="18">
+     <elementSeq exposures="1" val="1" id="18"/>
+    </column>
+    <column type="0" name="ATV-0B0ECEC1C4222B58" displayOrder="0" width="100" anonymous="true" id="19">
+     <elementSeq exposures="1" val="1" id="19"/>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -68,7 +92,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-29,111,4" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-29,111,13" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -126,7 +150,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_CARD" name="Colour-Card" pos="66,68,27" publishUnderTab="Colour-Card">
+     <module type="COLOR_CARD" name="Colour-Card" pos="141,68,12" publishUnderTab="Colour-Card">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -143,7 +167,7 @@
        </color>
       </attrs>
      </module>
-     <module type="READ" name="Stick_Fig_Reference" pos="-266,66,5" publishUnderTab="Stick_Fig_Reference">
+     <module type="READ" name="Stick_Fig_Reference" pos="-41,31,11" publishUnderTab="Stick_Fig_Reference">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -255,7 +279,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Chest" pos="335,-332,18" publishUnderTab="Chest">
+     <module type="READ" name="Chest" pos="189,-331,3" publishUnderTab="Chest">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -367,7 +391,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Waist" pos="171,-335,17" publishUnderTab="Waist">
+     <module type="READ" name="Waist" pos="25,-334,1" publishUnderTab="Waist">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -479,7 +503,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Right_Upper_Arm" pos="-1132,-356,21" publishUnderTab="Right_Upper_Arm">
+     <module type="READ" name="Right_Upper_Arm" pos="-1278,-355,22" publishUnderTab="Right_Upper_Arm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -591,7 +615,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Right_Forarm" pos="-1311,-355,20" publishUnderTab="Right_Forarm">
+     <module type="READ" name="Right_Forarm" pos="-1457,-354,21" publishUnderTab="Right_Forarm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -703,7 +727,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Right_Hand" pos="-1470,-356,22" publishUnderTab="Right_Hand">
+     <module type="READ" name="Right_Hand" pos="-1616,-355,23" publishUnderTab="Right_Hand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -815,7 +839,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Left_Upper_Arm" pos="-1871,-357,24" publishUnderTab="Left_Upperarm">
+     <module type="READ" name="Left_Upper_Arm" pos="-2017,-356,25" publishUnderTab="Left_Upperarm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -927,7 +951,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Left_Forarm" pos="-2028,-357,25" publishUnderTab="Left_Forarm">
+     <module type="READ" name="Left_Forarm" pos="-2174,-356,26" publishUnderTab="Left_Forarm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1039,7 +1063,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Left_Hand" pos="-2186,-357,23" publishUnderTab="Left_Hand">
+     <module type="READ" name="Left_Hand" pos="-2332,-356,24" publishUnderTab="Left_Hand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1151,7 +1175,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Left_Upper_Leg" pos="2108,-329,12" publishUnderTab="Left_Upper_Leg">
+     <module type="READ" name="Left_Upper_Leg" pos="1962,-328,16" publishUnderTab="Left_Upper_Leg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1263,7 +1287,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Left_Lower_Leg" pos="1915,-329,13" publishUnderTab="Left_Lower_Leg">
+     <module type="READ" name="Left_Lower_Leg" pos="1769,-328,17" publishUnderTab="Left_Lower_Leg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1375,7 +1399,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Left_Foot" pos="1757,-329,14" publishUnderTab="Left_Foot">
+     <module type="READ" name="Left_Foot" pos="1611,-328,18" publishUnderTab="Left_Foot">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1487,7 +1511,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Right_Upper_Leg" pos="1343,-329,26" publishUnderTab="Right_Upper_Leg">
+     <module type="READ" name="Right_Upper_Leg" pos="1197,-328,27" publishUnderTab="Right_Upper_Leg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1599,7 +1623,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Right_Lower_Leg" pos="1171,-329,15" publishUnderTab="Right_Lower_Leg">
+     <module type="READ" name="Right_Lower_Leg" pos="1025,-328,19" publishUnderTab="Right_Lower_Leg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1711,7 +1735,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Right_Foot" pos="1032,-329,16" publishUnderTab="Right_Foot">
+     <module type="READ" name="Right_Foot" pos="886,-328,20" publishUnderTab="Right_Foot">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1823,7 +1847,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Head" pos="-387,-331,1" publishUnderTab="Head_1">
+     <module type="READ" name="Head" pos="-533,-330,14" publishUnderTab="Head_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1935,7 +1959,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Neck" pos="-184,-331,19" publishUnderTab="Neck">
+     <module type="READ" name="Neck" pos="-330,-330,4" publishUnderTab="Neck">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2047,7 +2071,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Left_Arm_Comp" pos="-2035,-257,11" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Left_Arm_Comp" pos="-2181,-256,6" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2066,7 +2090,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Right_Arm_Comp" pos="-1314,-255,10" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Right_Arm_Comp" pos="-1460,-254,7" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2085,7 +2109,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_Neck_Comp" pos="-300,-231,9" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Head_Neck_Comp" pos="-446,-230,10" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2104,7 +2128,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Body_Comp" pos="255,-232,8" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Body_Comp" pos="109,-231,9" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2123,7 +2147,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Right_Leg_Comp" pos="1173,-229,7" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Right_Leg_Comp" pos="1027,-228,8" publishUnderTab="Composite_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2142,7 +2166,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Left_Leg_Comp" pos="1920,-229,6" publishUnderTab="Composite_5">
+     <module type="COMPOSITE" name="Left_Leg_Comp" pos="1774,-228,15" publishUnderTab="Composite_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2161,7 +2185,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Master_Comp" pos="-43,-13,3" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Master_Comp" pos="-264,31,5" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2185,7 +2209,7 @@
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
      <link out="Colour-Card" in="Composite" inport="0"/>
-     <link out="Stick_Fig_Reference" in="Composite" inport="2"/>
+     <link out="Stick_Fig_Reference" in="Composite" inport="1"/>
      <link out="Chest" in="Body_Comp" inport="0"/>
      <link out="Waist" in="Body_Comp" inport="1"/>
      <link out="Right_Upper_Arm" in="Right_Arm_Comp" inport="0"/>
@@ -2208,37 +2232,37 @@
      <link out="Body_Comp" in="Master_Comp" inport="2"/>
      <link out="Right_Leg_Comp" in="Master_Comp" inport="1"/>
      <link out="Left_Leg_Comp" in="Master_Comp" inport="0"/>
-     <link out="Master_Comp" in="Composite" inport="1"/>
+     <link out="Master_Comp" in="Composite" inport="2"/>
     </linkedlist>
     <backdrops>
-     <backdrop topLeft="1694,-404" bottomRight="2311,-279">
-      <background color="#6C0E9CFF"/>
-      <title text="Left Leg" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="982,-406" bottomRight="1552,-279">
-      <background color="#023CBEFF"/>
-      <title text="Right Leg" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="-2236,-433" bottomRight="-1669,-301">
+     <backdrop topLeft="-2382,-432" bottomRight="-1815,-300">
       <background color="#084C18FF"/>
       <title text="Left Arm" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
-     <backdrop topLeft="-1520,-431" bottomRight="-921,-305">
+     <backdrop topLeft="-1666,-430" bottomRight="-1067,-304">
       <background color="#077F04FF"/>
       <title text="Right Arm " color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
-     <backdrop topLeft="121,-410" bottomRight="489,-285">
+     <backdrop topLeft="-589,-405" bottomRight="-181,-280">
+      <background color="#E30F69FF"/>
+      <title text="Head/Neck" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="-25,-409" bottomRight="343,-284">
       <background color="#E30FA0FF"/>
       <title text="Body(Chest and Waist)" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
-     <backdrop topLeft="-443,-406" bottomRight="-35,-281">
-      <background color="#E30F69FF"/>
-      <title text="Head/Neck" color="#000000FF" size="12" font="Arial"/>
+     <backdrop topLeft="836,-405" bottomRight="1406,-278">
+      <background color="#023CBEFF"/>
+      <title text="Right Leg" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="1548,-403" bottomRight="2165,-278">
+      <background color="#6C0E9CFF"/>
+      <title text="Left Leg" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
     </backdrops>
