@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Stick_Figure_0127" Modified="2022-01-29 11:37:22" ID="1">
+<SceneVersion VersionName="Stick_Figure_0127" Modified="2022-01-29 11:37:26" ID="1">
  <Element Name="Chest" ID="4" Folder="Chest">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
