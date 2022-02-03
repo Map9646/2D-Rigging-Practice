@@ -21,7 +21,11 @@
     <dwg name="2"/>
    </drawings>
   </element>
-  <element id="6" elementName="Sleeve" elementFolder="Sleeve" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="6" elementName="Sleeve" elementFolder="Sleeve" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
   <element id="7" elementName="Notes" elementFolder="Notes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -57,7 +61,9 @@
     <column type="0" name="ATV-0B10D81EA860D6DA" displayOrder="0" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-60" val="2" id="5"/>
     </column>
-    <column type="0" name="ATV-0B10D81EA860DD02" displayOrder="0" width="100" anonymous="true" id="6"/>
+    <column type="0" name="ATV-0B10D81EA860DD02" displayOrder="0" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1" val="1" id="6"/>
+    </column>
     <column type="0" name="ATV-0B10D81EA860E960" displayOrder="0" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
     </column>
@@ -70,7 +76,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-19,453,10" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-19,453,14" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -132,7 +138,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_CARD" name="Colour-Card" pos="217,442,7" publishUnderTab="Colour-Card">
+     <module type="COLOR_CARD" name="Colour-Card" pos="217,442,12" publishUnderTab="Colour-Card">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -149,7 +155,7 @@
        </color>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Arm_Rig_Master_Comp" pos="-164,342,9" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Arm_Rig_Master_Comp" pos="-164,342,13" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -168,8 +174,9 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Upper_Arm" pos="-621,-341,4" publishUnderTab="Upper_Arm">
+     <module type="READ" name="Upper_Arm" pos="-621,-341,7" publishUnderTab="Upper_Arm">
       <options>
+       <showTimelineThumb val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -280,7 +287,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Forarm" pos="-107,-352,3" publishUnderTab="Forarm">
+     <module type="READ" name="Forarm" pos="-107,-352,9" publishUnderTab="Forarm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -392,7 +399,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hand" pos="464,-353,1" publishUnderTab="Hand">
+     <module type="READ" name="Hand" pos="464,-353,8" publishUnderTab="Hand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -523,7 +530,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Upper_Arm-P" pos="-484,-689,14" publishUnderTab="Upper_Arm-P">
+     <module type="PEG" name="Upper_Arm-P" pos="-484,-689,6" publishUnderTab="Upper_Arm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -534,8 +541,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="true"/>
-        <x val="4.9960036108132044e-016" defaultValue="0"/>
-        <y val="-1.3322676295501878e-015" defaultValue="0"/>
+        <x val="-0.065140678834836485" defaultValue="0"/>
+        <y val="-0.082612066150234351" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
        <scale>
@@ -555,13 +562,13 @@
        <angle val="-1.7154288412868057" defaultValue="0"/>
        <skew val="-2.2860236773019012e-014" defaultValue="0"/>
        <pivot>
-        <x val="-2.0312451238305043" defaultValue="0"/>
-        <y val="9.9305317165046816" defaultValue="0"/>
+        <x val="0.08898238314787206" defaultValue="0"/>
+        <y val="6.102340836257576" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.065140678834836985" defaultValue="0"/>
+        <y val="0.082612066150233018" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -585,7 +592,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Forarm-P" pos="29,-611,13" publishUnderTab="Forarm-P">
+     <module type="PEG" name="Forarm-P" pos="29,-611,5" publishUnderTab="Forarm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -596,8 +603,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="true"/>
-        <x val="-0.0052944016248224661" defaultValue="0"/>
-        <y val="-0.11667415347326418" defaultValue="0"/>
+        <x val="-0.20694096888027969" defaultValue="0"/>
+        <y val="-1.1392555642735647" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
        <scale>
@@ -617,13 +624,13 @@
        <angle val="-19.507220437180251" defaultValue="0"/>
        <skew val="8.2694421718054282e-014" defaultValue="0"/>
        <pivot>
-        <x val="-2.8990649722699318" defaultValue="0"/>
-        <y val="0.71835767303290599" defaultValue="0"/>
+        <x val="-0.56743140872036857" defaultValue="0"/>
+        <y val="0.44760102625672632" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0.0052944016248204677" defaultValue="0"/>
-        <y val="0.11667415347323387" defaultValue="0"/>
+        <x val="0.20694096888027769" defaultValue="0"/>
+        <y val="1.1392555642735342" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -647,7 +654,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hand-P" pos="361,-495,12" publishUnderTab="Hand-P">
+     <module type="PEG" name="Hand-P" pos="479,-474,4" publishUnderTab="Hand-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -658,8 +665,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="true"/>
-        <x val="4.2466030691912238e-015" defaultValue="0"/>
-        <y val="1.0658141036401503e-014" defaultValue="0"/>
+        <x val="0.8044308432085282" defaultValue="0"/>
+        <y val="0.22322158726322106" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
        <scale>
@@ -679,13 +686,13 @@
        <angle val="-19.425597905423359" defaultValue="0"/>
        <skew val="-6.7745814715172904e-013" defaultValue="0"/>
        <pivot>
-        <x val="0.83333133285354055" defaultValue="0"/>
-        <y val="-6.805539218303915" defaultValue="0"/>
+        <x val="-0.057938795911262157" defaultValue="0"/>
+        <y val="-3.7839549137002866" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-0.80443084320852387" defaultValue="0"/>
+        <y val="-0.2232215872632104" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -709,7 +716,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm_Master_P" pos="-494,-998,11" publishUnderTab="Upper_Arm-P-P">
+     <module type="PEG" name="Arm_Master_P" pos="-494,-998,2" publishUnderTab="Upper_Arm-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -741,8 +748,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="-2.0833283321338514" defaultValue="0"/>
-        <y val="9.9999759942424777" defaultValue="0"/>
+        <x val="0.083333133285350927" defaultValue="0"/>
+        <y val="6.799983676084878" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -933,7 +940,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Arm_Ref" pos="92,389,6" publishUnderTab="Arm_Ref">
+     <module type="READ" name="Arm_Ref" pos="92,389,11" publishUnderTab="Arm_Ref">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="false"/>
@@ -1046,7 +1053,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sleeve" pos="-857,125,8" publishUnderTab="Sleeve">
+     <module type="READ" name="Sleeve" pos="-1017,-104,3" publishUnderTab="Sleeve">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1158,7 +1165,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Notes" pos="-32,378,5" publishUnderTab="Notes">
+     <module type="READ" name="Notes" pos="-32,378,10" publishUnderTab="Notes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1270,6 +1277,68 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="PEG" name="Sleeve-P" pos="-1011,-371,1" publishUnderTab="Sleeve-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-0.19999951988485154" defaultValue="0"/>
+        <y val="7.4666487423677186" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -1314,12 +1383,15 @@
      <link out="Arm_Ref" in="Composite" inport="1"/>
      <link out="Sleeve" in="Arm_Comp" inport="9"/>
      <link out="Notes" in="Composite" inport="2"/>
+     <link out="Sleeve-P" in="Sleeve" inport="0"/>
     </linkedlist>
     <waypoints>
      <waypoint nameId="waypoint" location="-657,57"/>
+     <waypoint nameId="waypoint_1" location="-842,149"/>
     </waypoints>
     <waypointLinks>
      <waypointLink nameId="waypoint" out="Overlay-Layer_2" outport="0" in="Arm_Comp" inport="8"/>
+     <waypointLink nameId="waypoint_1" out="Sleeve" outport="0" in="Arm_Comp" inport="9"/>
     </waypointLinks>
    </rootgroup>
    <unconnectedComposite>
