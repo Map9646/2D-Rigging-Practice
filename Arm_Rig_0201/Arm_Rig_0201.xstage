@@ -174,7 +174,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Upper_Arm" pos="-621,-341,9" publishUnderTab="Upper_Arm">
+     <module type="READ" name="Upper_Arm" pos="-621,-341,5" publishUnderTab="Upper_Arm">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="false"/>
@@ -264,7 +264,7 @@
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
+       <opacity val="46" defaultValue="100"/>
        <textureFilter val="NEAREST_FILTERED"/>
        <adjustPencilThickness val="false"/>
        <normalLineArtThickness val="true"/>
@@ -287,7 +287,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Forarm" pos="-107,-352,11" publishUnderTab="Forarm">
+     <module type="READ" name="Forarm" pos="-107,-352,4" publishUnderTab="Forarm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -298,8 +298,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.12066407486787487" defaultValue="0"/>
+        <y val="-0.41430157279559726" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -399,7 +399,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hand" pos="464,-353,10" publishUnderTab="Hand">
+     <module type="READ" name="Hand" pos="464,-353,1" publishUnderTab="Hand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -410,8 +410,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.21713726132215722" defaultValue="0"/>
+        <y val="-0.33720943019894323" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -530,7 +530,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Upper_Arm-P" pos="-484,-689,8" publishUnderTab="Upper_Arm-P">
+     <module type="PEG" name="Upper_Arm-P" pos="-484,-689,11" publishUnderTab="Upper_Arm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -592,7 +592,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Forarm-P" pos="29,-611,7" publishUnderTab="Forarm-P">
+     <module type="PEG" name="Forarm-P" pos="29,-611,3" publishUnderTab="Forarm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -603,8 +603,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="true"/>
-        <x val="-0.20694096888027969" defaultValue="0"/>
-        <y val="-1.1392555642735647" defaultValue="0"/>
+        <x val="-0.074118213719467002" defaultValue="0"/>
+        <y val="-1.1033244192382401" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
        <scale>
@@ -624,13 +624,13 @@
        <angle val="-19.507220437180251" defaultValue="0"/>
        <skew val="8.2694421718054282e-014" defaultValue="0"/>
        <pivot>
-        <x val="-0.56743140872036857" defaultValue="0"/>
-        <y val="0.44760102625672632" defaultValue="0"/>
+        <x val="-0.71222829856181902" defaultValue="0"/>
+        <y val="0.94476291361144404" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0.20694096888027769" defaultValue="0"/>
-        <y val="1.1392555642735342" defaultValue="0"/>
+        <x val="0.074118213719465004" defaultValue="0"/>
+        <y val="1.1033244192382095" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -654,7 +654,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hand-P" pos="479,-474,6" publishUnderTab="Hand-P">
+     <module type="PEG" name="Hand-P" pos="479,-474,10" publishUnderTab="Hand-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -716,7 +716,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm_Master_P" pos="-494,-998,4" publishUnderTab="Upper_Arm-P-P">
+     <module type="PEG" name="Arm_Master_P" pos="-494,-998,8" publishUnderTab="Upper_Arm-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1053,7 +1053,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sleeve" pos="-1017,-104,5" publishUnderTab="Sleeve">
+     <module type="READ" name="Sleeve" pos="-1017,-104,9" publishUnderTab="Sleeve">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1165,7 +1165,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Notes" pos="-32,378,1" publishUnderTab="Notes">
+     <module type="READ" name="Notes" pos="-32,378,6" publishUnderTab="Notes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1277,7 +1277,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Sleeve-P" pos="-1011,-371,3" publishUnderTab="Sleeve-P">
+     <module type="PEG" name="Sleeve-P" pos="-1011,-371,7" publishUnderTab="Sleeve-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
