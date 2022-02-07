@@ -31,6 +31,7 @@
     <dwg name="1"/>
    </drawings>
   </element>
+  <element id="8" elementName="Eye" elementFolder="Eye" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -58,15 +59,16 @@
     <column type="0" name="ATV-0B104473E9C01751" displayOrder="0" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
     </column>
-    <column type="0" name="ATV-0B10D81EA860D6DA" displayOrder="0" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0B10D81EA860D6DA" display="false" displayOrder="0" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-60" val="2" id="5"/>
     </column>
     <column type="0" name="ATV-0B10D81EA860DD02" displayOrder="0" width="100" anonymous="true" id="6">
      <elementSeq exposures="1" val="1" id="6"/>
     </column>
-    <column type="0" name="ATV-0B10D81EA860E960" displayOrder="0" width="100" anonymous="true" id="7">
+    <column type="0" name="ATV-0B10D81EA860E960" display="false" displayOrder="0" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
     </column>
+    <column type="0" name="ATV-0B11C79A8723307F" displayOrder="0" width="100" anonymous="true" id="8"/>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -76,7 +78,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-19,453,15" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-19,453,24" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -95,13 +97,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="39,512,33" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="39,512,40" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-61,512,34" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-61,512,41" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -138,7 +140,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_CARD" name="Colour-Card" pos="217,442,13" publishUnderTab="Colour-Card">
+     <module type="COLOR_CARD" name="Colour-Card" pos="217,442,16" publishUnderTab="Colour-Card">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -155,7 +157,7 @@
        </color>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Arm_Rig_Master_Comp" pos="-164,342,14" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Arm_Rig_Master_Comp" pos="-164,342,20" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -174,7 +176,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Upper_Arm" pos="-621,-341,5" publishUnderTab="Upper_Arm">
+     <module type="READ" name="Upper_Arm" pos="-814,-313,8" publishUnderTab="Upper_Arm">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="false"/>
@@ -264,7 +266,7 @@
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="46" defaultValue="100"/>
+       <opacity val="100" defaultValue="100"/>
        <textureFilter val="NEAREST_FILTERED"/>
        <adjustPencilThickness val="false"/>
        <normalLineArtThickness val="true"/>
@@ -287,7 +289,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Forarm" pos="-107,-352,4" publishUnderTab="Forarm">
+     <module type="READ" name="Forarm" pos="-49,-363,13" publishUnderTab="Forarm">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -298,8 +300,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0.12066407486787487" defaultValue="0"/>
-        <y val="-0.41430157279559726" defaultValue="0"/>
+        <x val="-0.057710817546995877" defaultValue="0"/>
+        <y val="-0.47498104308374584" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -399,7 +401,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hand" pos="464,-353,1" publishUnderTab="Hand">
+     <module type="READ" name="Hand" pos="710,-368,12" publishUnderTab="Hand">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -410,26 +412,26 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0.21713726132215722" defaultValue="0"/>
-        <y val="-0.33720943019894323" defaultValue="0"/>
+        <x val="0.096502050737549069" defaultValue="0"/>
+        <y val="-2.7208332291569173" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="0.99999999999999867" defaultValue="1"/>
+        <y val="1.0000000000000027" defaultValue="1"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="-19.811358500323038" defaultValue="0"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="-19.811358500323038" defaultValue="0"/>
+       <skew val="-2.6398603856147119e-013" defaultValue="0"/>
        <pivot>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
@@ -511,7 +513,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Arm_Comp" pos="-153,282,17" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Arm_Comp" pos="-153,282,21" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -530,7 +532,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Upper_Arm-P" pos="-484,-689,11" publishUnderTab="Upper_Arm-P">
+     <module type="PEG" name="Upper_Arm-P" pos="-798,-448,6" publishUnderTab="Upper_Arm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -592,7 +594,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Forarm-P" pos="29,-611,3" publishUnderTab="Forarm-P">
+     <module type="PEG" name="Forarm-P" pos="-16,-508,9" publishUnderTab="Forarm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -603,8 +605,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="true"/>
-        <x val="-0.074118213719467002" defaultValue="0"/>
-        <y val="-1.1033244192382401" defaultValue="0"/>
+        <x val="-0.17081823227024287" defaultValue="0"/>
+        <y val="-1.0643690491257278" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
        <scale>
@@ -624,13 +626,13 @@
        <angle val="-19.507220437180251" defaultValue="0"/>
        <skew val="8.2694421718054282e-014" defaultValue="0"/>
        <pivot>
-        <x val="-0.71222829856181902" defaultValue="0"/>
-        <y val="0.94476291361144404" defaultValue="0"/>
+        <x val="-0.74886129326760908" defaultValue="0"/>
+        <y val="0.55025284148142273" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0.074118213719465004" defaultValue="0"/>
-        <y val="1.1033244192382095" defaultValue="0"/>
+        <x val="0.17081823227024087" defaultValue="0"/>
+        <y val="1.0643690491256972" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -654,7 +656,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hand-P" pos="479,-474,10" publishUnderTab="Hand-P">
+     <module type="PEG" name="Hand-P" pos="725,-420,11" publishUnderTab="Hand-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -665,8 +667,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="true"/>
-        <x val="0.8044308432085282" defaultValue="0"/>
-        <y val="0.22322158726322106" defaultValue="0"/>
+        <x val="0.13717385897225048" defaultValue="0"/>
+        <y val="0.70994911878873168" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
        <scale>
@@ -686,13 +688,13 @@
        <angle val="-19.425597905423359" defaultValue="0"/>
        <skew val="-6.7745814715172904e-013" defaultValue="0"/>
        <pivot>
-        <x val="-0.057938795911262157" defaultValue="0"/>
-        <y val="-3.7839549137002866" defaultValue="0"/>
+        <x val="-0.79067845086893196" defaultValue="0"/>
+        <y val="-6.6262323460918058" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="-0.80443084320852387" defaultValue="0"/>
-        <y val="-0.2232215872632104" defaultValue="0"/>
+        <x val="-0.13717385897224615" defaultValue="0"/>
+        <y val="-0.70994911878872102" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -716,7 +718,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm_Master_P" pos="-494,-998,8" publishUnderTab="Upper_Arm-P-P">
+     <module type="PEG" name="Arm_Master_P" pos="-721,-1217,4" publishUnderTab="Upper_Arm-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -778,7 +780,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="OVERLAY" name="Overlay-Layer_1" pos="-280,-266,29" publishUnderTab="Overlay-Layer_1">
+     <module type="OVERLAY" name="Overlay-Layer_1" pos="-222,-277,36" publishUnderTab="Overlay-Layer_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -790,7 +792,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_1" pos="-127,-266,32" publishUnderTab="Line-Art_1">
+     <module type="LINE_ART" name="Line-Art_1" pos="-69,-277,39" publishUnderTab="Line-Art_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -802,7 +804,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_1" pos="-9,-266,31" publishUnderTab="Colour-Art_1">
+     <module type="COLOR_ART" name="Colour-Art_1" pos="49,-277,38" publishUnderTab="Colour-Art_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -814,25 +816,13 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_1" pos="123,-266,27" publishUnderTab="Auto-Patch_1">
+     <module type="AutoPatchModule" name="Auto-Patch_1" pos="181,-277,34" publishUnderTab="Auto-Patch_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="OVERLAY" name="Overlay-Layer_2" pos="-829,-265,22" publishUnderTab="Overlay-Layer_2">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <flatten val="false"/>
-       <applyToMattePorts val="false"/>
-       <antialiasingQuality val="IGNORE"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-      </attrs>
-     </module>
-     <module type="LINE_ART" name="Line-Art_2" pos="-680,-265,28" publishUnderTab="Line-Art_2">
+     <module type="OVERLAY" name="Overlay-Layer_2" pos="-1022,-220,23" publishUnderTab="Overlay-Layer_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -844,7 +834,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_2" pos="-558,-265,30" publishUnderTab="Colour-Art_2">
+     <module type="LINE_ART" name="Line-Art_2" pos="-873,-220,35" publishUnderTab="Line-Art_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -856,13 +846,25 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_2" pos="-428,-265,25" publishUnderTab="Auto-Patch_2">
+     <module type="COLOR_ART" name="Colour-Art_2" pos="-751,-220,37" publishUnderTab="Colour-Art_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="AutoPatchModule" name="Auto-Patch_2" pos="-621,-220,32" publishUnderTab="Auto-Patch_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="CUTTER" name="Cutter" pos="-635,-167,21" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter" pos="-828,-122,29" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -871,7 +873,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_1" pos="-123,-187,26" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_1" pos="-65,-198,33" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -880,7 +882,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="OVERLAY" name="Overlay-Layer" pos="278,-263,20" publishUnderTab="Overlay-Layer">
+     <module type="OVERLAY" name="Overlay-Layer" pos="524,-278,28" publishUnderTab="Overlay-Layer">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -892,7 +894,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art" pos="419,-263,23" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art" pos="665,-278,30" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -904,7 +906,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art" pos="527,-263,18" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art" pos="773,-278,26" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -916,22 +918,13 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch" pos="645,-263,24" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch" pos="891,-278,31" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="CUTTER" name="Cutter_2" pos="-123,-84,19" publishUnderTab="Cutter_2">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <inverted val="false"/>
-      </attrs>
-     </module>
-     <module type="CUTTER" name="Cutter_3" pos="342,-128,16" publishUnderTab="Cutter_3">
+     <module type="CUTTER" name="Cutter_2" pos="-65,-95,27" publishUnderTab="Cutter_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -940,8 +933,18 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Arm_Ref" pos="92,389,12" publishUnderTab="Arm_Ref">
+     <module type="CUTTER" name="Cutter_3" pos="588,-143,25" publishUnderTab="Cutter_3">
       <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Arm_Ref" pos="92,389,17" publishUnderTab="Arm_Ref">
+      <options>
+       <disabled val="true"/>
        <showTimelineThumb val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1053,7 +1056,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sleeve" pos="-1017,-104,9" publishUnderTab="Sleeve">
+     <module type="READ" name="Sleeve" pos="-1422,-138,15" publishUnderTab="Sleeve">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1064,8 +1067,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.44999891974091166" defaultValue="0"/>
+        <y val="-0.3111103642653239" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -1165,8 +1168,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Notes" pos="-32,378,6" publishUnderTab="Notes">
+     <module type="READ" name="Notes" pos="-32,378,18" publishUnderTab="Notes">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1277,7 +1281,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Sleeve-P" pos="-1011,-371,7" publishUnderTab="Sleeve-P">
+     <module type="PEG" name="Sleeve-P" pos="-1406,-405,22" publishUnderTab="Sleeve-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1339,6 +1343,1382 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+     <module type="PEG" name="Hand_Master_P" pos="705,-501,10" publishUnderTab="Hand-P-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-0.66666506628283184" defaultValue="0"/>
+        <y val="-5.9110969210411133" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Foram_Master_P" pos="-35,-605,3" publishUnderTab="Forarm-P-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-0.96666434611010665" defaultValue="0"/>
+        <y val="-0.072222058367470643" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Upper_Arm_Master_P" pos="-729,-858,5" publishUnderTab="Upper_Arm-P-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0.19999951988484993" defaultValue="0"/>
+        <y val="7.0666497025980197" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <group name="Deformation-Forarm" pos="-49,-413,19">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-49,-513,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-49,-283,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="TransformationSwitch" name="Transformation-Switch" pos="-49,-413,0" publishUnderTab="Transformation-Switch">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0B104473E9C016F7">
+           <layer/>
+          </element>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12" defaultValue="12"/>
+          </customName>
+         </drawing>
+         <transformationnames>
+          <size val="1"/>
+          <transformation1 val="1;" displayName="Transformation 1"/>
+         </transformationnames>
+        </attrs>
+        <inputPorts>
+         <port idx="0"/>
+         <port idx="1"/>
+        </inputPorts>
+       </module>
+       <group name="1" pos="-49,-463,0">
+        <options>
+         <collapsed val="false"/>
+         <subnodeCollapsed val="true"/>
+         <showsPublished val="true"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
+          <options>
+           <collapsed val="false"/>
+           <version val="1"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
+          <options>
+           <collapsed val="false"/>
+           <version val="1"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <restingoffset>
+            <x val="1.0386253881161611" defaultValue="1"/>
+            <y val="-3.6898477127032483" defaultValue="0"/>
+           </restingoffset>
+           <restingorientation val="-72.846496753853629" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="1.0386253881161611" defaultValue="1"/>
+            <y val="-3.6898477127032483" defaultValue="0"/>
+           </offset>
+           <orientation val="-72.846496753853629" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.75511478405097543" defaultValue="2"/>
+           <restingorientation0 val="-58.282290580525874" defaultValue="0"/>
+           <restingoffset>
+            <x val="0.20181329334593645" defaultValue="6"/>
+            <y val="-4.1605548809764965" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.81443604115456136" defaultValue="2"/>
+           <restingorientation1 val="109.33203471385215" defaultValue="0"/>
+           <length0 val="0.75511478405097543" defaultValue="2"/>
+           <orientation0 val="-58.282290580525874" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="0.20181329334593645" defaultValue="6"/>
+            <y val="-4.1605548809764965" defaultValue="0"/>
+           </offset>
+           <length1 val="0.81443604115456136" defaultValue="2"/>
+           <orientation1 val="109.33203471385215" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_1" pos="0,-500,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.94318334250866331" defaultValue="2"/>
+           <restingorientation0 val="109.33203471385215" defaultValue="0"/>
+           <restingoffset>
+            <x val="-1.0402740433770821" defaultValue="6"/>
+            <y val="-1.2958111574690339" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="1.2204114226556986" defaultValue="2"/>
+           <restingorientation1 val="103.92130050681901" defaultValue="0"/>
+           <length0 val="0.94318334250866331" defaultValue="2"/>
+           <orientation0 val="109.33203471385215" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-1.0402740433770821" defaultValue="6"/>
+            <y val="-1.2958111574690339" defaultValue="0"/>
+           </offset>
+           <length1 val="1.2204114226556986" defaultValue="2"/>
+           <orientation1 val="103.92130050681901" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_2" pos="0,-450,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="1.2263134711905714" defaultValue="2"/>
+           <restingorientation0 val="103.92130050681901" defaultValue="0"/>
+           <restingoffset>
+            <x val="-1.229920912827831" defaultValue="6"/>
+            <y val="-0.10288795535092767" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.31050567973299154" defaultValue="2"/>
+           <restingorientation1 val="99.985928095528379" defaultValue="0"/>
+           <length0 val="1.2263134711905714" defaultValue="2"/>
+           <orientation0 val="103.92130050681901" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-1.229920912827831" defaultValue="6"/>
+            <y val="-0.10288795535092767" defaultValue="0"/>
+           </offset>
+           <length1 val="0.31050567973299154" defaultValue="2"/>
+           <orientation1 val="99.985928095528379" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_3" pos="0,-400,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.29868562075337562" defaultValue="2"/>
+           <restingorientation0 val="99.985928095528379" defaultValue="0"/>
+           <restingoffset>
+            <x val="-0.7473861385194781" defaultValue="6"/>
+            <y val="1.5348455866713624" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.96849163401706961" defaultValue="2"/>
+           <restingorientation1 val="-2.4990815955890033" defaultValue="0"/>
+           <length0 val="0.29868562075337562" defaultValue="2"/>
+           <orientation0 val="99.985928095528379" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-0.7473861385194781" defaultValue="6"/>
+            <y val="1.5348455866713624" defaultValue="0"/>
+           </offset>
+           <length1 val="0.96849163401706961" defaultValue="2"/>
+           <orientation1 val="-2.4990815955890024" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_4" pos="0,-350,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.33842403620443656" defaultValue="2"/>
+           <restingorientation0 val="-2.4990815955890033" defaultValue="0"/>
+           <restingoffset>
+            <x val="-0.12663139819203159" defaultValue="6"/>
+            <y val="0.53612481704534465" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.2260736562653532" defaultValue="2"/>
+           <restingorientation1 val="-52.162890227699549" defaultValue="0"/>
+           <length0 val="0.33842403620443656" defaultValue="2"/>
+           <orientation0 val="-2.4990815955890024" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-0.12663139819203159" defaultValue="6"/>
+            <y val="0.53612481704534465" defaultValue="0"/>
+           </offset>
+           <length1 val="0.22607365626535314" defaultValue="2"/>
+           <orientation1 val="-52.162890227699549" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_5" pos="0,-300,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="1.4370130794525493" defaultValue="2"/>
+           <restingorientation0 val="-52.162890227699549" defaultValue="0"/>
+           <restingoffset>
+            <x val="0.68638404373437378" defaultValue="6"/>
+            <y val="-2.6303065429666082" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.20487658949689375" defaultValue="2"/>
+           <restingorientation1 val="-67.451249408710794" defaultValue="0"/>
+           <length0 val="1.4370130794525493" defaultValue="2"/>
+           <orientation0 val="-52.162890227699549" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="0.68638404373437378" defaultValue="6"/>
+            <y val="-2.6303065429666082" defaultValue="0"/>
+           </offset>
+           <length1 val="0.20487658949689375" defaultValue="2"/>
+           <orientation1 val="-67.451249408710794" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_6" pos="0,-250,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="true"/>
+           <restlength0 val="0.20487658949689375" defaultValue="2"/>
+           <restingorientation0 val="-67.451249408710794" defaultValue="0"/>
+           <restingoffset>
+            <x val="1.034173056822443" defaultValue="6"/>
+            <y val="-3.6730904299592253" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.125" defaultValue="2"/>
+           <restingorientation1 val="0" defaultValue="0"/>
+           <length0 val="0.20487658949689375" defaultValue="2"/>
+           <orientation0 val="-67.451249408710794" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="1.034173056822443" defaultValue="6"/>
+            <y val="-3.6730904299592253" defaultValue="0"/>
+           </offset>
+           <length1 val="0.125" defaultValue="2"/>
+           <orientation1 val="0" defaultValue="0"/>
+          </attrs>
+         </module>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Offset"/>
+         <link out="Offset" in="Curve"/>
+         <link out="Curve" in="Curve_1"/>
+         <link out="Curve_1" in="Curve_2"/>
+         <link out="Curve_2" in="Curve_3"/>
+         <link out="Curve_3" in="Curve_4"/>
+         <link out="Curve_4" in="Curve_5"/>
+         <link out="Curve_5" in="Curve_6"/>
+         <link out="Curve_6" in="Multi-Port-Out"/>
+        </linkedlist>
+       </group>
+      </nodeslist>
+      <linkedlist>
+       <link out="Multi-Port-In" in="Transformation-Switch" inport="0"/>
+       <link out="Multi-Port-In" in="1"/>
+       <link out="Transformation-Switch" in="Multi-Port-Out"/>
+       <link out="1" in="Transformation-Switch" inport="1"/>
+      </linkedlist>
+     </group>
+     <group name="Deformation-Upper_Arm" pos="-831,-382,7">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-724,-492,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-724,-262,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="TransformationSwitch" name="Transformation-Switch" pos="-724,-392,0" publishUnderTab="Transformation-Switch">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <drawing>
+          <elementMode val="true"/>
+          <element col="ATV-0B104473E9C016A0">
+           <layer/>
+          </element>
+          <customName>
+           <name/>
+           <extension val="tga"/>
+           <fieldChart val="12" defaultValue="12"/>
+          </customName>
+         </drawing>
+         <transformationnames>
+          <size val="1"/>
+          <transformation1 val="1;" displayName="Transformation 1"/>
+         </transformationnames>
+        </attrs>
+        <inputPorts>
+         <port idx="0"/>
+         <port idx="1"/>
+        </inputPorts>
+       </module>
+       <group name="1" pos="-724,-442,0">
+        <options>
+         <collapsed val="false"/>
+         <subnodeCollapsed val="true"/>
+         <showsPublished val="true"/>
+        </options>
+        <attrs/>
+        <nodeslist>
+         <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
+          <options>
+           <collapsed val="false"/>
+           <version val="1"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
+          <options>
+           <collapsed val="false"/>
+           <version val="1"/>
+          </options>
+          <ports>
+           <port type="PEG" idx="0"/>
+          </ports>
+         </module>
+         <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <restingoffset>
+            <x val="-0.19071200750766104" defaultValue="1"/>
+            <y val="-0.47374850414704844" defaultValue="0"/>
+           </restingoffset>
+           <restingorientation val="-87.85332572535691" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-0.19071200750766104" defaultValue="1"/>
+            <y val="-0.47374850414704844" defaultValue="0"/>
+           </offset>
+           <orientation val="-87.85332572535691" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.80877101334663437" defaultValue="2"/>
+           <restingorientation0 val="-96.293405429431033" defaultValue="0"/>
+           <restingoffset>
+            <x val="-1.3137996159309417" defaultValue="6"/>
+            <y val="-0.35852403057108195" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.92672861545651208" defaultValue="2"/>
+           <restingorientation1 val="87.986898847931158" defaultValue="0"/>
+           <length0 val="0.80877101334663437" defaultValue="2"/>
+           <orientation0 val="-96.293405429431033" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-1.3137996159309417" defaultValue="6"/>
+            <y val="-0.35852403057108195" defaultValue="0"/>
+           </offset>
+           <length1 val="0.92672861545651208" defaultValue="2"/>
+           <orientation1 val="87.986898847931158" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_1" pos="0,-500,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.92672861545651208" defaultValue="2"/>
+           <restingorientation0 val="87.986898847931158" defaultValue="0"/>
+           <restingoffset>
+            <x val="-1.4296177796708986" defaultValue="6"/>
+            <y val="3.0161352899417633" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.10832462686255909" defaultValue="2"/>
+           <restingorientation1 val="91.286739826803512" defaultValue="0"/>
+           <length0 val="0.92672861545651208" defaultValue="2"/>
+           <orientation0 val="87.986898847931158" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-1.4296177796708986" defaultValue="6"/>
+            <y val="3.0161352899417633" defaultValue="0"/>
+           </offset>
+           <length1 val="0.10832462686255909" defaultValue="2"/>
+           <orientation1 val="91.286739826803512" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_2" pos="0,-450,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.99535799007187387" defaultValue="2"/>
+           <restingorientation0 val="91.286739826803512" defaultValue="0"/>
+           <restingoffset>
+            <x val="-0.53040771509528317" defaultValue="6"/>
+            <y val="6.9293262571479453" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.83729898011214976" defaultValue="2"/>
+           <restingorientation1 val="44.999696694956825" defaultValue="0"/>
+           <length0 val="0.99535799007187387" defaultValue="2"/>
+           <orientation0 val="91.286739826803512" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-0.53040771509528317" defaultValue="6"/>
+            <y val="6.9293262571479453" defaultValue="0"/>
+           </offset>
+           <length1 val="0.83729898011214976" defaultValue="2"/>
+           <orientation1 val="44.999696694956825" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_3" pos="0,-400,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="1.3099553880719619" defaultValue="2"/>
+           <restingorientation0 val="44.999696694956825" defaultValue="0"/>
+           <restingoffset>
+            <x val="1.0989624964374889" defaultValue="6"/>
+            <y val="6.2473902471955354" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.7931896582351422" defaultValue="2"/>
+           <restingorientation1 val="-78.055436368046927" defaultValue="0"/>
+           <length0 val="1.3099553880719619" defaultValue="2"/>
+           <orientation0 val="44.999696694956825" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="1.0989624964374889" defaultValue="6"/>
+            <y val="6.2473902471955354" defaultValue="0"/>
+           </offset>
+           <length1 val="0.7931896582351422" defaultValue="2"/>
+           <orientation1 val="-78.055436368046927" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_4" pos="0,-350,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="false"/>
+           <restlength0 val="0.30268893928737001" defaultValue="2"/>
+           <restingorientation0 val="-78.055436368046927" defaultValue="0"/>
+           <restingoffset>
+            <x val="0.37580163214745232" defaultValue="6"/>
+            <y val="2.2167292946916026" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="2.027062294408966" defaultValue="2"/>
+           <restingorientation1 val="-106.47733324349562" defaultValue="0"/>
+           <length0 val="0.30268893928737001" defaultValue="2"/>
+           <orientation0 val="-78.055436368046927" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="0.37580163214745232" defaultValue="6"/>
+            <y val="2.2167292946916026" defaultValue="0"/>
+           </offset>
+           <length1 val="2.027062294408966" defaultValue="2"/>
+           <orientation1 val="-106.47733324349562" defaultValue="0"/>
+          </attrs>
+         </module>
+         <module type="CurveModule" name="Curve_5" pos="0,-300,0" publishUnderTab="Curve">
+          <shapedROI>
+           <pt pointOn="-5,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOff="-2,-5"/>
+           <pt pointOn="5,-5"/>
+           <pt pointOff="5,-2"/>
+           <pt pointOff="5,2"/>
+           <pt pointOn="5,5"/>
+           <pt pointOff="2,5"/>
+           <pt pointOff="-2,5"/>
+           <pt pointOn="-5,5"/>
+           <pt pointOff="-5,2"/>
+           <pt pointOff="-5,-2"/>
+           <pt pointOn="-5,-5"/>
+          </shapedROI>
+          <options>
+           <collapsed val="false"/>
+           <version val="2"/>
+          </options>
+          <attrs>
+           <localreferential val="false"/>
+           <influencetype val="INFINITE_INFLUENCE"/>
+           <influencefade val="0.5" defaultValue="0.5"/>
+           <symmetric val="true"/>
+           <transversalradius val="2" defaultValue="1"/>
+           <transversalradiusright val="2" defaultValue="1"/>
+           <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+           <longitudinalradius val="0.25" defaultValue="1"/>
+           <closepath val="true"/>
+           <restlength0 val="1.8972074250802731" defaultValue="2"/>
+           <restingorientation0 val="-106.47733324349562" defaultValue="0"/>
+           <restingoffset>
+            <x val="-0.1919094209757253" defaultValue="6"/>
+            <y val="-0.42043920090804648" defaultValue="0"/>
+           </restingoffset>
+           <restlength1 val="0.20864063575075634" defaultValue="2"/>
+           <restingorientation1 val="-102.34596817366152" defaultValue="0"/>
+           <length0 val="1.8972074250802731" defaultValue="2"/>
+           <orientation0 val="-106.47733324349562" defaultValue="0"/>
+           <offset>
+            <separate val="true"/>
+            <x val="-0.1919094209757253" defaultValue="6"/>
+            <y val="-0.42043920090804648" defaultValue="0"/>
+           </offset>
+           <length1 val="0.20864063575075634" defaultValue="2"/>
+           <orientation1 val="-102.34596817366152" defaultValue="0"/>
+          </attrs>
+         </module>
+        </nodeslist>
+        <linkedlist>
+         <link out="Multi-Port-In" in="Offset"/>
+         <link out="Offset" in="Curve"/>
+         <link out="Curve" in="Curve_1"/>
+         <link out="Curve_1" in="Curve_2"/>
+         <link out="Curve_2" in="Curve_3"/>
+         <link out="Curve_3" in="Curve_4"/>
+         <link out="Curve_4" in="Curve_5"/>
+         <link out="Curve_5" in="Multi-Port-Out"/>
+        </linkedlist>
+       </group>
+      </nodeslist>
+      <linkedlist>
+       <link out="Multi-Port-In" in="Transformation-Switch" inport="0"/>
+       <link out="Multi-Port-In" in="1"/>
+       <link out="Transformation-Switch" in="Multi-Port-Out"/>
+       <link out="1" in="Transformation-Switch" inport="1"/>
+      </linkedlist>
+     </group>
+     <group name="Deformation-Sleeve" pos="-1439,-249,14">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <restingoffset>
+          <x val="0.8232929439219876" defaultValue="1"/>
+          <y val="3.7955176536846995" defaultValue="0"/>
+         </restingoffset>
+         <restingorientation val="-98.130102354155923" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0.8232929439219876" defaultValue="1"/>
+          <y val="3.7955176536846995" defaultValue="0"/>
+         </offset>
+         <orientation val="-98.130102354155923" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.37712271131901615" defaultValue="2"/>
+         <restingorientation0 val="-98.130102354155923" defaultValue="0"/>
+         <restingoffset>
+          <x val="-1.56336799337055" defaultValue="6"/>
+          <y val="4.8088485544346034" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="0.53349869325936627" defaultValue="2"/>
+         <restingorientation1 val="91.432096184164735" defaultValue="0"/>
+         <length0 val="0.37712271131901615" defaultValue="2"/>
+         <orientation0 val="-98.130102354155923" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-1.56336799337055" defaultValue="6"/>
+          <y val="4.8088485544346034" defaultValue="0"/>
+         </offset>
+         <length1 val="0.53349869325936627" defaultValue="2"/>
+         <orientation1 val="91.432096184164735" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve_1" pos="0,-500,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.4866198342532787" defaultValue="2"/>
+         <restingorientation0 val="91.432096184164735" defaultValue="0"/>
+         <restingoffset>
+          <x val="0.51662701343188522" defaultValue="6"/>
+          <y val="8.1155072831974486" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="1.3508812410169038" defaultValue="2"/>
+         <restingorientation1 val="-22.582530605248895" defaultValue="0"/>
+         <length0 val="0.4866198342532787" defaultValue="2"/>
+         <orientation0 val="91.432096184164735" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0.51662701343188522" defaultValue="6"/>
+          <y val="8.1155072831974486" defaultValue="0"/>
+         </offset>
+         <length1 val="1.3508812410169038" defaultValue="2"/>
+         <orientation1 val="-22.582530605248891" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve_2" pos="0,-450,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="true"/>
+         <restlength0 val="1.5740136496265751" defaultValue="2"/>
+         <restingorientation0 val="-22.582530605248895" defaultValue="0"/>
+         <restingoffset>
+          <x val="0.86329284789895744" defaultValue="6"/>
+          <y val="3.7777399185838241" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="0.125" defaultValue="2"/>
+         <restingorientation1 val="0" defaultValue="0"/>
+         <length0 val="1.5740136496265751" defaultValue="2"/>
+         <orientation0 val="-22.582530605248891" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0.86329284789895744" defaultValue="6"/>
+          <y val="3.7777399185838241" defaultValue="0"/>
+         </offset>
+         <length1 val="0.125" defaultValue="2"/>
+         <orientation1 val="0" defaultValue="0"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="Multi-Port-In" in="Offset"/>
+       <link out="Offset" in="Curve"/>
+       <link out="Curve" in="Curve_1"/>
+       <link out="Curve_1" in="Curve_2"/>
+       <link out="Curve_2" in="Multi-Port-Out"/>
+      </linkedlist>
+     </group>
+     <module type="READ" name="Eye" pos="-1982,28,1" publishUnderTab="Eye">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0B11C79A8723307F">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -1358,12 +2738,11 @@
      <link out="Hand" in="Colour-Art"/>
      <link out="Hand" in="Auto-Patch"/>
      <link out="Arm_Comp" in="Arm_Rig_Master_Comp"/>
-     <link out="Upper_Arm-P" in="Forarm-P"/>
-     <link out="Upper_Arm-P" in="Upper_Arm" inport="0"/>
-     <link out="Forarm-P" in="Hand-P"/>
-     <link out="Forarm-P" in="Forarm" inport="0"/>
+     <link out="Upper_Arm-P" in="Deformation-Upper_Arm"/>
+     <link out="Forarm-P" in="Deformation-Forarm"/>
      <link out="Hand-P" in="Hand" inport="0"/>
-     <link out="Arm_Master_P" in="Upper_Arm-P"/>
+     <link out="Arm_Master_P" in="Upper_Arm_Master_P"/>
+     <link out="Arm_Master_P" in="Sleeve-P"/>
      <link out="Overlay-Layer_1" in="Arm_Comp" inport="5"/>
      <link out="Line-Art_1" in="Cutter_2" inport="0"/>
      <link out="Colour-Art_1" in="Arm_Comp" inport="3"/>
@@ -1383,8 +2762,38 @@
      <link out="Arm_Ref" in="Composite" inport="1"/>
      <link out="Sleeve" in="Arm_Comp" inport="9"/>
      <link out="Notes" in="Composite" inport="2"/>
-     <link out="Sleeve-P" in="Sleeve" inport="0"/>
+     <link out="Sleeve-P" in="Deformation-Sleeve"/>
+     <link out="Hand_Master_P" in="Hand-P"/>
+     <link out="Foram_Master_P" in="Forarm-P"/>
+     <link out="Foram_Master_P" in="Hand_Master_P"/>
+     <link out="Upper_Arm_Master_P" in="Upper_Arm-P"/>
+     <link out="Upper_Arm_Master_P" in="Foram_Master_P"/>
+     <link out="Deformation-Forarm" in="Forarm" inport="0"/>
+     <link out="Deformation-Upper_Arm" in="Upper_Arm" inport="0"/>
+     <link out="Deformation-Sleeve" in="Sleeve" inport="0"/>
     </linkedlist>
+    <backdrops>
+     <backdrop topLeft="-1072,-505" bottomRight="-457,-72">
+      <background color="#077F04FF"/>
+      <title text="Upper Arm " color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="-1472,-480" bottomRight="-1264,-88">
+      <background color="#023CBEFF"/>
+      <title text="Sleeve      " color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="-272,-697" bottomRight="345,-45">
+      <background color="#6C0E9CFF"/>
+      <title text="Forarm" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="474,-564" bottomRight="1043,-93">
+      <background color="#E30FA0FF"/>
+      <title text="Hand" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+    </backdrops>
     <waypoints>
      <waypoint nameId="waypoint" location="-657,57"/>
      <waypoint nameId="waypoint_1" location="-842,149"/>
