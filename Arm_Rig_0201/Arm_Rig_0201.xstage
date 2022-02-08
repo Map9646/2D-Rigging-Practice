@@ -1419,7 +1419,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Foram_Master_P" pos="-35,-605,11" publishUnderTab="Forarm-P-P">
+     <module type="PEG" name="Foram_Master_P" pos="-35,-605,1" publishUnderTab="Forarm-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2621,7 +2621,7 @@
        <link out="Curve_2" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="READ" name="Eye" pos="-1843,21,7" publishUnderTab="Eye">
+     <module type="READ" name="Eye" pos="-1843,21,8" publishUnderTab="Eye">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2733,7 +2733,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Eye_Composite" pos="-1914,236,1" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Eye_Composite" pos="-1914,236,3" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2752,7 +2752,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Pupil" pos="-1972,21,6" publishUnderTab="Pupil">
+     <module type="READ" name="Pupil" pos="-1972,21,7" publishUnderTab="Pupil">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2864,7 +2864,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_3" pos="-1902,120,10" publishUnderTab="Line-Art_3">
+     <module type="LINE_ART" name="Line-Art_3" pos="-1902,120,11" publishUnderTab="Line-Art_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2876,7 +2876,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_3" pos="-1785,120,8" publishUnderTab="Colour-Art_3">
+     <module type="COLOR_ART" name="Colour-Art_3" pos="-1785,120,9" publishUnderTab="Colour-Art_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2888,7 +2888,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_4" pos="-1968,155,9" publishUnderTab="Cutter_4">
+     <module type="CUTTER" name="Cutter_4" pos="-1968,155,10" publishUnderTab="Cutter_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2897,7 +2897,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Eye-P" pos="-1827,-79,4" publishUnderTab="Eye-P">
+     <module type="PEG" name="Eye-P" pos="-1827,-79,5" publishUnderTab="Eye-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2959,7 +2959,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Pupil-P" pos="-1958,-75,3" publishUnderTab="Pupil-P">
+     <module type="PEG" name="Pupil-P" pos="-1958,-75,4" publishUnderTab="Pupil-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3021,7 +3021,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Eye_Master_P" pos="-1848,-209,5" publishUnderTab="Eye-P-P">
+     <module type="PEG" name="Eye_Master_P" pos="-1848,-209,6" publishUnderTab="Eye-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
