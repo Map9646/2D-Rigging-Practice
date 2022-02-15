@@ -1,2 +1,35 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Glindale_Rig_0210" Modified="2022-02-10 14:34:21" ID="1"/>
+<SceneVersion VersionName="Glindale_Rig_0210" Modified="2022-02-15 11:46:39" ID="1">
+ <Element Name="Head" ID="1" Folder="Head"/>
+ <Element Name="Eye_Left" ID="2" Folder="Eye_Left"/>
+ <Element Name="Pupil_Left" ID="3" Folder="Pupil_Left"/>
+ <Element Name="Ear_Left" ID="4" Folder="Ear_Left"/>
+ <Element Name="Nose" ID="5" Folder="Nose"/>
+ <Element Name="Top_Lip" ID="6" Folder="Top_Lip"/>
+ <Element Name="Bottom_Lip" ID="7" Folder="Bottom_Lip"/>
+ <Element Name="Teeth" ID="8" Folder="Teeth"/>
+ <Element Name="Tongue" ID="9" Folder="Tongue"/>
+ <Element Name="Upperarm_Left" ID="10" Folder="Upperarm_Left"/>
+ <Element Name="Forearm_Left" ID="11" Folder="Forearm_Left"/>
+ <Element Name="Hand_Left" ID="12" Folder="Hand_Left"/>
+ <Element Name="Torso" ID="13" Folder="Torso"/>
+ <Element Name="Neck" ID="14" Folder="Neck"/>
+ <Element Name="Collar" ID="15" Folder="Collar"/>
+ <Element Name="Skirt" ID="16" Folder="Skirt"/>
+ <Element Name="UpperLeg_Left" ID="17" Folder="UpperLeg_Left"/>
+ <Element Name="LowerLeg_Left" ID="18" Folder="LowerLeg_Left"/>
+ <Element Name="Glasses" ID="19" Folder="Glasses"/>
+ <Element Name="Front_Shoe_Left" ID="20" Folder="Front_Shoe_Left"/>
+ <Element Name="Back_Shoe_Left" ID="21" Folder="Back_Shoe_Left"/>
+ <Element Name="Hair_Piece_1" ID="22" Folder="Hair_Piece_1"/>
+ <Element Name="Hair_Piece_2" ID="23" Folder="Hair_Piece_2"/>
+ <Element Name="Hair_Piece_3" ID="24" Folder="Hair_Piece_3"/>
+ <Element Name="Hair_Piece_4" ID="25" Folder="Hair_Piece_4"/>
+ <Element Name="Hair_Piece_5" ID="26" Folder="Hair_Piece_5"/>
+ <Element Name="Hair_Piece_6" ID="27" Folder="Hair_Piece_6"/>
+ <Element Name="Sleeve_Left" ID="28" Folder="Sleeve_Left"/>
+ <Element Name="notes" ID="29" Folder="notes">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Rough_Sketches" ID="30" Folder="Rough_Sketches"/>
+</SceneVersion>
