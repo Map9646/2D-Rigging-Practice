@@ -30,4 +30,6 @@
  <element id="28" elementName="Sleeve_Left" elementFolder="Sleeve_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="29" elementName="notes" elementFolder="notes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="30" elementName="Rough_Sketches" elementFolder="Rough_Sketches" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="31" elementName="GLN_Rig_Breakdown_0210" elementFolder="GLN_Rig_Breakdown_0210" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="32" elementName="20220208_Glinda_Turnaround" elementFolder="20220208_Glinda_Turnaround" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
 </elements>

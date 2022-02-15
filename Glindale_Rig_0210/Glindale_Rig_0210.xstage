@@ -34,7 +34,21 @@
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="30" elementName="Rough_Sketches" elementFolder="Rough_Sketches" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="30" elementName="Rough_Sketches" elementFolder="Rough_Sketches" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="31" elementName="GLN_Rig_Breakdown_0210" elementFolder="GLN_Rig_Breakdown_0210" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="32" elementName="20220208_Glinda_Turnaround" elementFolder="20220208_Glinda_Turnaround" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -84,7 +98,15 @@
     <column type="0" name="ATV-0B13C894C640CFCC" displayOrder="0" width="100" anonymous="true" id="29">
      <elementSeq exposures="1" val="1" id="29"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640D04E" displayOrder="0" width="100" anonymous="true" id="30"/>
+    <column type="0" name="ATV-0B13C894C640D04E" display="false" displayOrder="0" width="100" anonymous="true" id="30">
+     <elementSeq exposures="1" val="1" id="30"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C641D602" display="false" displayOrder="0" width="100" anonymous="true" id="31">
+     <elementSeq exposures="1-60" val="1" id="31"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C641D98B" displayOrder="0" width="100" anonymous="true" id="32">
+     <elementSeq exposures="1-60" val="1" id="32"/>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -94,7 +116,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-204,1039,5" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-204,1039,17" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -113,13 +135,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-154,1089,46" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-154,1089,50" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-254,1089,47" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-254,1089,51" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -152,7 +174,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_CARD" name="Colour-Card" pos="-184,950,3" publishUnderTab="Colour-Card">
+     <module type="COLOR_CARD" name="Colour-Card" pos="-172,903,8" publishUnderTab="Colour-Card">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -169,7 +191,7 @@
        </color>
       </attrs>
      </module>
-     <module type="READ" name="Head" pos="-970,-1674,37" publishUnderTab="Head">
+     <module type="READ" name="Head" pos="-970,-1674,1" publishUnderTab="Head">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -281,7 +303,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Eye_Left" pos="-1947,-1181,12" publishUnderTab="Eye_Left">
+     <module type="READ" name="Eye_Left" pos="-1947,-1181,23" publishUnderTab="Eye_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -393,7 +415,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Pupil_Left" pos="-1808,-1181,41" publishUnderTab="Pupil_Left">
+     <module type="READ" name="Pupil_Left" pos="-1808,-1181,45" publishUnderTab="Pupil_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -505,7 +527,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Ear_Left" pos="-160,-1150,39" publishUnderTab="Ear_Left">
+     <module type="READ" name="Ear_Left" pos="-160,-1150,43" publishUnderTab="Ear_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -617,7 +639,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Nose" pos="-501,-1305,40" publishUnderTab="Nose">
+     <module type="READ" name="Nose" pos="-501,-1305,44" publishUnderTab="Nose">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -729,7 +751,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Top_Lip" pos="-1474,-1445,30" publishUnderTab="Top_Lip">
+     <module type="READ" name="Top_Lip" pos="-1474,-1445,35" publishUnderTab="Top_Lip">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -841,7 +863,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bottom_Lip" pos="-1294,-1283,42" publishUnderTab="Bottom_Lip">
+     <module type="READ" name="Bottom_Lip" pos="-1294,-1283,46" publishUnderTab="Bottom_Lip">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -953,7 +975,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Teeth" pos="-1410,-1399,43" publishUnderTab="Teeth">
+     <module type="READ" name="Teeth" pos="-1410,-1399,47" publishUnderTab="Teeth">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1065,7 +1087,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Tongue" pos="-1358,-1340,29" publishUnderTab="Tongue">
+     <module type="READ" name="Tongue" pos="-1358,-1340,34" publishUnderTab="Tongue">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1177,7 +1199,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Upperarm_Left" pos="871,-1005,32" publishUnderTab="Upperarm_Left">
+     <module type="READ" name="Upperarm_Left" pos="871,-1005,37" publishUnderTab="Upperarm_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1289,7 +1311,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Forearm_Left" pos="945,-912,31" publishUnderTab="Forearm_Left">
+     <module type="READ" name="Forearm_Left" pos="945,-912,36" publishUnderTab="Forearm_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1401,7 +1423,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hand_Left" pos="1041,-824,45" publishUnderTab="Hand_Left">
+     <module type="READ" name="Hand_Left" pos="1041,-824,49" publishUnderTab="Hand_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1513,7 +1535,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Torso" pos="1473,-704,33" publishUnderTab="Torso">
+     <module type="READ" name="Torso" pos="1473,-704,38" publishUnderTab="Torso">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1625,7 +1647,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Neck" pos="-823,-1506,35" publishUnderTab="Neck">
+     <module type="READ" name="Neck" pos="-823,-1506,40" publishUnderTab="Neck">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1737,7 +1759,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Collar" pos="-900,-1591,36" publishUnderTab="Collar">
+     <module type="READ" name="Collar" pos="-900,-1591,41" publishUnderTab="Collar">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1849,7 +1871,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Skirt" pos="1987,-370,27" publishUnderTab="Skirt">
+     <module type="READ" name="Skirt" pos="1987,-370,32" publishUnderTab="Skirt">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1961,7 +1983,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="UpperLeg_Left" pos="2017,575,28" publishUnderTab="UpperLeg_Left">
+     <module type="READ" name="UpperLeg_Left" pos="1897,659,33" publishUnderTab="UpperLeg_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2073,7 +2095,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="LowerLeg_Left" pos="2104,635,44" publishUnderTab="LowerLeg_Left">
+     <module type="READ" name="LowerLeg_Left" pos="1984,719,48" publishUnderTab="LowerLeg_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2185,7 +2207,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Glasses" pos="-2544,-989,38" publishUnderTab="Glasses">
+     <module type="READ" name="Glasses" pos="-2544,-989,42" publishUnderTab="Glasses">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2297,7 +2319,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Front_Shoe_Left" pos="2073,37,25" publishUnderTab="Front_Show_Left">
+     <module type="READ" name="Front_Shoe_Left" pos="1968,37,30" publishUnderTab="Front_Show_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2409,7 +2431,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Back_Shoe_Left" pos="2249,37,26" publishUnderTab="Back_Show_Left">
+     <module type="READ" name="Back_Shoe_Left" pos="2144,37,31" publishUnderTab="Back_Show_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2521,7 +2543,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Piece_1" pos="-2807,-253,22" publishUnderTab="Hair_Piece_1">
+     <module type="READ" name="Hair_Piece_1" pos="-2807,-253,27" publishUnderTab="Hair_Piece_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2633,7 +2655,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Piece_2" pos="-2750,-199,21" publishUnderTab="Hair_Piece_2">
+     <module type="READ" name="Hair_Piece_2" pos="-2750,-199,26" publishUnderTab="Hair_Piece_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2745,7 +2767,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Piece_3" pos="-2684,-137,20" publishUnderTab="Hair_Piece_3">
+     <module type="READ" name="Hair_Piece_3" pos="-2684,-137,25" publishUnderTab="Hair_Piece_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2857,7 +2879,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Piece_4" pos="-2624,-81,19" publishUnderTab="Hair_Piece_4">
+     <module type="READ" name="Hair_Piece_4" pos="-2624,-81,24" publishUnderTab="Hair_Piece_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2969,7 +2991,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Piece_5" pos="-2566,-27,24" publishUnderTab="Hair_Piece_5">
+     <module type="READ" name="Hair_Piece_5" pos="-2566,-27,29" publishUnderTab="Hair_Piece_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3081,7 +3103,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Piece_6" pos="-2507,33,23" publishUnderTab="Hair_Piece_6">
+     <module type="READ" name="Hair_Piece_6" pos="-2507,33,28" publishUnderTab="Hair_Piece_6">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3193,7 +3215,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sleeve_Left" pos="1527,-651,34" publishUnderTab="Sleeve_Left">
+     <module type="READ" name="Sleeve_Left" pos="1527,-651,39" publishUnderTab="Sleeve_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3305,7 +3327,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_1" pos="-2652,199,7" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Hair_Master_Comp_" pos="-2669,199,15" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3324,7 +3346,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_2" pos="-2543,-841,13" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2569,-841,14" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3343,7 +3365,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_3" pos="-1879,-1060,11" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="-1898,-1060,22" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3362,7 +3384,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_4" pos="-904,-1381,6" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-924,-1381,7" publishUnderTab="Composite_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3381,7 +3403,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_5" pos="-503,-1189,9" publishUnderTab="Composite_5">
+     <module type="COMPOSITE" name="Nose_Master_Comp_" pos="-523,-1189,20" publishUnderTab="Composite_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3400,7 +3422,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_6" pos="-157,-1025,8" publishUnderTab="Composite_6">
+     <module type="COMPOSITE" name="Ear_Master_Comp_" pos="-173,-1025,19" publishUnderTab="Composite_6">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3419,7 +3441,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_7" pos="-1391,-1140,10" publishUnderTab="Composite_7">
+     <module type="COMPOSITE" name="Lips_Master_Compc" pos="-1407,-1140,21" publishUnderTab="Composite_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3438,7 +3460,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_8" pos="952,-724,18" publishUnderTab="Composite_8">
+     <module type="COMPOSITE" name="Arms_Master_Comp_" pos="932,-724,13" publishUnderTab="Composite_8">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3457,7 +3479,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_9" pos="1506,-551,17" publishUnderTab="Composite_9">
+     <module type="COMPOSITE" name="Body_Master_Comp_" pos="1299,-220,6" publishUnderTab="Composite_9">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3476,7 +3498,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_10" pos="1987,-270,16" publishUnderTab="Composite_10">
+     <module type="COMPOSITE" name="Skirt_Master_Comp_" pos="1567,-64,12" publishUnderTab="Composite_10">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3495,7 +3517,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_11" pos="2161,137,15" publishUnderTab="Composite_11">
+     <module type="COMPOSITE" name="Shoes_Master_Comp_" pos="1793,312,11" publishUnderTab="Composite_11">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3514,7 +3536,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_12" pos="2060,735,14" publishUnderTab="Composite_12">
+     <module type="COMPOSITE" name="Legs_Master_Comp" pos="1940,968,5" publishUnderTab="Composite_12">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3533,7 +3555,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Notes" pos="8,1039,1" publishUnderTab="notes">
+     <module type="READ" name="Notes" pos="27,923,18" publishUnderTab="notes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3645,8 +3667,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rough_Sketches" pos="-69,970,4" publishUnderTab="Rough_Sketches">
+     <module type="READ" name="Rough_Sketches" pos="-81,864,3" publishUnderTab="Rough_Sketches">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3757,71 +3780,331 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="READ" name="GLN_Rig_Breakdown_0210" pos="137,977,9" publishUnderTab="GLN_Rig_Breakdown_0210">
+      <options>
+       <disabled val="true"/>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0B13C894C641D602">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace/>
+       <applyMatteToColor val="W"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIT"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="20220208_Glinda_Turnaround" pos="78,1039,4" publishUnderTab="20220208_Glinda_Turnaround">
+      <options>
+       <showTimelineThumb val="true"/>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0B13C894C641D98B">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace/>
+       <applyMatteToColor val="W"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIT"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-950,-513,16" publishUnderTab="Composite_13">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <compositeMode val="compositePassthrough"/>
+       <flattenOutput val="false"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="GLN_Master_Comp" pos="-446,468,10" publishUnderTab="Composite_14">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <compositeMode val="compositePassthrough"/>
+       <flattenOutput val="false"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Colour-Card" in="Composite" inport="2"/>
-     <link out="Head" in="Composite_4" inport="2"/>
-     <link out="Eye_Left" in="Composite_3" inport="1"/>
-     <link out="Pupil_Left" in="Composite_3" inport="0"/>
-     <link out="Ear_Left" in="Composite_6"/>
-     <link out="Nose" in="Composite_5"/>
-     <link out="Top_Lip" in="Composite_7" inport="3"/>
-     <link out="Bottom_Lip" in="Composite_7" inport="0"/>
-     <link out="Teeth" in="Composite_7" inport="2"/>
-     <link out="Tongue" in="Composite_7" inport="1"/>
-     <link out="Upperarm_Left" in="Composite_8" inport="2"/>
-     <link out="Forearm_Left" in="Composite_8" inport="1"/>
-     <link out="Hand_Left" in="Composite_8" inport="0"/>
-     <link out="Torso" in="Composite_9" inport="1"/>
-     <link out="Neck" in="Composite_4" inport="0"/>
-     <link out="Collar" in="Composite_4" inport="1"/>
-     <link out="Skirt" in="Composite_10"/>
-     <link out="UpperLeg_Left" in="Composite_12" inport="1"/>
-     <link out="LowerLeg_Left" in="Composite_12" inport="0"/>
-     <link out="Glasses" in="Composite_2"/>
-     <link out="Front_Shoe_Left" in="Composite_11" inport="1"/>
-     <link out="Back_Shoe_Left" in="Composite_11" inport="0"/>
-     <link out="Hair_Piece_1" in="Composite_1" inport="5"/>
-     <link out="Hair_Piece_2" in="Composite_1" inport="4"/>
-     <link out="Hair_Piece_3" in="Composite_1" inport="3"/>
-     <link out="Hair_Piece_4" in="Composite_1" inport="2"/>
-     <link out="Hair_Piece_5" in="Composite_1" inport="1"/>
-     <link out="Hair_Piece_6" in="Composite_1" inport="0"/>
-     <link out="Sleeve_Left" in="Composite_9" inport="0"/>
-     <link out="Notes" in="Composite" inport="0"/>
-     <link out="Rough_Sketches" in="Composite" inport="1"/>
+     <link out="Colour-Card" in="Composite" inport="4"/>
+     <link out="Head" in="Head_Master_Comp_" inport="2"/>
+     <link out="Eye_Left" in="Eyes_Master_Comp_" inport="1"/>
+     <link out="Pupil_Left" in="Eyes_Master_Comp_" inport="0"/>
+     <link out="Ear_Left" in="Ear_Master_Comp_"/>
+     <link out="Nose" in="Nose_Master_Comp_"/>
+     <link out="Top_Lip" in="Lips_Master_Compc" inport="3"/>
+     <link out="Bottom_Lip" in="Lips_Master_Compc" inport="0"/>
+     <link out="Teeth" in="Lips_Master_Compc" inport="2"/>
+     <link out="Tongue" in="Lips_Master_Compc" inport="1"/>
+     <link out="Upperarm_Left" in="Arms_Master_Comp_" inport="2"/>
+     <link out="Forearm_Left" in="Arms_Master_Comp_" inport="1"/>
+     <link out="Hand_Left" in="Arms_Master_Comp_" inport="0"/>
+     <link out="Torso" in="Body_Master_Comp_" inport="1"/>
+     <link out="Neck" in="Head_Master_Comp_" inport="0"/>
+     <link out="Collar" in="Head_Master_Comp_" inport="1"/>
+     <link out="Skirt" in="Skirt_Master_Comp_"/>
+     <link out="UpperLeg_Left" in="Legs_Master_Comp" inport="1"/>
+     <link out="LowerLeg_Left" in="Legs_Master_Comp" inport="0"/>
+     <link out="Glasses" in="Glasses_Master_Comp_"/>
+     <link out="Front_Shoe_Left" in="Shoes_Master_Comp_" inport="1"/>
+     <link out="Back_Shoe_Left" in="Shoes_Master_Comp_" inport="0"/>
+     <link out="Hair_Piece_1" in="Hair_Master_Comp_" inport="5"/>
+     <link out="Hair_Piece_2" in="Hair_Master_Comp_" inport="4"/>
+     <link out="Hair_Piece_3" in="Hair_Master_Comp_" inport="3"/>
+     <link out="Hair_Piece_4" in="Hair_Master_Comp_" inport="2"/>
+     <link out="Hair_Piece_5" in="Hair_Master_Comp_" inport="1"/>
+     <link out="Hair_Piece_6" in="Hair_Master_Comp_" inport="0"/>
+     <link out="Sleeve_Left" in="Body_Master_Comp_" inport="0"/>
+     <link out="Hair_Master_Comp_" in="GLN_Master_Comp" inport="7"/>
+     <link out="Glasses_Master_Comp_" in="GLN_Master_Comp" inport="6"/>
+     <link out="Eyes_Master_Comp_" in="Face_Master_Comp_" inport="4"/>
+     <link out="Head_Master_Comp_" in="Face_Master_Comp_" inport="2"/>
+     <link out="Nose_Master_Comp_" in="Face_Master_Comp_" inport="1"/>
+     <link out="Ear_Master_Comp_" in="Face_Master_Comp_" inport="0"/>
+     <link out="Lips_Master_Compc" in="Face_Master_Comp_" inport="3"/>
+     <link out="Arms_Master_Comp_" in="GLN_Master_Comp" inport="4"/>
+     <link out="Body_Master_Comp_" in="GLN_Master_Comp" inport="3"/>
+     <link out="Skirt_Master_Comp_" in="GLN_Master_Comp" inport="2"/>
+     <link out="Shoes_Master_Comp_" in="GLN_Master_Comp" inport="1"/>
+     <link out="Legs_Master_Comp" in="GLN_Master_Comp" inport="0"/>
+     <link out="Notes" in="Composite" inport="2"/>
+     <link out="Rough_Sketches" in="Composite" inport="3"/>
+     <link out="GLN_Rig_Breakdown_0210" in="Composite" inport="1"/>
+     <link out="20220208_Glinda_Turnaround" in="Composite" inport="0"/>
+     <link out="Face_Master_Comp_" in="GLN_Master_Comp" inport="5"/>
+     <link out="GLN_Master_Comp" in="Composite" inport="5"/>
     </linkedlist>
     <backdrops>
-     <backdrop topLeft="-1020,-1749" bottomRight="-674,-1456">
-      <background color="#C11717FF"/>
-      <title text="Head/Neck" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="1967,500" bottomRight="2301,685">
-      <background color="#81C615FF"/>
-      <title text="Legs" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="2023,-38" bottomRight="2452,87">
+     <backdrop topLeft="1918,-38" bottomRight="2347,87">
       <background color="#077F04FF"/>
       <title text="Shoes" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
-     <backdrop topLeft="1937,-445" bottomRight="2134,-320">
-      <background color="#E30FA0FF"/>
-      <title text="Skirt" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="1423,-779" bottomRight="1710,-601">
-      <background color="#6C0E9CFF"/>
-      <title text="Torso " color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="821,-1080" bottomRight="1217,-774">
-      <background color="#023CBEFF"/>
-      <title text="Arms" color="#000000FF" size="12" font="Arial"/>
+     <backdrop topLeft="1847,584" bottomRight="2181,769">
+      <background color="#81C615FF"/>
+      <title text="Legs" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="-556,-1380" bottomRight="-356,-1255">
@@ -3839,6 +4122,11 @@
       <title text="Eyes/Pupils" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
+     <backdrop topLeft="-1020,-1749" bottomRight="-674,-1456">
+      <background color="#C11717FF"/>
+      <title text="Head/Neck" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
      <backdrop topLeft="-1524,-1520" bottomRight="-1115,-1233">
       <background color="#C11717FF"/>
       <title text="Lips " color="#000000FF" size="12" font="Arial"/>
@@ -3847,6 +4135,21 @@
      <backdrop topLeft="-2047,-1935" bottomRight="169,-747">
       <background color="#DCAA32FF"/>
       <title text="Face" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="1937,-445" bottomRight="2134,-320">
+      <background color="#E30FA0FF"/>
+      <title text="Skirt" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="1423,-779" bottomRight="1710,-601">
+      <background color="#6C0E9CFF"/>
+      <title text="Torso " color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="821,-1080" bottomRight="1217,-774">
+      <background color="#023CBEFF"/>
+      <title text="Arms" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="-2594,-1064" bottomRight="-2382,-939">
