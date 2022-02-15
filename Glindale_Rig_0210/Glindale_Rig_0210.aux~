@@ -1,13 +1,15 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Glindale_Rig_0210" Modified="2022-02-15 14:15:03" ID="1">
- <Element Name="Head" ID="1" Folder="Head"/>
+<SceneVersion VersionName="Glindale_Rig_0210" Modified="2022-02-15 15:03:30" ID="1">
+ <Element Name="Head" ID="1" Folder="Head">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Eye_Left" ID="2" Folder="Eye_Left"/>
  <Element Name="Pupil_Left" ID="3" Folder="Pupil_Left"/>
  <Element Name="Ear_Left" ID="4" Folder="Ear_Left"/>
  <Element Name="Nose" ID="5" Folder="Nose"/>
  <Element Name="Top_Lip" ID="6" Folder="Top_Lip"/>
  <Element Name="Bottom_Lip" ID="7" Folder="Bottom_Lip"/>
- <Element Name="Teeth" ID="8" Folder="Teeth"/>
+ <Element Name="Teeth_Top" ID="8" Folder="Teeth_Top"/>
  <Element Name="Tongue" ID="9" Folder="Tongue"/>
  <Element Name="Upperarm_Left" ID="10" Folder="Upperarm_Left"/>
  <Element Name="Forearm_Left" ID="11" Folder="Forearm_Left"/>
@@ -40,4 +42,8 @@
  <Element Name="20220208_Glinda_Turnaround" ID="32" Folder="20220208_Glinda_Turnaround">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
+ <Element Name="Teeth_Down" ID="33" Folder="Teeth_Down"/>
+ <Element Name="Brow" ID="34" Folder="Brow"/>
+ <Element Name="Highlight" ID="35" Folder="Highlight"/>
+ <Element Name="Bridge" ID="36" Folder="Bridge"/>
 </SceneVersion>
