@@ -17,3 +17,5 @@ Solid    "Hair Dark"                0x0b13c894c64ff326 193 188 168 255
 Solid    "Lip Color"                0x0b13c894c64ff60d 140  53  34 255
 Solid    Glasses                    0x0b13c894c64ff888 182 232 221 255
 Solid    "Glasses Highlight"        0x0b13d46b2c50275e 214 255 246 255
+Solid    "Hair Outline"             0x0b1538cb53671379 177 170 147 255
+Solid    "Skirt Outline"            0x0b15498d4cf2a238  25  55  61 255
