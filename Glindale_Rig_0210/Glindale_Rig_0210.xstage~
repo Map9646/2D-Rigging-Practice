@@ -34,8 +34,16 @@
     <dwg name="3"/>
    </drawings>
   </element>
-  <element id="6" elementName="Top_Lip" elementFolder="Top_Lip" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="7" elementName="Bottom_Lip" elementFolder="Bottom_Lip" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="6" elementName="Top_Lip" elementFolder="Top_Lip" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="7" elementName="Bottom_Lip" elementFolder="Bottom_Lip" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
   <element id="8" elementName="Teeth_Top" elementFolder="Teeth_Top" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="9" elementName="Tongue" elementFolder="Tongue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="10" elementName="Upperarm_Left" elementFolder="Upperarm_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -68,12 +76,36 @@
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="16" elementName="Skirt" elementFolder="Skirt" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="17" elementName="UpperLeg_Left" elementFolder="UpperLeg_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="18" elementName="LowerLeg_Left" elementFolder="LowerLeg_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="19" elementName="Glasses" elementFolder="Glasses" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="20" elementName="Front_Shoe_Left" elementFolder="Front_Shoe_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="21" elementName="Back_Shoe_Left" elementFolder="Back_Shoe_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="16" elementName="Skirt" elementFolder="Skirt" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="17" elementName="UpperLeg_Left" elementFolder="UpperLeg_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="18" elementName="LowerLeg_Left" elementFolder="LowerLeg_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="19" elementName="Glasses" elementFolder="Glasses" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="20" elementName="Front_Shoe_Left" elementFolder="Front_Shoe_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="21" elementName="Back_Shoe_Left" elementFolder="Back_Shoe_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
   <element id="22" elementName="Hair_Back" elementFolder="Hair_Back" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="23" elementName="Hair_Back_Lock" elementFolder="Hair_Back_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="24" elementName="Hair_Top" elementFolder="Hair_Top" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -121,7 +153,11 @@
     <dwg name="3"/>
    </drawings>
   </element>
-  <element id="35" elementName="Highlight" elementFolder="Highlight" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="35" elementName="Highlight" elementFolder="Highlight" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
   <element id="36" elementName="Bridge" elementFolder="Bridge" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="37" elementName="Hair_Side" elementFolder="Hair_Side" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
   <element id="38" elementName="Hair_Side_Lock1" elementFolder="Hair_Side_Lock1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -156,12 +192,36 @@
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="46" elementName="Button_1" elementFolder="Button_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="47" elementName="Button_2" elementFolder="Button_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="48" elementName="Button_3" elementFolder="Button_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="50" elementName="Seam" elementFolder="Seam" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="51" elementName="Slit" elementFolder="Slit" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-  <element id="52" elementName="Sketch" elementFolder="Sketch" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="46" elementName="Button_1" elementFolder="Button_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="47" elementName="Button_2" elementFolder="Button_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="48" elementName="Button_3" elementFolder="Button_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="50" elementName="Seam" elementFolder="Seam" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="51" elementName="Slit" elementFolder="Slit" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="52" elementName="Sketch" elementFolder="Sketch" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -180,31 +240,35 @@
  <scenes>
   <scene name="Top" id="0b12d60acb700d5b" nbframes="60" startFrame="1" stopFrame="60">
    <columns>
-    <column type="0" name="ATV-0B13C894C64011F9" display="false" displayOrder="0" width="100" anonymous="true" id="1">
+    <column type="0" name="ATV-0B13C894C64011F9" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640132C" display="false" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0B13C894C640132C" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
     </column>
-    <column type="0" name="ATV-0B13C894C64013D4" display="false" displayOrder="0" width="100" anonymous="true" id="3">
+    <column type="0" name="ATV-0B13C894C64013D4" displayOrder="0" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>
      <elementSeq exposures="2" val="2" id="3"/>
      <elementSeq exposures="3" val="3" id="3"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640147C" display="false" displayOrder="0" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0B13C894C640147C" displayOrder="0" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="2" val="2" id="4"/>
      <elementSeq exposures="3" val="3" id="4"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401524" display="false" displayOrder="0" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0B13C894C6401524" displayOrder="0" width="100" anonymous="true" id="5">
      <elementSeq exposures="1" val="1" id="5"/>
      <elementSeq exposures="2" val="2" id="5"/>
      <elementSeq exposures="3" val="3" id="5"/>
     </column>
-    <column type="0" name="ATV-0B13C894C64015CC" displayOrder="0" width="100" anonymous="true" id="6"/>
-    <column type="0" name="ATV-0B13C894C6401674" displayOrder="0" width="100" anonymous="true" id="7"/>
+    <column type="0" name="ATV-0B13C894C64015CC" displayOrder="0" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1" val="1" id="6"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C6401674" displayOrder="0" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1" val="1" id="7"/>
+    </column>
     <column type="0" name="ATV-0B13C894C640171C" displayOrder="0" width="100" anonymous="true" id="8"/>
     <column type="0" name="ATV-0B13C894C64017C4" displayOrder="0" width="100" anonymous="true" id="9"/>
     <column type="0" name="ATV-0B13C894C640186C" displayOrder="0" width="100" anonymous="true" id="10">
@@ -225,20 +289,32 @@
     <column type="0" name="ATV-0B13C894C6401BB4" displayOrder="0" width="100" anonymous="true" id="15">
      <elementSeq exposures="1" val="1" id="15"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401C5C" displayOrder="0" width="100" anonymous="true" id="16"/>
-    <column type="0" name="ATV-0B13C894C6401D04" displayOrder="0" width="100" anonymous="true" id="17"/>
-    <column type="0" name="ATV-0B13C894C6401DAC" displayOrder="0" width="100" anonymous="true" id="18"/>
-    <column type="0" name="ATV-0B13C894C6401E54" displayOrder="0" width="100" anonymous="true" id="19"/>
-    <column type="0" name="ATV-0B13C894C6401EFC" displayOrder="0" width="100" anonymous="true" id="20"/>
-    <column type="0" name="ATV-0B13C894C6401FA4" displayOrder="0" width="100" anonymous="true" id="21"/>
+    <column type="0" name="ATV-0B13C894C6401C5C" displayOrder="0" width="100" anonymous="true" id="16">
+     <elementSeq exposures="1" val="1" id="16"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C6401D04" displayOrder="0" width="100" anonymous="true" id="17">
+     <elementSeq exposures="1" val="1" id="17"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C6401DAC" displayOrder="0" width="100" anonymous="true" id="18">
+     <elementSeq exposures="1" val="1" id="18"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C6401E54" displayOrder="0" width="100" anonymous="true" id="19">
+     <elementSeq exposures="1" val="1" id="19"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C6401EFC" displayOrder="0" width="100" anonymous="true" id="20">
+     <elementSeq exposures="1" val="1" id="20"/>
+    </column>
+    <column type="0" name="ATV-0B13C894C6401FA4" displayOrder="0" width="100" anonymous="true" id="21">
+     <elementSeq exposures="1" val="1" id="21"/>
+    </column>
     <column type="0" name="ATV-0B13C894C640204C" displayOrder="0" width="100" anonymous="true" id="22"/>
     <column type="0" name="ATV-0B13C894C64020F4" displayOrder="0" width="100" anonymous="true" id="23"/>
     <column type="0" name="ATV-0B13C894C640219C" displayOrder="0" width="100" anonymous="true" id="24"/>
     <column type="0" name="ATV-0B13C894C6402244" displayOrder="0" width="100" anonymous="true" id="25"/>
-    <column type="0" name="ATV-0B13C894C64022EC" display="false" displayOrder="0" width="100" anonymous="true" id="26">
+    <column type="0" name="ATV-0B13C894C64022EC" displayOrder="0" width="100" anonymous="true" id="26">
      <elementSeq exposures="1" val="1" id="26"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6402394" display="false" displayOrder="0" width="100" anonymous="true" id="27">
+    <column type="0" name="ATV-0B13C894C6402394" displayOrder="0" width="100" anonymous="true" id="27">
      <elementSeq exposures="1" val="1" id="27"/>
     </column>
     <column type="0" name="ATV-0B13C894C640243C" displayOrder="0" width="100" anonymous="true" id="28">
@@ -257,40 +333,54 @@
      <elementSeq exposures="1-60" val="1" id="32"/>
     </column>
     <column type="0" name="ATV-0B13D46B2C52D3DA" displayOrder="0" width="100" anonymous="true" id="33"/>
-    <column type="0" name="ATV-0B13D46B2C5335BC" display="false" displayOrder="0" width="100" anonymous="true" id="34">
+    <column type="0" name="ATV-0B13D46B2C5335BC" displayOrder="0" width="100" anonymous="true" id="34">
      <elementSeq exposures="1" val="1" id="34"/>
      <elementSeq exposures="2" val="2" id="34"/>
      <elementSeq exposures="3" val="3" id="34"/>
     </column>
-    <column type="0" name="ATV-0B13D46B2C534A2B" displayOrder="0" width="100" anonymous="true" id="35"/>
+    <column type="0" name="ATV-0B13D46B2C534A2B" displayOrder="0" width="100" anonymous="true" id="35">
+     <elementSeq exposures="1" val="1" id="35"/>
+    </column>
     <column type="0" name="ATV-0B13D46B2C534AEB" displayOrder="0" width="100" anonymous="true" id="36"/>
     <column type="0" name="ATV-0B15373C30502305" displayOrder="0" width="100" anonymous="true" id="37"/>
     <column type="0" name="ATV-0B15373C3050237D" displayOrder="0" width="100" anonymous="true" id="38"/>
     <column type="0" name="ATV-0B15373C3050241D" displayOrder="0" width="100" anonymous="true" id="39"/>
-    <column type="0" name="ATV-0B15373C305024BD" display="false" displayOrder="0" width="100" anonymous="true" id="40">
+    <column type="0" name="ATV-0B15373C305024BD" displayOrder="0" width="100" anonymous="true" id="40">
      <elementSeq exposures="1" val="1" id="40"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050255D" display="false" displayOrder="0" width="100" anonymous="true" id="41">
+    <column type="0" name="ATV-0B15373C3050255D" displayOrder="0" width="100" anonymous="true" id="41">
      <elementSeq exposures="1" val="1" id="41"/>
     </column>
-    <column type="0" name="ATV-0B15373C305025FD" display="false" displayOrder="0" width="100" anonymous="true" id="42">
+    <column type="0" name="ATV-0B15373C305025FD" displayOrder="0" width="100" anonymous="true" id="42">
      <elementSeq exposures="1" val="1" id="42"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050269D" display="false" displayOrder="0" width="100" anonymous="true" id="43">
+    <column type="0" name="ATV-0B15373C3050269D" displayOrder="0" width="100" anonymous="true" id="43">
      <elementSeq exposures="1" val="1" id="43"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050273D" display="false" displayOrder="0" width="100" anonymous="true" id="44">
+    <column type="0" name="ATV-0B15373C3050273D" displayOrder="0" width="100" anonymous="true" id="44">
      <elementSeq exposures="1" val="1" id="44"/>
     </column>
-    <column type="0" name="ATV-0B15373C305027DD" display="false" displayOrder="0" width="100" anonymous="true" id="45">
+    <column type="0" name="ATV-0B15373C305027DD" displayOrder="0" width="100" anonymous="true" id="45">
      <elementSeq exposures="1" val="1" id="45"/>
     </column>
-    <column type="0" name="ATV-0B1538CB53602A28" displayOrder="0" width="100" anonymous="true" id="46"/>
-    <column type="0" name="ATV-0B1538CB53602AC8" displayOrder="0" width="100" anonymous="true" id="47"/>
-    <column type="0" name="ATV-0B1538CB53602B68" displayOrder="0" width="100" anonymous="true" id="48"/>
-    <column type="0" name="ATV-0B1538CB53602CA8" displayOrder="0" width="100" anonymous="true" id="50"/>
-    <column type="0" name="ATV-0B1538CB5360497A" displayOrder="0" width="100" anonymous="true" id="51"/>
-    <column type="0" name="ATV-0B1538CB536705EF" displayOrder="0" width="100" anonymous="true" id="52"/>
+    <column type="0" name="ATV-0B1538CB53602A28" displayOrder="0" width="100" anonymous="true" id="46">
+     <elementSeq exposures="1" val="1" id="46"/>
+    </column>
+    <column type="0" name="ATV-0B1538CB53602AC8" displayOrder="0" width="100" anonymous="true" id="47">
+     <elementSeq exposures="1" val="1" id="47"/>
+    </column>
+    <column type="0" name="ATV-0B1538CB53602B68" displayOrder="0" width="100" anonymous="true" id="48">
+     <elementSeq exposures="1" val="1" id="48"/>
+    </column>
+    <column type="0" name="ATV-0B1538CB53602CA8" displayOrder="0" width="100" anonymous="true" id="50">
+     <elementSeq exposures="1" val="1" id="50"/>
+    </column>
+    <column type="0" name="ATV-0B1538CB5360497A" displayOrder="0" width="100" anonymous="true" id="51">
+     <elementSeq exposures="1" val="1" id="51"/>
+    </column>
+    <column type="0" name="ATV-0B1538CB536705EF" display="false" displayOrder="0" width="100" anonymous="true" id="52">
+     <elementSeq exposures="1" val="1" id="52"/>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -300,7 +390,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-204,1039,40" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-204,1039,71" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -319,13 +409,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-154,1089,90" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-154,1089,98" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-254,1089,91" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-254,1089,99" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -358,7 +448,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_CARD" name="Colour-Card" pos="-172,903,88" publishUnderTab="Colour-Card">
+     <module type="COLOR_CARD" name="Colour-Card" pos="-172,903,96" publishUnderTab="Colour-Card">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -375,9 +465,8 @@
        </color>
       </attrs>
      </module>
-     <module type="READ" name="Head" pos="-713,-1146,37" publishUnderTab="Head">
+     <module type="READ" name="Head" pos="-713,-1146,2" publishUnderTab="Head">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -488,9 +577,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Eye_Left" pos="-1946,-1173,31" publishUnderTab="Eye_Left">
+     <module type="READ" name="Eye_Left" pos="-1804,-1174,40" publishUnderTab="Eye_Left">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -601,9 +689,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Pupil_Left" pos="-1809,-1173,30" publishUnderTab="Pupil_Left">
+     <module type="READ" name="Pupil_Left" pos="-1948,-1174,39" publishUnderTab="Pupil_Left">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -714,9 +801,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Ear_Left" pos="-1424,-1153,33" publishUnderTab="Ear_Left">
+     <module type="READ" name="Ear_Left" pos="-1424,-1153,38" publishUnderTab="Ear_Left">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -827,9 +913,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Nose" pos="-1059,-1162,34" publishUnderTab="Nose">
+     <module type="READ" name="Nose" pos="-1059,-1162,13" publishUnderTab="Nose">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -940,7 +1025,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Top_Lip" pos="-3739,-1132,83" publishUnderTab="Top_Lip">
+     <module type="READ" name="Top_Lip" pos="-3739,-1132,22" publishUnderTab="Top_Lip">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1052,7 +1137,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bottom_Lip" pos="-3616,-1132,82" publishUnderTab="Bottom_Lip">
+     <module type="READ" name="Bottom_Lip" pos="-3616,-1132,21" publishUnderTab="Bottom_Lip">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1164,7 +1249,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Teeth_Top" pos="-3919,-1132,84" publishUnderTab="Teeth">
+     <module type="READ" name="Teeth_Top" pos="-3919,-1132,92" publishUnderTab="Teeth">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1276,7 +1361,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Tongue" pos="-4278,-1132,86" publishUnderTab="Tongue">
+     <module type="READ" name="Tongue" pos="-4278,-1132,94" publishUnderTab="Tongue">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1388,7 +1473,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Upperarm_Left" pos="5133,-1201,8" publishUnderTab="Upperarm_Left">
+     <module type="READ" name="Upperarm_Left" pos="5133,-1201,58" publishUnderTab="Upperarm_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1500,7 +1585,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Forearm_Left" pos="4918,-1201,3" publishUnderTab="Forearm_Left">
+     <module type="READ" name="Forearm_Left" pos="4918,-1201,53" publishUnderTab="Forearm_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1612,7 +1697,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hand_Left" pos="4730,-1201,7" publishUnderTab="Hand_Left">
+     <module type="READ" name="Hand_Left" pos="4730,-1201,57" publishUnderTab="Hand_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1724,7 +1809,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Torso" pos="4205,-1257,18" publishUnderTab="Torso">
+     <module type="READ" name="Torso" pos="4205,-1257,15" publishUnderTab="Torso">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1836,7 +1921,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Neck" pos="2987,-1198,20" publishUnderTab="Neck">
+     <module type="READ" name="Neck" pos="2987,-1198,16" publishUnderTab="Neck">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1948,7 +2033,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Collar" pos="2794,-1198,19" publishUnderTab="Collar">
+     <module type="READ" name="Collar" pos="2794,-1198,43" publishUnderTab="Collar">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2060,7 +2145,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Skirt" pos="5689,-1200,17" publishUnderTab="Skirt">
+     <module type="READ" name="Skirt" pos="5689,-1200,12" publishUnderTab="Skirt">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2172,7 +2257,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="UpperLeg_Left" pos="6755,-1178,46" publishUnderTab="UpperLeg_Left">
+     <module type="READ" name="UpperLeg_Left" pos="6755,-1178,34" publishUnderTab="UpperLeg_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2284,7 +2369,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="LowerLeg_Left" pos="6594,-1178,45" publishUnderTab="LowerLeg_Left">
+     <module type="READ" name="LowerLeg_Left" pos="6594,-1178,33" publishUnderTab="LowerLeg_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2396,7 +2481,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Glasses" pos="-2927,-1119,78" publishUnderTab="Glasses">
+     <module type="READ" name="Glasses" pos="-2927,-1119,36" publishUnderTab="Glasses">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2485,7 +2570,7 @@
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
+       <opacity val="79" defaultValue="100"/>
        <textureFilter val="NEAREST_FILTERED"/>
        <adjustPencilThickness val="false"/>
        <normalLineArtThickness val="true"/>
@@ -2508,7 +2593,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Front_Shoe_Left" pos="6074,-1178,48" publishUnderTab="Front_Show_Left">
+     <module type="READ" name="Front_Shoe_Left" pos="6074,-1178,32" publishUnderTab="Front_Show_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2620,7 +2705,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Back_Shoe_Left" pos="6253,-1178,47" publishUnderTab="Back_Show_Left">
+     <module type="READ" name="Back_Shoe_Left" pos="6253,-1178,31" publishUnderTab="Back_Show_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2732,7 +2817,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Back" pos="-89,-1165,75" publishUnderTab="Hair_Piece_1">
+     <module type="READ" name="Hair_Back" pos="-89,-1165,89" publishUnderTab="Hair_Piece_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2844,7 +2929,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Back_Lock" pos="-267,-1165,76" publishUnderTab="Hair_Piece_2">
+     <module type="READ" name="Hair_Back_Lock" pos="-267,-1165,90" publishUnderTab="Hair_Piece_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2956,7 +3041,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Top" pos="211,-1163,73" publishUnderTab="Hair_Piece_3">
+     <module type="READ" name="Hair_Top" pos="211,-1163,87" publishUnderTab="Hair_Piece_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3068,7 +3153,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Top_Lock" pos="59,-1163,74" publishUnderTab="Hair_Piece_4">
+     <module type="READ" name="Hair_Top_Lock" pos="59,-1163,88" publishUnderTab="Hair_Piece_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3180,9 +3265,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bangs" pos="518,-1163,25" publishUnderTab="Hair_Piece_5">
+     <module type="READ" name="Bangs" pos="518,-1163,4" publishUnderTab="Hair_Piece_5">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3293,9 +3377,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bangs_Lock" pos="375,-1163,21" publishUnderTab="Hair_Piece_6">
+     <module type="READ" name="Bangs_Lock" pos="375,-1163,24" publishUnderTab="Hair_Piece_6">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3406,7 +3489,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sleeve_Left" pos="4575,-1201,1" publishUnderTab="Sleeve_Left">
+     <module type="READ" name="Sleeve_Left" pos="4575,-1201,14" publishUnderTab="Sleeve_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3518,7 +3601,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2746,-922,69" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2746,-922,86" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3537,7 +3620,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="-1961,-1058,81" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="-1961,-1058,41" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3556,7 +3639,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-738,-952,66" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-738,-952,83" publishUnderTab="Composite_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3575,7 +3658,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Ear_Master_Comp_" pos="-1437,-998,67" publishUnderTab="Composite_6">
+     <module type="COMPOSITE" name="Ear_Master_Comp_" pos="-1437,-998,84" publishUnderTab="Composite_6">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3594,7 +3677,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Lips_Master_Compc" pos="-3914,-882,68" publishUnderTab="Composite_7">
+     <module type="COMPOSITE" name="Lips_Master_Compc" pos="-3914,-882,85" publishUnderTab="Composite_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3613,7 +3696,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Arms_Master_Comp_" pos="4857,-927,16" publishUnderTab="Composite_8">
+     <module type="COMPOSITE" name="Arms_Master_Comp_" pos="4857,-927,66" publishUnderTab="Composite_8">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3632,7 +3715,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Body_Master_Comp_" pos="3309,-202,43" publishUnderTab="Composite_9">
+     <module type="COMPOSITE" name="Body_Master_Comp_" pos="3309,-202,52" publishUnderTab="Composite_9">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3651,7 +3734,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Skirt_Master_Comp_" pos="5575,-1038,50" publishUnderTab="Composite_10">
+     <module type="COMPOSITE" name="Skirt_Master_Comp_" pos="5575,-1038,75" publishUnderTab="Composite_10">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3670,7 +3753,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Legs_Master_Comp" pos="6445,-913,44" publishUnderTab="Composite_12">
+     <module type="COMPOSITE" name="Legs_Master_Comp" pos="6445,-913,74" publishUnderTab="Composite_12">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3689,7 +3772,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Notes" pos="27,923,77" publishUnderTab="notes">
+     <module type="READ" name="Notes" pos="27,923,8" publishUnderTab="notes">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3801,7 +3884,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rough_Sketches" pos="-81,864,87" publishUnderTab="Rough_Sketches">
+     <module type="READ" name="Rough_Sketches" pos="-81,864,95" publishUnderTab="Rough_Sketches">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -3914,7 +3997,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="GLN_Rig_Breakdown_0210" pos="137,977,89" publishUnderTab="GLN_Rig_Breakdown_0210">
+     <module type="READ" name="GLN_Rig_Breakdown_0210" pos="137,977,97" publishUnderTab="GLN_Rig_Breakdown_0210">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -4027,7 +4110,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="20220208_Glinda_Turnaround" pos="78,1039,38" publishUnderTab="20220208_Glinda_Turnaround">
+     <module type="READ" name="20220208_Glinda_Turnaround" pos="78,1039,69" publishUnderTab="20220208_Glinda_Turnaround">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="false"/>
@@ -4140,7 +4223,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-830,-67,36" publishUnderTab="Composite_13">
+     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-830,-67,68" publishUnderTab="Composite_13">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4159,7 +4242,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="GLN_Master_Comp" pos="-259,615,42" publishUnderTab="Composite_14">
+     <module type="COMPOSITE" name="GLN_Master_Comp" pos="-259,615,73" publishUnderTab="Composite_14">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4178,7 +4261,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Teeth_Down" pos="-4062,-1132,85" publishUnderTab="Teeth_Down">
+     <module type="READ" name="Teeth_Down" pos="-4062,-1132,93" publishUnderTab="Teeth_Down">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4290,9 +4373,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Brow" pos="-2075,-1174,32" publishUnderTab="Brow">
+     <module type="READ" name="Brow" pos="-2075,-1174,42" publishUnderTab="Brow">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4403,7 +4485,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Highlight" pos="-2731,-1119,80" publishUnderTab="Highlight">
+     <module type="READ" name="Highlight" pos="-2731,-1119,37" publishUnderTab="Highlight">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4492,7 +4574,7 @@
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
+       <opacity val="77" defaultValue="100"/>
        <textureFilter val="NEAREST_FILTERED"/>
        <adjustPencilThickness val="false"/>
        <normalLineArtThickness val="true"/>
@@ -4515,7 +4597,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bridge" pos="-2531,-1119,79" publishUnderTab="Bridge">
+     <module type="READ" name="Bridge" pos="-2531,-1119,91" publishUnderTab="Bridge">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4627,7 +4709,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side" pos="1125,-1163,70" publishUnderTab="Hai_Piece_7">
+     <module type="READ" name="Hair_Side" pos="1125,-1163,11" publishUnderTab="Hai_Piece_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4739,7 +4821,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side_Lock1" pos="802,-1163,71" publishUnderTab="Hair_Piece_8">
+     <module type="READ" name="Hair_Side_Lock1" pos="802,-1163,9" publishUnderTab="Hair_Piece_8">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4851,7 +4933,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side_Lock2" pos="962,-1163,72" publishUnderTab="Hair_Piece_9">
+     <module type="READ" name="Hair_Side_Lock2" pos="962,-1163,10" publishUnderTab="Hair_Piece_9">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4963,9 +5045,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Up" pos="1676,-1163,23" publishUnderTab="Hair_Piece_10">
+     <module type="READ" name="Hair_Braid_Up" pos="1676,-1163,29" publishUnderTab="Hair_Piece_10">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -5076,9 +5157,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Up_Lock" pos="1497,-1164,24" publishUnderTab="Hair_Piece_11">
+     <module type="READ" name="Hair_Braid_Up_Lock" pos="1497,-1164,30" publishUnderTab="Hair_Piece_11">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -5189,9 +5269,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Mid" pos="2056,-1163,28" publishUnderTab="Hair_Piece_12">
+     <module type="READ" name="Hair_Braid_Mid" pos="2056,-1163,27" publishUnderTab="Hair_Piece_12">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -5302,9 +5381,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Mid_Lock" pos="1874,-1163,22" publishUnderTab="Hair_Piece_13">
+     <module type="READ" name="Hair_Braid_Mid_Lock" pos="1874,-1163,28" publishUnderTab="Hair_Piece_13">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -5415,9 +5493,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Bottom" pos="2443,-1163,27" publishUnderTab="Hair_Piece_14">
+     <module type="READ" name="Hair_Braid_Bottom" pos="2443,-1163,25" publishUnderTab="Hair_Piece_14">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -5530,7 +5607,6 @@
      </module>
      <module type="READ" name="Hair_Braid_Bottom_Lock" pos="2245,-1163,26" publishUnderTab="Hair_Piece_15">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -5641,7 +5717,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Back_Comp" pos="-163,-1065,65" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Hair_Back_Comp" pos="-160,-1036,6" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5660,7 +5736,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Top_Comp" pos="134,-1065,64" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Hair_Top_Comp" pos="134,-1065,82" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5679,7 +5755,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Bangs_Comp" pos="444,-1059,63" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Bangs_Comp" pos="443,-951,5" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5698,7 +5774,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Side_Comp" pos="962,-1063,62" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Hair_Side_Comp" pos="962,-1063,81" publishUnderTab="Composite_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5717,7 +5793,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_5" pos="1635,-1063,61" publishUnderTab="Composite_5">
+     <module type="COMPOSITE" name="Composite_5" pos="1635,-1063,80" publishUnderTab="Composite_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5736,7 +5812,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_6" pos="1991,-1056,60" publishUnderTab="Composite_6">
+     <module type="COMPOSITE" name="Composite_6" pos="1991,-1056,79" publishUnderTab="Composite_6">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5755,7 +5831,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_7" pos="2343,-1062,59" publishUnderTab="Composite_7">
+     <module type="COMPOSITE" name="Composite_7" pos="2343,-1062,78" publishUnderTab="Composite_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5774,7 +5850,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Nose_Comp" pos="-1061,-982,35" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Nose_Comp" pos="-1061,-982,67" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5793,7 +5869,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Master_Comp" pos="137,-642,54" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Hair_Master_Comp" pos="137,-642,77" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5812,7 +5888,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Button_1" pos="3306,-1197,58" publishUnderTab="Button_1">
+     <module type="READ" name="Button_1" pos="3306,-1197,19" publishUnderTab="Button_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5924,7 +6000,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Button_2" pos="3497,-1197,57" publishUnderTab="Button_2">
+     <module type="READ" name="Button_2" pos="3517,-1197,18" publishUnderTab="Button_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6036,7 +6112,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Button_3" pos="3688,-1197,55" publishUnderTab="Button_3">
+     <module type="READ" name="Button_3" pos="3688,-1197,17" publishUnderTab="Button_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6148,7 +6224,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Seam" pos="3888,-1197,56" publishUnderTab="Seam">
+     <module type="READ" name="Seam" pos="3888,-1197,20" publishUnderTab="Seam">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6260,7 +6336,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Neck_Compc" pos="2875,-1035,53" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Neck_Compc" pos="2875,-1035,49" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6279,7 +6355,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Torso_Details_Comp_" pos="3570,-1028,51" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Torso_Details_Comp_" pos="3570,-1028,76" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6298,7 +6374,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Torso_Comp" pos="4203,-1004,52" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Torso_Comp" pos="4203,-1004,48" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6317,7 +6393,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Slit" pos="5487,-1200,49" publishUnderTab="Slit">
+     <module type="READ" name="Slit" pos="5487,-1200,35" publishUnderTab="Slit">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6429,7 +6505,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Lower_Body_Comp" pos="5602,84,41" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Lower_Body_Comp" pos="5602,84,72" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6448,7 +6524,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <group name="Layer_ToolBox" pos="-4040,-705,39">
+     <group name="Layer_ToolBox" pos="-4082,-1685,70">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -6614,8 +6690,9 @@
        <link out="Composite" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="READ" name="Sketch" pos="-297,-1027,29" publishUnderTab="Sketch">
+     <module type="READ" name="Sketch" pos="-297,-1027,23" publishUnderTab="Sketch">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -6726,7 +6803,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="OVERLAY" name="Overlay-Layer" pos="4826,-1021,10" publishUnderTab="Overlay-Layer">
+     <module type="OVERLAY" name="Overlay-Layer" pos="4826,-1021,60" publishUnderTab="Overlay-Layer">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6738,7 +6815,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art" pos="4945,-1021,11" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art" pos="4945,-1021,61" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6750,7 +6827,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art" pos="5037,-1021,9" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art" pos="5037,-1021,59" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6762,7 +6839,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="OVERLAY" name="Overlay-Layer_1" pos="4990,-1112,15" publishUnderTab="Overlay-Layer_1">
+     <module type="OVERLAY" name="Overlay-Layer_1" pos="4990,-1112,65" publishUnderTab="Overlay-Layer_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6774,7 +6851,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_1" pos="5124,-1112,14" publishUnderTab="Line-Art_1">
+     <module type="LINE_ART" name="Line-Art_1" pos="5124,-1112,64" publishUnderTab="Line-Art_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6786,7 +6863,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_1" pos="5227,-1112,13" publishUnderTab="Colour-Art_1">
+     <module type="COLOR_ART" name="Colour-Art_1" pos="5227,-1112,63" publishUnderTab="Colour-Art_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6798,13 +6875,13 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch" pos="5341,-1112,12" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch" pos="5341,-1112,62" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="CUTTER" name="Cutter" pos="4949,-1063,5" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter" pos="4949,-1063,55" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6813,7 +6890,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_1" pos="4748,-970,6" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_1" pos="4748,-970,56" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6822,7 +6899,109 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_2" pos="4744,-1100,4" publishUnderTab="Line-Art_2">
+     <module type="LINE_ART" name="Line-Art_2" pos="4744,-1100,54" publishUnderTab="Line-Art_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="LINE_ART" name="Line-Art_3" pos="2947,-1158,51" publishUnderTab="Line-Art_3">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="COLOR_ART" name="Colour-Art_2" pos="3068,-1156,50" publishUnderTab="Colour-Art_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="CUTTER" name="Cutter_2" pos="3057,-1105,45" publishUnderTab="Cutter_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="false"/>
+      </attrs>
+     </module>
+     <module type="CUTTER" name="Cutter_3" pos="2929,-1105,44" publishUnderTab="Cutter_3">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="false"/>
+      </attrs>
+     </module>
+     <module type="LINE_ART" name="Line-Art_4" pos="4149,-1197,47" publishUnderTab="Line-Art_4">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="COLOR_ART" name="Colour-Art_3" pos="4284,-1197,46" publishUnderTab="Colour-Art_3">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="OVERLAY" name="Overlay-Layer_2" pos="-855,-1069,7" publishUnderTab="Overlay-Layer_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="LINE_ART" name="Line-Art_5" pos="-712,-1069,3" publishUnderTab="Line-Art_5">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="COLOR_ART" name="Colour-Art_4" pos="-592,-1069,1" publishUnderTab="Colour-Art_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6839,9 +7018,11 @@
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
      <link out="Colour-Card" in="Composite" inport="4"/>
-     <link out="Head" in="Head_Master_Comp_"/>
-     <link out="Eye_Left" in="Eyes_Master_Comp_" inport="1"/>
-     <link out="Pupil_Left" in="Eyes_Master_Comp_" inport="0"/>
+     <link out="Head" in="Overlay-Layer_2"/>
+     <link out="Head" in="Line-Art_5"/>
+     <link out="Head" in="Colour-Art_4"/>
+     <link out="Eye_Left" in="Eyes_Master_Comp_" inport="0"/>
+     <link out="Pupil_Left" in="Eyes_Master_Comp_" inport="1"/>
      <link out="Ear_Left" in="Ear_Master_Comp_"/>
      <link out="Nose" in="Nose_Comp"/>
      <link out="Top_Lip" in="Lips_Master_Compc" inport="1"/>
@@ -6856,9 +7037,11 @@
      <link out="Forearm_Left" in="Colour-Art"/>
      <link out="Forearm_Left" in="Cutter" inport="0"/>
      <link out="Hand_Left" in="Line-Art_2"/>
-     <link out="Torso" in="Torso_Comp"/>
-     <link out="Neck" in="Neck_Compc" inport="0"/>
-     <link out="Collar" in="Neck_Compc" inport="1"/>
+     <link out="Torso" in="Line-Art_4"/>
+     <link out="Torso" in="Colour-Art_3"/>
+     <link out="Neck" in="Line-Art_3"/>
+     <link out="Neck" in="Colour-Art_2"/>
+     <link out="Collar" in="Neck_Compc" inport="2"/>
      <link out="Skirt" in="Skirt_Master_Comp_" inport="0"/>
      <link out="UpperLeg_Left" in="Legs_Master_Comp" inport="0"/>
      <link out="LowerLeg_Left" in="Legs_Master_Comp" inport="1"/>
@@ -6877,7 +7060,7 @@
      <link out="Head_Master_Comp_" in="Face_Master_Comp_" inport="1"/>
      <link out="Ear_Master_Comp_" in="Face_Master_Comp_" inport="3"/>
      <link out="Lips_Master_Compc" in="Face_Master_Comp_" inport="6"/>
-     <link out="Arms_Master_Comp_" in="Body_Master_Comp_" inport="2"/>
+     <link out="Arms_Master_Comp_" in="Body_Master_Comp_" inport="1"/>
      <link out="Body_Master_Comp_" in="GLN_Master_Comp" inport="1"/>
      <link out="Skirt_Master_Comp_" in="Lower_Body_Comp" inport="1"/>
      <link out="Legs_Master_Comp" in="Lower_Body_Comp" inport="0"/>
@@ -6916,7 +7099,7 @@
      <link out="Seam" in="Torso_Details_Comp_" inport="0"/>
      <link out="Neck_Compc" in="Body_Master_Comp_" inport="4"/>
      <link out="Torso_Details_Comp_" in="Body_Master_Comp_" inport="3"/>
-     <link out="Torso_Comp" in="Body_Master_Comp_" inport="1"/>
+     <link out="Torso_Comp" in="Body_Master_Comp_" inport="2"/>
      <link out="Slit" in="Skirt_Master_Comp_" inport="1"/>
      <link out="Lower_Body_Comp" in="GLN_Master_Comp" inport="0"/>
      <link out="Sketch" in="Hair_Master_Comp" inport="7"/>
@@ -6932,11 +7115,27 @@
      <link out="Cutter" in="Line-Art"/>
      <link out="Cutter_1" in="Arms_Master_Comp_" inport="7"/>
      <link out="Line-Art_2" in="Cutter_1" inport="0"/>
+     <link out="Line-Art_3" in="Cutter_3" inport="0"/>
+     <link out="Colour-Art_2" in="Cutter_2" inport="0"/>
+     <link out="Cutter_2" in="Neck_Compc" inport="0"/>
+     <link out="Cutter_3" in="Neck_Compc" inport="1"/>
+     <link out="Line-Art_4" in="Torso_Comp" inport="1"/>
+     <link out="Colour-Art_3" in="Torso_Comp" inport="0"/>
+     <link out="Colour-Art_3" in="Cutter_2" inport="1"/>
+     <link out="Colour-Art_3" in="Cutter_3" inport="1"/>
+     <link out="Overlay-Layer_2" in="Head_Master_Comp_" inport="2"/>
+     <link out="Line-Art_5" in="Head_Master_Comp_" inport="1"/>
+     <link out="Colour-Art_4" in="Head_Master_Comp_" inport="0"/>
     </linkedlist>
     <backdrops>
-     <backdrop topLeft="-4090,-780" bottomRight="-3859,-655">
+     <backdrop topLeft="-4132,-1760" bottomRight="-3901,-1635">
       <background color="#323232FF"/>
       <title text="Layer Tool Box" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="-762,-1227" bottomRight="-558,-1057">
+      <background color="#E16B14FF"/>
+      <title text="Head" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="6023,-1253" bottomRight="6951,-1128">
@@ -6972,11 +7171,6 @@
      <backdrop topLeft="-317,-1240" bottomRight="2658,-1006">
       <background color="#843A16FF"/>
       <title text="Hair" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="-762,-1227" bottomRight="-558,-1057">
-      <background color="#E16B14FF"/>
-      <title text="Head" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="-1114,-1237" bottomRight="-914,-1112">

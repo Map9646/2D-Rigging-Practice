@@ -10,12 +10,15 @@ Solid    "Skin tone"                0x0b13c894c64fd5d2 255 208 188 255
 Solid    "Shirt Color"              0x0b13c894c64fd631 182 232 221 255
 Solid    "Sleeve Color"             0x0b13c894c64fd691 143 189 178 255
 Solid    "Skirt Color"              0x0b13c894c64fd6f2  37  70  77 255
+Solid    "Skirt Outline"            0x0b15498d4cf2a238  25  55  61 255
 Solid    "Tights Color"             0x0b13c894c64fd754 152 117 111 255
 Solid    "Shoes Color"              0x0b13c894c64fd7b7  37  70  77 255
 Solid    "Hair Light"               0x0b13c894c64fd81b 233 226 200 255
 Solid    "Hair Dark"                0x0b13c894c64ff326 193 188 168 255
+Solid    "Lip Outline"              0x0b15498d4cfe85be 124  45  27 255
 Solid    "Lip Color"                0x0b13c894c64ff60d 140  53  34 255
+Solid    "Bottom Lip Color"         0x0b15498d4cfef1fa 172  76  52 255
 Solid    Glasses                    0x0b13c894c64ff888 182 232 221 255
 Solid    "Glasses Highlight"        0x0b13d46b2c50275e 214 255 246 255
 Solid    "Hair Outline"             0x0b1538cb53671379 177 170 147 255
-Solid    "Skirt Outline"            0x0b15498d4cf2a238  25  55  61 255
+Solid    "Glasses Outline"          0x0b15498d4cf3af58  84 158 169 255

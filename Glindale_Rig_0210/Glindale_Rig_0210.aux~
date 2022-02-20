@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Glindale_Rig_0210" Modified="2022-02-20 11:41:07" ID="1">
+<SceneVersion VersionName="Glindale_Rig_0210" Modified="2022-02-20 13:45:03" ID="1">
  <Element Name="Head" ID="1" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
@@ -23,8 +23,12 @@
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
  </Element>
- <Element Name="Top_Lip" ID="6" Folder="Top_Lip"/>
- <Element Name="Bottom_Lip" ID="7" Folder="Bottom_Lip"/>
+ <Element Name="Top_Lip" ID="6" Folder="Top_Lip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bottom_Lip" ID="7" Folder="Bottom_Lip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Teeth_Top" ID="8" Folder="Teeth_Top"/>
  <Element Name="Tongue" ID="9" Folder="Tongue"/>
  <Element Name="Upperarm_Left" ID="10" Folder="Upperarm_Left">
@@ -45,12 +49,24 @@
  <Element Name="Collar" ID="15" Folder="Collar">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Skirt" ID="16" Folder="Skirt"/>
- <Element Name="UpperLeg_Left" ID="17" Folder="UpperLeg_Left"/>
- <Element Name="LowerLeg_Left" ID="18" Folder="LowerLeg_Left"/>
- <Element Name="Glasses" ID="19" Folder="Glasses"/>
- <Element Name="Front_Shoe_Left" ID="20" Folder="Front_Shoe_Left"/>
- <Element Name="Back_Shoe_Left" ID="21" Folder="Back_Shoe_Left"/>
+ <Element Name="Skirt" ID="16" Folder="Skirt">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="UpperLeg_Left" ID="17" Folder="UpperLeg_Left">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="LowerLeg_Left" ID="18" Folder="LowerLeg_Left">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Glasses" ID="19" Folder="Glasses">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Front_Shoe_Left" ID="20" Folder="Front_Shoe_Left">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Back_Shoe_Left" ID="21" Folder="Back_Shoe_Left">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Hair_Back" ID="22" Folder="Hair_Back"/>
  <Element Name="Hair_Back_Lock" ID="23" Folder="Hair_Back_Lock"/>
  <Element Name="Hair_Top" ID="24" Folder="Hair_Top"/>
@@ -82,7 +98,9 @@
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
  </Element>
- <Element Name="Highlight" ID="35" Folder="Highlight"/>
+ <Element Name="Highlight" ID="35" Folder="Highlight">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Bridge" ID="36" Folder="Bridge"/>
  <Element Name="Hair_Side" ID="37" Folder="Hair_Side"/>
  <Element Name="Hair_Side_Lock1" ID="38" Folder="Hair_Side_Lock1"/>
@@ -105,10 +123,22 @@
  <Element Name="Hair_Braid_Bottom_Lock" ID="45" Folder="Hair_Braid_Bottom_Lock">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Button_1" ID="46" Folder="Button_1"/>
- <Element Name="Button_2" ID="47" Folder="Button_2"/>
- <Element Name="Button_3" ID="48" Folder="Button_3"/>
- <Element Name="Seam" ID="50" Folder="Seam"/>
- <Element Name="Slit" ID="51" Folder="Slit"/>
- <Element Name="Sketch" ID="52" Folder="Sketch"/>
+ <Element Name="Button_1" ID="46" Folder="Button_1">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button_2" ID="47" Folder="Button_2">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button_3" ID="48" Folder="Button_3">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Seam" ID="50" Folder="Seam">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Slit" ID="51" Folder="Slit">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Sketch" ID="52" Folder="Sketch">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
 </SceneVersion>
