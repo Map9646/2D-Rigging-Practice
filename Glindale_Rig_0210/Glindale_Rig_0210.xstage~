@@ -317,7 +317,7 @@
     <column type="0" name="ATV-0B13C894C6402394" displayOrder="0" width="100" anonymous="true" id="27">
      <elementSeq exposures="1" val="1" id="27"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640243C" display="false" displayOrder="0" width="100" anonymous="true" id="28">
+    <column type="0" name="ATV-0B13C894C640243C" displayOrder="0" width="100" anonymous="true" id="28">
      <elementSeq exposures="1" val="1" id="28"/>
     </column>
     <column type="0" name="ATV-0B13C894C640CFCC" displayOrder="0" width="100" anonymous="true" id="29">
@@ -1473,7 +1473,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Upperarm_Left" pos="4695,-1197,5" publishUnderTab="Upperarm_Left">
+     <module type="READ" name="Upperarm_Left" pos="4695,-1197,11" publishUnderTab="Upperarm_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1585,7 +1585,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Forearm_Left" pos="4896,-1197,6" publishUnderTab="Forearm_Left">
+     <module type="READ" name="Forearm_Left" pos="4896,-1197,12" publishUnderTab="Forearm_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1697,7 +1697,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hand_Left" pos="5112,-1197,7" publishUnderTab="Hand_Left">
+     <module type="READ" name="Hand_Left" pos="5112,-1197,13" publishUnderTab="Hand_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3490,9 +3490,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sleeve_Left" pos="4532,-1197,12" publishUnderTab="Sleeve_Left">
+     <module type="READ" name="Sleeve_Left" pos="4532,-1197,2" publishUnderTab="Sleeve_Left">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -7069,7 +7068,7 @@
        <version val="1"/>
       </options>
      </module>
-     <module type="PEG" name="Upperarm_Left-P" pos="4711,-1402,10" publishUnderTab="Upperarm_Left-P">
+     <module type="PEG" name="Upperarm_Left-P" pos="4711,-1402,7" publishUnderTab="Upperarm_Left-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7131,7 +7130,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Forearm_Left-P" pos="4911,-1402,9" publishUnderTab="Forearm_Left-P">
+     <module type="PEG" name="Forearm_Left-P" pos="4911,-1402,6" publishUnderTab="Forearm_Left-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7255,7 +7254,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Sleeve_Left-P" pos="4547,-1298,13" publishUnderTab="Sleeve_Left-P">
+     <module type="PEG" name="Sleeve_Left-P" pos="4547,-1402,8" publishUnderTab="Sleeve_Left-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7379,7 +7378,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Forearm_Left_Master_P" pos="4891,-1547,3" publishUnderTab="Forearm_Left-P-P">
+     <module type="PEG" name="Forearm_Left_Master_P" pos="4891,-1547,9" publishUnderTab="Forearm_Left-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7441,7 +7440,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hand_Left_Master_P" pos="5108,-1398,1" publishUnderTab="Hand_Left-P-P">
+     <module type="PEG" name="Hand_Left_Master_P" pos="5108,-1402,5" publishUnderTab="Hand_Left-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7503,7 +7502,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm_Left_Master" pos="4710,-2107,4" publishUnderTab="Upperarm_Left_Master_P-P">
+     <module type="PEG" name="Arm_Left_Master" pos="4710,-2107,10" publishUnderTab="Upperarm_Left_Master_P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7565,7 +7564,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-Upperarm_Left" pos="4678,-1287,11">
+     <group name="Deformation-Upperarm_Left" pos="4678,-1287,3">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -7817,7 +7816,7 @@
        <link out="Curve_3" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <group name="Deformation-Forearm_Left" pos="4878,-1287,8">
+     <group name="Deformation-Forearm_Left" pos="4878,-1287,4">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -8069,6 +8068,208 @@
        <link out="Curve_3" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
+     <group name="Deformation-Sleeve_Left" pos="4532,-1247,1">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <restingoffset>
+          <x val="-5.5933583153249877" defaultValue="1"/>
+          <y val="-1.9555796680053317" defaultValue="0"/>
+         </restingoffset>
+         <restingorientation val="-107.00997455040664" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-5.5933583153249877" defaultValue="1"/>
+          <y val="-1.9555796680053317" defaultValue="0"/>
+         </offset>
+         <orientation val="-107.00997455040664" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.77371771411883228" defaultValue="2"/>
+         <restingorientation0 val="-102.43956201884649" defaultValue="0"/>
+         <restingoffset>
+          <x val="-7.1733545224152993" defaultValue="6"/>
+          <y val="-1.4133587474286284" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="0.96057622344121574" defaultValue="2"/>
+         <restingorientation1 val="88.011362143526028" defaultValue="0"/>
+         <length0 val="0.77371771411883228" defaultValue="2"/>
+         <orientation0 val="-102.43956201884649" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-7.1733545224152993" defaultValue="6"/>
+          <y val="-1.4133587474286284" defaultValue="0"/>
+         </offset>
+         <length1 val="0.96057622344121574" defaultValue="2"/>
+         <orientation1 val="88.011362143526028" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve_1" pos="0,-500,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.88062897281956543" defaultValue="2"/>
+         <restingorientation0 val="88.011362143526028" defaultValue="0"/>
+         <restingoffset>
+          <x val="-6.1200237176884258" defaultValue="6"/>
+          <y val="-0.36447237647697278" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="0.38959207810021262" defaultValue="2"/>
+         <restingorientation1 val="3.8140748342903343" defaultValue="0"/>
+         <length0 val="0.88062897281956543" defaultValue="2"/>
+         <orientation0 val="88.011362143526028" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-6.1200237176884258" defaultValue="6"/>
+          <y val="-0.36447237647697278" defaultValue="0"/>
+         </offset>
+         <length1 val="0.38959207810021262" defaultValue="2"/>
+         <orientation1 val="3.8140748342903308" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve_2" pos="0,-450,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="true"/>
+         <restlength0 val="0.26725796070766583" defaultValue="2"/>
+         <restingorientation0 val="3.8140748342903343" defaultValue="0"/>
+         <restingoffset>
+          <x val="-5.5800250139993315" defaultValue="6"/>
+          <y val="-1.9378019329044558" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="1.3364394873368779" defaultValue="2"/>
+         <restingorientation1 val="-105.33032959770659" defaultValue="0"/>
+         <length0 val="0.26725796070766583" defaultValue="2"/>
+         <orientation0 val="3.8140748342903308" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-5.5800250139993315" defaultValue="6"/>
+          <y val="-1.9378019329044558" defaultValue="0"/>
+         </offset>
+         <length1 val="1.3364394873368779" defaultValue="2"/>
+         <orientation1 val="-105.33032959770659" defaultValue="0"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="Multi-Port-In" in="Offset"/>
+       <link out="Offset" in="Curve"/>
+       <link out="Curve" in="Curve_1"/>
+       <link out="Curve_1" in="Curve_2"/>
+       <link out="Curve_2" in="Multi-Port-Out"/>
+      </linkedlist>
+     </group>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -8197,7 +8398,7 @@
      <link out="Upperarm_Left-P" in="Deformation-Upperarm_Left"/>
      <link out="Forearm_Left-P" in="Deformation-Forearm_Left"/>
      <link out="Hand_Left-P" in="Hand_Left" inport="0"/>
-     <link out="Sleeve_Left-P" in="Sleeve_Left" inport="0"/>
+     <link out="Sleeve_Left-P" in="Deformation-Sleeve_Left"/>
      <link out="Upperarm_Left_Master_P" in="Upperarm_Left-P"/>
      <link out="Upperarm_Left_Master_P" in="Forearm_Left_Master_P"/>
      <link out="Forearm_Left_Master_P" in="Forearm_Left-P"/>
@@ -8207,6 +8408,7 @@
      <link out="Arm_Left_Master" in="Sleeve_Left-P"/>
      <link out="Deformation-Upperarm_Left" in="Upperarm_Left" inport="0"/>
      <link out="Deformation-Forearm_Left" in="Forearm_Left" inport="0"/>
+     <link out="Deformation-Sleeve_Left" in="Sleeve_Left" inport="0"/>
     </linkedlist>
     <backdrops>
      <backdrop topLeft="-4132,-1760" bottomRight="-3901,-1635">
