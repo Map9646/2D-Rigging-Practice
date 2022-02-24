@@ -22,3 +22,4 @@ Solid    "Bottom Lip Color"         0x0b15498d4cfef1fa 172  76  52 255
 Solid    Glasses                    0x0b13c894c64ff888 182 232 221 255
 Solid    "Glasses Highlight"        0x0b13d46b2c50275e 214 255 246 255
 Solid    "Glasses Outline"          0x0b15498d4cf3af58  84 158 169 255
+Solid    "New 0"                    0x0b15d961e16a1890 214 255 246 255
