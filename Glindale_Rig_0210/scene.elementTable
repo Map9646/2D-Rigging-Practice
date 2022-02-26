@@ -20,10 +20,10 @@
  <element id="19" elementName="Glasses" elementFolder="Glasses" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="20" elementName="Front_Shoe_Left" elementFolder="Front_Shoe_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="21" elementName="Back_Shoe_Left" elementFolder="Back_Shoe_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="22" elementName="Hair_Back" elementFolder="Hair_Back" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="23" elementName="Hair_Back_Lock" elementFolder="Hair_Back_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="24" elementName="Hair_Top" elementFolder="Hair_Top" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="25" elementName="Hair_Top_Lock" elementFolder="Hair_Top_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="Hair_Side" elementFolder="Hair_Side.22" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="Hair_Side_Lock" elementFolder="Hair_Side_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="Hair_BK" elementFolder="Hair_BK.24" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="Hair_BK_Lock" elementFolder="Hair_BK_Lock.25" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="26" elementName="Bangs" elementFolder="Bangs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="27" elementName="Bangs_Lock" elementFolder="Bangs_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="28" elementName="Sleeve_Left" elementFolder="Sleeve_Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -35,9 +35,9 @@
  <element id="34" elementName="Brow" elementFolder="Brow" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="35" elementName="Highlight" elementFolder="Highlight" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="36" elementName="Bridge" elementFolder="Bridge" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="37" elementName="Hair_Side" elementFolder="Hair_Side" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="37" elementName="Hair_T" elementFolder="Hair_T" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="38" elementName="Hair_Side_Lock1" elementFolder="Hair_Side_Lock1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="39" elementName="Hair_Side_Lock2" elementFolder="Hair_Side_Lock2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="39" elementName="Hair_T_Lock" elementFolder="Hair_T_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="40" elementName="Hair_Braid_Up" elementFolder="Hair_Braid_Up" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="41" elementName="Hair_Braid_Up_Lock" elementFolder="Hair_Braid_Up_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="42" elementName="Hair_Braid_Mid" elementFolder="Hair_Braid_Mid" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
