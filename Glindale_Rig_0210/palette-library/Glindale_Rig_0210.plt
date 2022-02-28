@@ -1,6 +1,7 @@
 ToonBoomAnimationInc PaletteFile 2
 Solid    Black                      0x0b12d60acb700d68   0   0   0 255
 Solid    White                      0x0b12d60acb700d6a 255 255 255 255
+Solid    "Teeth Outline"            0x0b1758a145c07394 201 201 201 255
 Solid    Red                        0x0b12d60acb700d6c 255   0   0 255
 Solid    Green                      0x0b12d60acb700d6e   0 255   0 255
 Solid    Blue                       0x0b12d60acb700d70   0   0 255 255
@@ -23,3 +24,5 @@ Solid    Glasses                    0x0b13c894c64ff888 182 232 221 255
 Solid    "Glasses Highlight"        0x0b13d46b2c50275e 214 255 246 255
 Solid    "Glasses Outline"          0x0b15498d4cf3af58  84 158 169 255
 Solid    "New 0"                    0x0b15d961e16a1890 214 255 246 255
+Solid    "Tongue Outline"           0x0b17554a7dc1b82c 243  76 135 255
+Solid    Tongue                     0x0b17554a7dc395e0 253 124 161 255
