@@ -658,7 +658,7 @@
        </color>
       </attrs>
      </module>
-     <module type="READ" name="Head" pos="-600,-1131,42" publishUnderTab="Head">
+     <module type="READ" name="Head" pos="-600,-1131,43" publishUnderTab="Head">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -770,7 +770,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Eye_Left" pos="-1830,-1181,35" publishUnderTab="Eye_Left">
+     <module type="READ" name="Eye_Left" pos="-1830,-1181,36" publishUnderTab="Eye_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -882,7 +882,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Ear_Left" pos="-1416,-1011,3" publishUnderTab="Ear_Left">
+     <module type="READ" name="Ear_Left" pos="-1416,-1011,4" publishUnderTab="Ear_Left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1555,7 +1555,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Torso" pos="4205,-1043,34" publishUnderTab="Torso">
+     <module type="READ" name="Torso" pos="4205,-1043,35" publishUnderTab="Torso">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1779,7 +1779,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Collar" pos="2794,-1198,33" publishUnderTab="Collar">
+     <module type="READ" name="Collar" pos="2794,-1198,34" publishUnderTab="Collar">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1891,7 +1891,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Skirt" pos="7295,-1175,58" publishUnderTab="Skirt">
+     <module type="READ" name="Skirt" pos="7295,-1175,1" publishUnderTab="Skirt">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2227,7 +2227,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Glasses" pos="-2977,-1163,5" publishUnderTab="Glasses">
+     <module type="READ" name="Glasses" pos="-2977,-1163,6" publishUnderTab="Glasses">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2563,7 +2563,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side" pos="1132,-1163,27" publishUnderTab="Hair_Piece_1">
+     <module type="READ" name="Hair_Side" pos="1132,-1163,28" publishUnderTab="Hair_Piece_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2675,7 +2675,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side_Lock" pos="810,-1163,28" publishUnderTab="Hair_Piece_2">
+     <module type="READ" name="Hair_Side_Lock" pos="810,-1163,29" publishUnderTab="Hair_Piece_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3235,7 +3235,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2728,-699,8" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2728,-699,9" publishUnderTab="Composite_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3254,7 +3254,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="-1963,-1045,43" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="-1963,-1045,44" publishUnderTab="Composite_3">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3273,7 +3273,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-625,-656,41" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-625,-656,42" publishUnderTab="Composite_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3292,7 +3292,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Ear_Master_Comp_" pos="-1429,-864,4" publishUnderTab="Composite_6">
+     <module type="COMPOSITE" name="Ear_Master_Comp_" pos="-1429,-864,5" publishUnderTab="Composite_6">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3989,7 +3989,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Brow" pos="-2077,-1181,54" publishUnderTab="Brow">
+     <module type="READ" name="Brow" pos="-2077,-1181,55" publishUnderTab="Brow">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4101,7 +4101,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Highlight" pos="-2773,-1163,6" publishUnderTab="Highlight">
+     <module type="READ" name="Highlight" pos="-2773,-1163,7" publishUnderTab="Highlight">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4213,7 +4213,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bridge" pos="-2358,-1119,13" publishUnderTab="Bridge">
+     <module type="READ" name="Bridge" pos="-2358,-1119,14" publishUnderTab="Bridge">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4325,7 +4325,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_T" pos="224,-1163,30" publishUnderTab="Hai_Piece_7">
+     <module type="READ" name="Hair_T" pos="224,-1163,31" publishUnderTab="Hai_Piece_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4437,7 +4437,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side_Lock1" pos="966,-1163,29" publishUnderTab="Hair_Piece_8">
+     <module type="READ" name="Hair_Side_Lock1" pos="966,-1163,30" publishUnderTab="Hair_Piece_8">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6009,7 +6009,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Slit" pos="7095,-1175,57" publishUnderTab="Slit">
+     <module type="READ" name="Slit" pos="7095,-1175,58" publishUnderTab="Slit">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6441,7 +6441,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="OVERLAY" name="Overlay-Layer_2" pos="-743,-986,40" publishUnderTab="Overlay-Layer_2">
+     <module type="OVERLAY" name="Overlay-Layer_2" pos="-743,-986,41" publishUnderTab="Overlay-Layer_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6453,7 +6453,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_5" pos="-599,-986,39" publishUnderTab="Line-Art_5">
+     <module type="LINE_ART" name="Line-Art_5" pos="-599,-986,40" publishUnderTab="Line-Art_5">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6465,7 +6465,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_4" pos="-483,-986,38" publishUnderTab="Colour-Art_4">
+     <module type="COLOR_ART" name="Colour-Art_4" pos="-483,-986,39" publishUnderTab="Colour-Art_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6477,7 +6477,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="READ" name="Edge_Highight" pos="-2596,-1163,7" publishUnderTab="Edge_Highight">
+     <module type="READ" name="Edge_Highight" pos="-2596,-1163,8" publishUnderTab="Edge_Highight">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6589,7 +6589,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Glasses_Comp" pos="-2980,-765,12" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Glasses_Comp" pos="-2980,-765,13" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6620,7 +6620,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="UNDERLAY" name="Glasses_UL" pos="-2827,-1020,9" publishUnderTab="Underlay-Layer">
+     <module type="UNDERLAY" name="Glasses_UL" pos="-2827,-1020,10" publishUnderTab="Underlay-Layer">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6632,7 +6632,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Edge_HL_Revealed_By_Glasses_UL" pos="-2824,-943,10" publishUnderTab="Cutter_6">
+     <module type="CUTTER" name="Edge_HL_Revealed_By_Glasses_UL" pos="-2824,-943,11" publishUnderTab="Cutter_6">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6650,7 +6650,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <group name="Arm" pos="5592,-1050,19">
+     <group name="Arm" pos="5592,-1050,20">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -8703,7 +8703,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Up-P" pos="1743,-1420,48" publishUnderTab="Hair_Braid_Up-P">
+     <module type="PEG" name="Hair_Braid_Up-P" pos="1743,-1420,49" publishUnderTab="Hair_Braid_Up-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8765,7 +8765,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_1" pos="-2957,-1020,11" publishUnderTab="Colour-Art_1">
+     <module type="COLOR_ART" name="Colour-Art_1" pos="-2957,-1020,12" publishUnderTab="Colour-Art_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9431,7 +9431,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Side-P" pos="1164,-1682,51" publishUnderTab="Hair_Side-P">
+     <module type="PEG" name="Hair_Side-P" pos="1164,-1682,52" publishUnderTab="Hair_Side-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9555,7 +9555,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Mid-P" pos="2133,-1419,50" publishUnderTab="Hair_Braid_Mid-P">
+     <module type="PEG" name="Hair_Braid_Mid-P" pos="2133,-1419,51" publishUnderTab="Hair_Braid_Mid-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9679,7 +9679,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Bottom-P" pos="2512,-1418,49" publishUnderTab="Hair_Braid_Bottom-P">
+     <module type="PEG" name="Hair_Braid_Bottom-P" pos="2512,-1418,50" publishUnderTab="Hair_Braid_Bottom-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9741,7 +9741,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_BK_T_Side_Master_P" pos="197,-1729,53" publishUnderTab="Peg">
+     <module type="PEG" name="Hair_BK_T_Side_Master_P" pos="197,-1729,54" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10060,7 +10060,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-Torso" pos="4188,-1131,26">
+     <group name="Deformation-Torso" pos="4188,-1131,27">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -10373,7 +10373,7 @@
        <link out="1" in="Transformation-Switch" inport="1"/>
       </linkedlist>
      </group>
-     <module type="PEG" name="Torso_Shirt_Collar_P" pos="4190,-1709,31" publishUnderTab="Deformation-Torso-P">
+     <module type="PEG" name="Torso_Shirt_Collar_P" pos="4190,-1709,32" publishUnderTab="Deformation-Torso-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10931,7 +10931,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Mouth_Master_P" pos="-3903,-1704,14" publishUnderTab="Peg_2-P">
+     <module type="PEG" name="Mouth_Master_P" pos="-3903,-1704,15" publishUnderTab="Peg_2-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11159,7 +11159,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Torso_Shirt_Master_P" pos="4186,-1977,32" publishUnderTab="Deformation-Torso-P-P">
+     <module type="PEG" name="Torso_Shirt_Master_P" pos="4186,-1977,33" publishUnderTab="Deformation-Torso-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11221,7 +11221,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Skirt-P" pos="7310,-1505,36" publishUnderTab="Skirt-P">
+     <module type="PEG" name="Skirt-P" pos="7310,-1505,37" publishUnderTab="Skirt-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11283,7 +11283,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Slit-P" pos="7111,-1275,56" publishUnderTab="Slit-P">
+     <module type="PEG" name="Slit-P" pos="7111,-1275,57" publishUnderTab="Slit-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11345,7 +11345,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm-P" pos="5600,-1287,55" publishUnderTab="Arm-P">
+     <module type="PEG" name="Arm-P" pos="5600,-1287,56" publishUnderTab="Arm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11407,7 +11407,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head-P" pos="-585,-1305,17" publishUnderTab="Head-P">
+     <module type="PEG" name="Head-P" pos="-585,-1305,18" publishUnderTab="Head-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11469,7 +11469,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Master_P" pos="-605,-1406,16" publishUnderTab="Head-P-P">
+     <module type="PEG" name="Head_Master_P" pos="-605,-1406,17" publishUnderTab="Head-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11531,7 +11531,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Face_Master_P" pos="-599,-2079,15" publishUnderTab="Head-P-P-P">
+     <module type="PEG" name="Head_Face_Master_P" pos="-599,-2079,16" publishUnderTab="Head-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11593,7 +11593,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Face_Hair_P" pos="-270,-2547,45" publishUnderTab="Peg_4">
+     <module type="PEG" name="Head_Face_Hair_P" pos="-270,-2547,46" publishUnderTab="Peg_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11655,7 +11655,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_BK_T_Side_Master_P-P" pos="192,-2056,52" publishUnderTab="Hair_BK_T_Side_Master_P-P">
+     <module type="PEG" name="Hair_BK_T_Side_Master_P-P" pos="192,-2056,53" publishUnderTab="Hair_BK_T_Side_Master_P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11717,7 +11717,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Up-P-P" pos="1738,-1856,44" publishUnderTab="Hair_Braid_Up-P-P">
+     <module type="PEG" name="Hair_Braid_Up-P-P" pos="1738,-1856,45" publishUnderTab="Hair_Braid_Up-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11779,7 +11779,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Mid-P-P" pos="2128,-1691,46" publishUnderTab="Hair_Braid_Mid-P-P">
+     <module type="PEG" name="Hair_Braid_Mid-P-P" pos="2128,-1691,47" publishUnderTab="Hair_Braid_Mid-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11841,7 +11841,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Bottom-P-P" pos="2507,-1546,47" publishUnderTab="Hair_Braid_Bottom-P-P">
+     <module type="PEG" name="Hair_Braid_Bottom-P-P" pos="2507,-1546,48" publishUnderTab="Hair_Braid_Bottom-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11903,7 +11903,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Face_Hair_Master_P" pos="-290,-2873,24" publishUnderTab="Peg_4-P">
+     <module type="PEG" name="Head_Face_Hair_Master_P" pos="-290,-2873,25" publishUnderTab="Peg_4-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11965,7 +11965,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_13" pos="-727,-842,37" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_13" pos="-727,-842,38" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11974,7 +11974,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Skirt-P-P" pos="7305,-1719,18" publishUnderTab="Skirt-P-P">
+     <module type="PEG" name="Skirt-P-P" pos="7305,-1719,19" publishUnderTab="Skirt-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -12036,7 +12036,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Face_Body_P" pos="4229,-3847,20" publishUnderTab="Deformation-Torso-P-P-P">
+     <module type="PEG" name="Hair_Face_Body_P" pos="4229,-3847,21" publishUnderTab="Deformation-Torso-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -12098,7 +12098,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Face_Body_Master_P" pos="4223,-4333,23" publishUnderTab="Deformation-Torso-P-P-P-P">
+     <module type="PEG" name="Hair_Face_Body_Master_P" pos="4223,-4333,24" publishUnderTab="Deformation-Torso-P-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -12160,7 +12160,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Body_Arms_Master_P" pos="4234,-5043,22" publishUnderTab="Deformation-Torso-P-P-P-P-P">
+     <module type="PEG" name="Body_Arms_Master_P" pos="4234,-5043,23" publishUnderTab="Deformation-Torso-P-P-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -12222,7 +12222,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Glinda_Master_P" pos="4256,-6085,21" publishUnderTab="Deformation-Torso-P-P-P-P-P-P">
+     <module type="PEG" name="Glinda_Master_P" pos="4256,-6085,22" publishUnderTab="Deformation-Torso-P-P-P-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -12284,7 +12284,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Torso_P" pos="4218,-1231,25" publishUnderTab="Deformation-Torso-P">
+     <module type="PEG" name="Torso_P" pos="4218,-1231,26" publishUnderTab="Deformation-Torso-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -12347,7 +12347,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-Ear_Left" pos="-1434,-1091,1">
+     <group name="Deformation-Ear_Left" pos="-1434,-1091,3">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
