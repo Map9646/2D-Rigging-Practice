@@ -3101,7 +3101,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-625,-656,19" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-625,-656,2" publishUnderTab="Composite_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3628,7 +3628,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-787,108,16" publishUnderTab="Composite_13">
+     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-787,108,17" publishUnderTab="Composite_13">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3779,7 +3779,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bridge" pos="-2461,-1232,13" publishUnderTab="Bridge">
+     <module type="READ" name="Bridge" pos="-2461,-1232,14" publishUnderTab="Bridge">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10298,7 +10298,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Mouth_Master_P" pos="-3903,-1704,8" publishUnderTab="Peg_2-P">
+     <module type="PEG" name="Mouth_Master_P" pos="-3903,-1704,9" publishUnderTab="Peg_2-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13525,7 +13525,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Eye" pos="-2053,-904,14">
+     <group name="Eye" pos="-2053,-904,15">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -14903,7 +14903,7 @@
        <waypointLink nameId="waypoint" out="Cutter_1" outport="0" in="Ear_Comp" inport="1"/>
       </waypointLinks>
      </group>
-     <module type="PEG" name="Nose-P" pos="-1368,-1378,5" publishUnderTab="Nose-P">
+     <module type="PEG" name="Nose-P" pos="-1368,-1378,6" publishUnderTab="Nose-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -14965,7 +14965,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Glasses" pos="-3024,-1227,3">
+     <group name="Glasses" pos="-3024,-1227,5">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="false"/>
@@ -19179,7 +19179,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <group name="Ear_1" pos="-977,-1068,17">
+     <group name="Ear_1" pos="-977,-1068,18">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -21511,7 +21511,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_3" pos="-3076,-744,4" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Composite_3" pos="-3083,-641,3" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21624,7 +21624,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_18" pos="-3014,-846,1" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_18" pos="-3014,-846,4" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21633,7 +21633,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_19" pos="-2514,-836,32" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_19" pos="-2514,-836,1" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21660,7 +21660,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="StaticConstraint" name="Clone_Static" pos="-2701,-1303,12" publishUnderTab="Static-Transformation">
+     <module type="StaticConstraint" name="Clone_Static" pos="-2701,-1303,13" publishUnderTab="Static-Transformation">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21693,7 +21693,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="StaticConstraint" name="Eye_Clone_Static" pos="-1853,-990,15" publishUnderTab="Static-Transformation">
+     <module type="StaticConstraint" name="Eye_Clone_Static" pos="-1853,-990,16" publishUnderTab="Static-Transformation">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21726,75 +21726,13 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_7" pos="-458,-995,18" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch_7" pos="-458,-995,19" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="PEG" name="Eye_Master_P" pos="-1952,-1212,6" publishUnderTab="Peg">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <position>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </position>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <groupAtNetworkBuilding val="false"/>
-       <addCompositeToGroup val="true"/>
-      </attrs>
-     </module>
-     <module type="PEG" name="Bridge-P" pos="-2445,-1339,10" publishUnderTab="Bridge-P">
+     <module type="PEG" name="Eye_Master_P" pos="-1952,-1212,7" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21856,7 +21794,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Glasses_P" pos="-2869,-1439,11" publishUnderTab="Peg">
+     <module type="PEG" name="Bridge-P" pos="-2445,-1339,11" publishUnderTab="Bridge-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21918,7 +21856,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Glasses_Master_P" pos="-2889,-1582,9" publishUnderTab="Glasses_Master_P-P">
+     <module type="PEG" name="Glasses_P" pos="-2869,-1439,12" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21980,7 +21918,69 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Facial_Features_Master_P" pos="-2908,-1858,7" publishUnderTab="Glasses_Master_P-P">
+     <module type="PEG" name="Glasses_Master_P" pos="-2889,-1582,10" publishUnderTab="Glasses_Master_P-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Facial_Features_Master_P" pos="-2908,-1858,8" publishUnderTab="Glasses_Master_P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
