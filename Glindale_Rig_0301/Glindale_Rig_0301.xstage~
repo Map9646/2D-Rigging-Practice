@@ -1556,7 +1556,7 @@
     </column>
    </columns>
    <options>
-    <defaultDisplay val="Display"/>
+    <defaultDisplay val="Unconnected_Display"/>
    </options>
    <rootgroup name="Top">
     <options>
