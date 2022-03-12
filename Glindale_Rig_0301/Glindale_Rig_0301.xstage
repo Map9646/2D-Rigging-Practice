@@ -289,34 +289,34 @@
  <scenes>
   <scene name="Top" id="0b12d60acb700d5b" nbframes="60" startFrame="1" stopFrame="60">
    <columns>
-    <column type="0" name="ATV-0B13C894C64011F9" displayOrder="22" width="100" anonymous="true" id="1">
+    <column type="0" name="ATV-0B13C894C64011F9" displayOrder="30" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640132C" displayOrder="17" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0B13C894C640132C" displayOrder="25" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640147C" displayOrder="21" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0B13C894C640147C" displayOrder="29" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="2" val="2" id="4"/>
      <elementSeq exposures="3" val="3" id="4"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401524" displayOrder="19" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0B13C894C6401524" displayOrder="27" width="100" anonymous="true" id="5">
      <elementSeq exposures="1" val="1" id="5"/>
      <elementSeq exposures="2" val="2" id="5"/>
      <elementSeq exposures="3" val="3" id="5"/>
     </column>
-    <column type="0" name="ATV-0B13C894C64015CC" displayOrder="8" width="100" anonymous="true" id="6">
+    <column type="0" name="ATV-0B13C894C64015CC" displayOrder="16" width="100" anonymous="true" id="6">
      <elementSeq exposures="1" val="1" id="6"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401674" displayOrder="9" width="100" anonymous="true" id="7">
+    <column type="0" name="ATV-0B13C894C6401674" displayOrder="17" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640171C" displayOrder="11" width="100" anonymous="true" id="8">
+    <column type="0" name="ATV-0B13C894C640171C" displayOrder="19" width="100" anonymous="true" id="8">
      <elementSeq exposures="1" val="1" id="8"/>
     </column>
-    <column type="0" name="ATV-0B13C894C64017C4" displayOrder="12" width="100" anonymous="true" id="9">
+    <column type="0" name="ATV-0B13C894C64017C4" displayOrder="20" width="100" anonymous="true" id="9">
      <elementSeq exposures="1" val="1" id="9"/>
     </column>
     <column type="0" name="ATV-0B13C894C640186C" displayOrder="51" width="100" anonymous="true" id="10">
@@ -328,13 +328,13 @@
     <column type="0" name="ATV-0B13C894C64019BC" displayOrder="53" width="100" anonymous="true" id="12">
      <elementSeq exposures="1" val="1" id="12"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401A64" displayOrder="41" width="100" anonymous="true" id="13">
+    <column type="0" name="ATV-0B13C894C6401A64" displayOrder="8" width="100" anonymous="true" id="13">
      <elementSeq exposures="1" val="1" id="13"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401B0C" displayOrder="38" width="100" anonymous="true" id="14">
+    <column type="0" name="ATV-0B13C894C6401B0C" displayOrder="1" width="100" anonymous="true" id="14">
      <elementSeq exposures="1" val="1" id="14"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401BB4" displayOrder="40" width="100" anonymous="true" id="15">
+    <column type="0" name="ATV-0B13C894C6401BB4" displayOrder="3" width="100" anonymous="true" id="15">
      <elementSeq exposures="1" val="1" id="15"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401C5C" displayOrder="54" width="100" anonymous="true" id="16">
@@ -346,7 +346,7 @@
     <column type="0" name="ATV-0B13C894C6401DAC" displayOrder="62" width="100" anonymous="true" id="18">
      <elementSeq exposures="1" val="1" id="18"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6401E54" displayOrder="4" width="100" anonymous="true" id="19">
+    <column type="0" name="ATV-0B13C894C6401E54" displayOrder="12" width="100" anonymous="true" id="19">
      <elementSeq exposures="1" val="2" id="19"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401EFC" displayOrder="60" width="100" anonymous="true" id="20">
@@ -355,22 +355,22 @@
     <column type="0" name="ATV-0B13C894C6401FA4" displayOrder="61" width="100" anonymous="true" id="21">
      <elementSeq exposures="1" val="1" id="21"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640204C" displayOrder="29" width="100" anonymous="true" id="22">
+    <column type="0" name="ATV-0B13C894C640204C" displayOrder="37" width="100" anonymous="true" id="22">
      <elementSeq exposures="1" val="1" id="22"/>
     </column>
-    <column type="0" name="ATV-0B13C894C64020F4" displayOrder="31" width="100" anonymous="true" id="23">
+    <column type="0" name="ATV-0B13C894C64020F4" displayOrder="39" width="100" anonymous="true" id="23">
      <elementSeq exposures="1" val="1" id="23"/>
     </column>
-    <column type="0" name="ATV-0B13C894C640219C" displayOrder="25" width="100" anonymous="true" id="24">
+    <column type="0" name="ATV-0B13C894C640219C" displayOrder="33" width="100" anonymous="true" id="24">
      <elementSeq exposures="1" val="2" id="24"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6402244" displayOrder="26" width="100" anonymous="true" id="25">
+    <column type="0" name="ATV-0B13C894C6402244" displayOrder="34" width="100" anonymous="true" id="25">
      <elementSeq exposures="1" val="1" id="25"/>
     </column>
-    <column type="0" name="ATV-0B13C894C64022EC" displayOrder="23" width="100" anonymous="true" id="26">
+    <column type="0" name="ATV-0B13C894C64022EC" displayOrder="31" width="100" anonymous="true" id="26">
      <elementSeq exposures="1" val="1" id="26"/>
     </column>
-    <column type="0" name="ATV-0B13C894C6402394" displayOrder="24" width="100" anonymous="true" id="27">
+    <column type="0" name="ATV-0B13C894C6402394" displayOrder="32" width="100" anonymous="true" id="27">
      <elementSeq exposures="1" val="1" id="27"/>
     </column>
     <column type="0" name="ATV-0B13C894C640243C" displayOrder="50" width="100" anonymous="true" id="28">
@@ -388,57 +388,57 @@
     <column type="0" name="ATV-0B13C894C641D98B" displayOrder="67" width="100" anonymous="true" id="32">
      <elementSeq exposures="1-60" val="1" id="32"/>
     </column>
-    <column type="0" name="ATV-0B13D46B2C52D3DA" displayOrder="10" width="100" anonymous="true" id="33">
+    <column type="0" name="ATV-0B13D46B2C52D3DA" displayOrder="18" width="100" anonymous="true" id="33">
      <elementSeq exposures="1" val="1" id="33"/>
     </column>
-    <column type="0" name="ATV-0B13D46B2C5335BC" displayOrder="16" width="100" anonymous="true" id="34">
+    <column type="0" name="ATV-0B13D46B2C5335BC" displayOrder="24" width="100" anonymous="true" id="34">
      <elementSeq exposures="1" val="1" id="34"/>
      <elementSeq exposures="2" val="2" id="34"/>
      <elementSeq exposures="3" val="3" id="34"/>
     </column>
-    <column type="0" name="ATV-0B13D46B2C534A2B" displayOrder="5" width="100" anonymous="true" id="35">
+    <column type="0" name="ATV-0B13D46B2C534A2B" displayOrder="13" width="100" anonymous="true" id="35">
      <elementSeq exposures="1" val="1" id="35"/>
     </column>
-    <column type="0" name="ATV-0B13D46B2C534AEB" displayOrder="7" width="100" anonymous="true" id="36">
+    <column type="0" name="ATV-0B13D46B2C534AEB" displayOrder="15" width="100" anonymous="true" id="36">
      <elementSeq exposures="1" val="1" id="36"/>
     </column>
-    <column type="0" name="ATV-0B15373C30502305" displayOrder="27" width="100" anonymous="true" id="37">
+    <column type="0" name="ATV-0B15373C30502305" displayOrder="35" width="100" anonymous="true" id="37">
      <elementSeq exposures="1" val="1" id="37"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050237D" displayOrder="30" width="100" anonymous="true" id="38">
+    <column type="0" name="ATV-0B15373C3050237D" displayOrder="38" width="100" anonymous="true" id="38">
      <elementSeq exposures="1" val="1" id="38"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050241D" displayOrder="28" width="100" anonymous="true" id="39">
+    <column type="0" name="ATV-0B15373C3050241D" displayOrder="36" width="100" anonymous="true" id="39">
      <elementSeq exposures="1" val="1" id="39"/>
     </column>
-    <column type="0" name="ATV-0B15373C305024BD" displayOrder="32" width="100" anonymous="true" id="40">
+    <column type="0" name="ATV-0B15373C305024BD" displayOrder="40" width="100" anonymous="true" id="40">
      <elementSeq exposures="1" val="1" id="40"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050255D" displayOrder="33" width="100" anonymous="true" id="41">
+    <column type="0" name="ATV-0B15373C3050255D" displayOrder="41" width="100" anonymous="true" id="41">
      <elementSeq exposures="1" val="1" id="41"/>
     </column>
-    <column type="0" name="ATV-0B15373C305025FD" displayOrder="34" width="100" anonymous="true" id="42">
+    <column type="0" name="ATV-0B15373C305025FD" displayOrder="42" width="100" anonymous="true" id="42">
      <elementSeq exposures="1" val="1" id="42"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050269D" displayOrder="35" width="100" anonymous="true" id="43">
+    <column type="0" name="ATV-0B15373C3050269D" displayOrder="43" width="100" anonymous="true" id="43">
      <elementSeq exposures="1" val="1" id="43"/>
     </column>
-    <column type="0" name="ATV-0B15373C3050273D" displayOrder="36" width="100" anonymous="true" id="44">
+    <column type="0" name="ATV-0B15373C3050273D" displayOrder="44" width="100" anonymous="true" id="44">
      <elementSeq exposures="1" val="1" id="44"/>
     </column>
-    <column type="0" name="ATV-0B15373C305027DD" displayOrder="37" width="100" anonymous="true" id="45">
+    <column type="0" name="ATV-0B15373C305027DD" displayOrder="45" width="100" anonymous="true" id="45">
      <elementSeq exposures="1" val="1" id="45"/>
     </column>
-    <column type="0" name="ATV-0B1538CB53602A28" displayOrder="42" width="100" anonymous="true" id="46">
+    <column type="0" name="ATV-0B1538CB53602A28" displayOrder="4" width="100" anonymous="true" id="46">
      <elementSeq exposures="1" val="1" id="46"/>
     </column>
-    <column type="0" name="ATV-0B1538CB53602AC8" displayOrder="43" width="100" anonymous="true" id="47">
+    <column type="0" name="ATV-0B1538CB53602AC8" displayOrder="5" width="100" anonymous="true" id="47">
      <elementSeq exposures="1" val="1" id="47"/>
     </column>
-    <column type="0" name="ATV-0B1538CB53602B68" displayOrder="44" width="100" anonymous="true" id="48">
+    <column type="0" name="ATV-0B1538CB53602B68" displayOrder="6" width="100" anonymous="true" id="48">
      <elementSeq exposures="1" val="1" id="48"/>
     </column>
-    <column type="0" name="ATV-0B1538CB53602CA8" displayOrder="45" width="100" anonymous="true" id="50">
+    <column type="0" name="ATV-0B1538CB53602CA8" displayOrder="7" width="100" anonymous="true" id="50">
      <elementSeq exposures="1" val="1" id="50"/>
     </column>
     <column type="0" name="ATV-0B1538CB5360497A" displayOrder="55" width="100" anonymous="true" id="51">
@@ -447,7 +447,7 @@
     <column type="0" name="ATV-0B1538CB536705EF" displayOrder="68" width="100" anonymous="true" id="52">
      <elementSeq exposures="1" val="1" id="52"/>
     </column>
-    <column type="0" name="ATV-0B15D961E166D7C3" displayOrder="6" width="100" anonymous="true" id="53">
+    <column type="0" name="ATV-0B15D961E166D7C3" displayOrder="14" width="100" anonymous="true" id="53">
      <elementSeq exposures="1" val="1" id="53"/>
     </column>
     <column type="2" name="ATV-0B1758A145C6E9C5" anonymous="true" displayOrder="72">
@@ -460,7 +460,7 @@
        <pt val="-5.6166531834328399,-0.84444241729158609,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B18D7BA49200D3A" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1AD41487400D1C" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -590,7 +590,7 @@
        <pt val="0,0,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B18D7BA49200D3C" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1AD41487400D1E" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -608,7 +608,7 @@
        <pt val="0.0053333205302612541,0.0084444241729157987,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B18D7BA49200D3E" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1AD41487400D20" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -644,7 +644,7 @@
       <pt constSeg="true" x="1" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="0" name="ATV-0B1850CC7A8645DE" displayOrder="18" width="100" anonymous="true" id="54">
+    <column type="0" name="ATV-0B1850CC7A8645DE" displayOrder="26" width="100" anonymous="true" id="54">
      <elementSeq exposures="1" val="1" id="54"/>
     </column>
     <column type="3" name="ATV-0B1850CC7A886496" displayOrder="95" width="100" anonymous="true">
@@ -1490,7 +1490,7 @@
        <pt val="-3.9968028886505635e-015,-3.9968028886505635e-015,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B18D7BA49200D40" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1AD41487400D22" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1536,7 +1536,7 @@
        <pt val="-9.4708767352878507,0,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B18D7BA49200D42" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1AD41487400D24" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1581,7 +1581,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-213,2396,194" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-213,2396,197" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1600,13 +1600,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-163,2446,193" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-163,2446,196" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-263,2446,199" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-263,2446,202" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1643,7 +1643,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_CARD" name="Colour-Card" pos="-181,2260,197" publishUnderTab="Colour-Card">
+     <module type="COLOR_CARD" name="Colour-Card" pos="-181,2260,200" publishUnderTab="Colour-Card">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1660,7 +1660,7 @@
        </color>
       </attrs>
      </module>
-     <module type="READ" name="Head" pos="-600,-1131,81" publishUnderTab="Head">
+     <module type="READ" name="Head" pos="-600,-1131,105" publishUnderTab="Head">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1772,7 +1772,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Nose" pos="-1384,-1157,126" publishUnderTab="Nose">
+     <module type="READ" name="Nose" pos="-1384,-1157,141" publishUnderTab="Nose">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1884,7 +1884,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Top_Lip" pos="-4145,-1140,102" publishUnderTab="Top_Lip">
+     <module type="READ" name="Top_Lip" pos="-4145,-1140,125" publishUnderTab="Top_Lip">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1996,7 +1996,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bottom_Lip" pos="-4002,-1140,103" publishUnderTab="Bottom_Lip">
+     <module type="READ" name="Bottom_Lip" pos="-4002,-1140,126" publishUnderTab="Bottom_Lip">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2108,7 +2108,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Teeth_Top" pos="-3665,-1140,106" publishUnderTab="Teeth">
+     <module type="READ" name="Teeth_Top" pos="-3665,-1140,129" publishUnderTab="Teeth">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2220,7 +2220,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Tongue" pos="-3444,-1140,104" publishUnderTab="Tongue">
+     <module type="READ" name="Tongue" pos="-3444,-1140,127" publishUnderTab="Tongue">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="true"/>
@@ -2333,7 +2333,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Torso" pos="4205,-1043,142" publishUnderTab="Torso">
+     <module type="READ" name="Torso" pos="4973,-955,154" publishUnderTab="Torso">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2445,7 +2445,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Neck" pos="3040,-1197,128" publishUnderTab="Neck">
+     <module type="READ" name="Neck" pos="3648,-1120,14" publishUnderTab="Neck">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2557,7 +2557,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Skirt" pos="7295,-1175,137" publishUnderTab="Skirt">
+     <module type="READ" name="Skirt" pos="8063,-1087,7" publishUnderTab="Skirt">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2669,7 +2669,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side" pos="1132,-1163,139" publishUnderTab="Hair_Piece_1">
+     <module type="READ" name="Hair_Side" pos="1132,-1163,151" publishUnderTab="Hair_Piece_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2781,7 +2781,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side_Lock" pos="810,-1163,140" publishUnderTab="Hair_Piece_2">
+     <module type="READ" name="Hair_Side_Lock" pos="810,-1163,152" publishUnderTab="Hair_Piece_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2893,7 +2893,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_BK" pos="-92,-1163,83" publishUnderTab="Hair_Piece_3">
+     <module type="READ" name="Hair_BK" pos="-92,-1163,107" publishUnderTab="Hair_Piece_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3005,7 +3005,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_BK_Lock" pos="-250,-1163,82" publishUnderTab="Hair_Piece_4">
+     <module type="READ" name="Hair_BK_Lock" pos="-250,-1163,106" publishUnderTab="Hair_Piece_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3117,7 +3117,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bangs" pos="526,-1163,164" publishUnderTab="Hair_Piece_5">
+     <module type="READ" name="Bangs" pos="526,-1163,167" publishUnderTab="Hair_Piece_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3229,7 +3229,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bangs_Lock" pos="378,-1163,165" publishUnderTab="Hair_Piece_6">
+     <module type="READ" name="Bangs_Lock" pos="378,-1163,168" publishUnderTab="Hair_Piece_6">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3341,7 +3341,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2833,121,22" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Glasses_Master_Comp_" pos="-2470,-195,39" publishUnderTab="Composite_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3360,7 +3360,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-625,-656,110" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Head_Master_Comp_" pos="-625,-656,133" publishUnderTab="Composite_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3379,7 +3379,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Lips_Master_Compc" pos="-3774,-840,167" publishUnderTab="Composite_7">
+     <module type="COMPOSITE" name="Lips_Master_Compc" pos="-3774,-840,170" publishUnderTab="Composite_7">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3398,7 +3398,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Body_Master_Comp_" pos="2800,1394,23" publishUnderTab="Composite_9">
+     <module type="COMPOSITE" name="Body_Master_Comp_" pos="2800,1394,19" publishUnderTab="Composite_9">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3417,7 +3417,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Skirt_Master_Comp_" pos="7161,-659,149" publishUnderTab="Composite_10">
+     <module type="COMPOSITE" name="Skirt_Master_Comp_" pos="7929,-571,6" publishUnderTab="Composite_10">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3436,7 +3436,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Notes" pos="18,2280,32" publishUnderTab="notes">
+     <module type="READ" name="Notes" pos="18,2280,65" publishUnderTab="notes">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3548,7 +3548,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rough_Sketches" pos="-90,2221,196" publishUnderTab="Rough_Sketches">
+     <module type="READ" name="Rough_Sketches" pos="-90,2221,199" publishUnderTab="Rough_Sketches">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -3661,7 +3661,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="GLN_Rig_Breakdown_0210" pos="128,2334,198" publishUnderTab="GLN_Rig_Breakdown_0210">
+     <module type="READ" name="GLN_Rig_Breakdown_0210" pos="128,2334,201" publishUnderTab="GLN_Rig_Breakdown_0210">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -3774,7 +3774,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="20220208_Glinda_Turnaround" pos="69,2396,195" publishUnderTab="20220208_Glinda_Turnaround">
+     <module type="READ" name="20220208_Glinda_Turnaround" pos="69,2396,198" publishUnderTab="20220208_Glinda_Turnaround">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="true"/>
@@ -3887,7 +3887,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-186,775,8" publishUnderTab="Composite_13">
+     <module type="COMPOSITE" name="Face_Master_Comp_" pos="-129,830,37" publishUnderTab="Composite_13">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3906,7 +3906,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="GLN_Master_Comp" pos="-268,1972,24" publishUnderTab="Composite_14">
+     <module type="COMPOSITE" name="GLN_Master_Comp" pos="-270,2148,40" publishUnderTab="Composite_14">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3925,7 +3925,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Teeth_Down" pos="-3823,-1140,107" publishUnderTab="Teeth_Down">
+     <module type="READ" name="Teeth_Down" pos="-3823,-1140,130" publishUnderTab="Teeth_Down">
       <options>
        <showTimelineThumb val="true"/>
        <collapsed val="true"/>
@@ -4038,7 +4038,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bridge" pos="-2505,-1232,96" publishUnderTab="Bridge">
+     <module type="READ" name="Bridge" pos="-2505,-1232,119" publishUnderTab="Bridge">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4150,7 +4150,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_T" pos="224,-1163,131" publishUnderTab="Hai_Piece_7">
+     <module type="READ" name="Hair_T" pos="224,-1163,144" publishUnderTab="Hai_Piece_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4262,7 +4262,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Side_Lock1" pos="966,-1163,141" publishUnderTab="Hair_Piece_8">
+     <module type="READ" name="Hair_Side_Lock1" pos="966,-1163,153" publishUnderTab="Hair_Piece_8">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4374,7 +4374,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_T_Lock" pos="75,-1163,166" publishUnderTab="Hair_Piece_9">
+     <module type="READ" name="Hair_T_Lock" pos="75,-1163,169" publishUnderTab="Hair_Piece_9">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4486,7 +4486,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Up" pos="1727,-1163,188" publishUnderTab="Hair_Piece_10">
+     <module type="READ" name="Hair_Braid_Up" pos="1727,-1163,191" publishUnderTab="Hair_Piece_10">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4598,7 +4598,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Up_Lock" pos="1513,-1163,130" publishUnderTab="Hair_Piece_11">
+     <module type="READ" name="Hair_Braid_Up_Lock" pos="1513,-1163,143" publishUnderTab="Hair_Piece_11">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4710,7 +4710,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Mid" pos="2120,-1163,162" publishUnderTab="Hair_Piece_12">
+     <module type="READ" name="Hair_Braid_Mid" pos="2120,-1163,165" publishUnderTab="Hair_Piece_12">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4822,7 +4822,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Mid_Lock" pos="1927,-1163,163" publishUnderTab="Hair_Piece_13">
+     <module type="READ" name="Hair_Braid_Mid_Lock" pos="1927,-1163,166" publishUnderTab="Hair_Piece_13">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4934,7 +4934,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Bottom" pos="2490,-1163,47" publishUnderTab="Hair_Piece_14">
+     <module type="READ" name="Hair_Braid_Bottom" pos="2490,-1163,80" publishUnderTab="Hair_Piece_14">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5046,7 +5046,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Hair_Braid_Bottom_Lock" pos="2283,-1163,46" publishUnderTab="Hair_Piece_15">
+     <module type="READ" name="Hair_Braid_Bottom_Lock" pos="2283,-1163,79" publishUnderTab="Hair_Piece_15">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5158,7 +5158,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Back_Comp" pos="-170,-795,19" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Hair_Back_Comp" pos="-170,-795,57" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5177,7 +5177,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Top_Comp" pos="131,-795,132" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Hair_Top_Comp" pos="131,-795,145" publishUnderTab="Composite_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5196,7 +5196,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Bangs_Comp" pos="449,-795,133" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Bangs_Comp" pos="449,-795,146" publishUnderTab="Composite_3">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5215,7 +5215,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Side_Comp" pos="962,-795,134" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Hair_Side_Comp" pos="962,-795,147" publishUnderTab="Composite_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5234,7 +5234,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_5" pos="1637,-795,172" publishUnderTab="Composite_5">
+     <module type="COMPOSITE" name="Composite_5" pos="1637,-795,175" publishUnderTab="Composite_5">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5253,7 +5253,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_6" pos="2013,-795,135" publishUnderTab="Composite_6">
+     <module type="COMPOSITE" name="Composite_6" pos="2013,-795,148" publishUnderTab="Composite_6">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5272,7 +5272,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_7" pos="2402,-795,11" publishUnderTab="Composite_7">
+     <module type="COMPOSITE" name="Composite_7" pos="2402,-795,56" publishUnderTab="Composite_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5291,7 +5291,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Nose_Comp" pos="-1386,-986,127" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Nose_Comp" pos="-1386,-986,142" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5310,7 +5310,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Master_Comp" pos="8,757,10" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Hair_Master_Comp" pos="398,845,31" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5329,7 +5329,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Button_1" pos="3311,-1179,157" publishUnderTab="Button_1">
+     <module type="READ" name="Button_1" pos="4079,-1091,161" publishUnderTab="Button_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5441,7 +5441,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Button_2" pos="3461,-1179,156" publishUnderTab="Button_2">
+     <module type="READ" name="Button_2" pos="4229,-1091,160" publishUnderTab="Button_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5553,7 +5553,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Button_3" pos="3606,-1179,155" publishUnderTab="Button_3">
+     <module type="READ" name="Button_3" pos="4374,-1091,159" publishUnderTab="Button_3">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5665,7 +5665,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Seam" pos="3923,-1179,154" publishUnderTab="Seam">
+     <module type="READ" name="Seam" pos="4691,-1091,158" publishUnderTab="Seam">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5777,7 +5777,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Neck_Compc" pos="2893,-458,129" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Neck_Compc" pos="3157,-139,13" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5796,7 +5796,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Torso_Details_Comp_" pos="3552,-655,159" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Torso_Details_Comp_" pos="4320,-567,163" publishUnderTab="Composite_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5815,7 +5815,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Torso_Comp" pos="4203,-662,161" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Torso_Comp" pos="4971,-574,164" publishUnderTab="Composite_3">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5834,7 +5834,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Slit" pos="7095,-1175,145" publishUnderTab="Slit">
+     <module type="READ" name="Slit" pos="7863,-1087,1" publishUnderTab="Slit">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5946,7 +5946,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Lower_Body_Comp" pos="3690,2094,115" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Lower_Body_Comp" pos="3690,2094,138" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5965,7 +5965,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <group name="Layer_ToolBox" pos="-4195,-122,187">
+     <group name="Layer_ToolBox" pos="-4195,-122,190">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -6127,7 +6127,7 @@
        <link out="Composite" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="READ" name="Sketch" pos="5,2458,116" publishUnderTab="Sketch">
+     <module type="READ" name="Sketch" pos="5,2458,139" publishUnderTab="Sketch">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -6240,7 +6240,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_3" pos="2960,-996,147" publishUnderTab="Line-Art_3">
+     <module type="LINE_ART" name="Line-Art_3" pos="3510,-910,11" publishUnderTab="Line-Art_3">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6252,7 +6252,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_2" pos="3113,-996,146" publishUnderTab="Colour-Art_2">
+     <module type="COLOR_ART" name="Colour-Art_2" pos="3765,-910,15" publishUnderTab="Colour-Art_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6264,25 +6264,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_2" pos="3114,-607,153" publishUnderTab="Cutter_2">
-      <options>
-       <collapsed val="true"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <inverted val="false"/>
-      </attrs>
-     </module>
-     <module type="CUTTER" name="Cutter_3" pos="2955,-607,160" publishUnderTab="Cutter_3">
-      <options>
-       <collapsed val="true"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <inverted val="false"/>
-      </attrs>
-     </module>
-     <module type="LINE_ART" name="Line-Art_5" pos="-742,-995,114" publishUnderTab="Line-Art_5">
+     <module type="LINE_ART" name="Line-Art_5" pos="-742,-995,137" publishUnderTab="Line-Art_5">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6294,7 +6276,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_4" pos="-605,-995,113" publishUnderTab="Colour-Art_4">
+     <module type="COLOR_ART" name="Colour-Art_4" pos="-605,-995,136" publishUnderTab="Colour-Art_4">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -6306,7 +6288,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <group name="Arm" pos="5592,-1050,29">
+     <group name="Arm" pos="6360,-962,63">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -8239,7 +8221,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <module type="COMPOSITE" name="Arm_Master_Comp" pos="5629,-796,59" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Arm_Master_Comp" pos="6397,-708,91" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8258,7 +8240,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art" pos="1689,-1094,189" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art" pos="1689,-1094,192" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8270,7 +8252,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art" pos="1813,-1094,192" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art" pos="1813,-1094,195" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8282,7 +8264,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter" pos="1559,-1034,190" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter" pos="1559,-1034,193" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8291,13 +8273,13 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch" pos="1748,-1060,191" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch" pos="1748,-1060,194" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="PEG" name="Hair_Braid_Up_Lock-P" pos="1529,-1291,76" publishUnderTab="Hair_Braid_Up_Lock-P">
+     <module type="PEG" name="Hair_Braid_Up_Lock-P" pos="1529,-1291,100" publishUnderTab="Hair_Braid_Up_Lock-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8359,7 +8341,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Up-P" pos="1743,-1420,44" publishUnderTab="Hair_Braid_Up-P">
+     <module type="PEG" name="Hair_Braid_Up-P" pos="1743,-1420,77" publishUnderTab="Hair_Braid_Up-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8421,7 +8403,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_1" pos="169,-1083,175" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_1" pos="169,-1083,178" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8433,7 +8415,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_2" pos="-155,-1094,174" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_2" pos="-155,-1094,177" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8445,7 +8427,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_6" pos="2076,-1094,186" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_6" pos="2076,-1094,189" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8457,7 +8439,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_7" pos="467,-1083,184" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_7" pos="467,-1083,187" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8469,7 +8451,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_14" pos="2454,-1100,74" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_14" pos="2454,-1100,98" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8481,7 +8463,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_16" pos="1073,-1095,177" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_16" pos="1073,-1095,180" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8493,7 +8475,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_6" pos="-25,-1094,173" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_6" pos="-25,-1094,176" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8505,7 +8487,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_7" pos="289,-1083,181" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_7" pos="289,-1083,184" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8517,7 +8499,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_8" pos="584,-1083,182" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_8" pos="584,-1083,185" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8529,7 +8511,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_9" pos="2579,-1100,185" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_9" pos="2579,-1100,188" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8541,7 +8523,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_10" pos="1205,-1095,183" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_10" pos="1205,-1095,186" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8553,7 +8535,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_11" pos="2215,-1094,178" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_11" pos="2215,-1094,181" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8565,25 +8547,25 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_4" pos="1135,-1044,176" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch_4" pos="1135,-1044,179" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_5" pos="2136,-1047,179" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch_5" pos="2136,-1047,182" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_6" pos="2515,-1054,180" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch_6" pos="2515,-1054,183" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="CUTTER" name="Cutter_1" pos="-225,-972,6" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_1" pos="-225,-972,55" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8592,7 +8574,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_4" pos="97,-971,5" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_4" pos="97,-971,54" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8601,7 +8583,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_5" pos="399,-960,4" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_5" pos="399,-960,53" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8610,7 +8592,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_6" pos="998,-955,171" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_6" pos="998,-955,174" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8619,7 +8601,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_7" pos="839,-1044,170" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_7" pos="839,-1044,173" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8628,7 +8610,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_8" pos="1969,-956,169" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_8" pos="1969,-956,172" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8637,7 +8619,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_9" pos="2334,-957,168" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_9" pos="2334,-957,171" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8646,7 +8628,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_BK-P" pos="-76,-1448,88" publishUnderTab="Hair_BK-P">
+     <module type="PEG" name="Hair_BK-P" pos="-76,-1448,112" publishUnderTab="Hair_BK-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8708,7 +8690,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_BK_Lock-P" pos="-234,-1263,89" publishUnderTab="Hair_BK_Lock-P">
+     <module type="PEG" name="Hair_BK_Lock-P" pos="-234,-1263,113" publishUnderTab="Hair_BK_Lock-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8770,7 +8752,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_T_Lock-P" pos="91,-1263,84" publishUnderTab="Hair_T_Lock-P">
+     <module type="PEG" name="Hair_T_Lock-P" pos="91,-1263,108" publishUnderTab="Hair_T_Lock-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8832,7 +8814,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_T-P" pos="240,-1447,85" publishUnderTab="Hair_T-P">
+     <module type="PEG" name="Hair_T-P" pos="240,-1447,109" publishUnderTab="Hair_T-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8895,7 +8877,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Bangs_Lock-P" pos="394,-1263,79" publishUnderTab="Bangs_Lock-P">
+     <module type="PEG" name="Bangs_Lock-P" pos="394,-1263,103" publishUnderTab="Bangs_Lock-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -8957,7 +8939,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Bangs-P" pos="541,-1461,80" publishUnderTab="Bangs-P">
+     <module type="PEG" name="Bangs-P" pos="541,-1461,104" publishUnderTab="Bangs-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9019,7 +9001,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Side-P" pos="1164,-1682,77" publishUnderTab="Hair_Side-P">
+     <module type="PEG" name="Hair_Side-P" pos="1164,-1682,101" publishUnderTab="Hair_Side-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9081,7 +9063,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Mid_Lock-P" pos="1943,-1263,75" publishUnderTab="Hair_Braid_Mid_Lock-P">
+     <module type="PEG" name="Hair_Braid_Mid_Lock-P" pos="1943,-1263,99" publishUnderTab="Hair_Braid_Mid_Lock-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9143,7 +9125,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Mid-P" pos="2133,-1419,43" publishUnderTab="Hair_Braid_Mid-P">
+     <module type="PEG" name="Hair_Braid_Mid-P" pos="2133,-1419,76" publishUnderTab="Hair_Braid_Mid-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9205,7 +9187,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Bottom_Lock-P" pos="2299,-1263,41" publishUnderTab="Hair_Braid_Bottom_Lock-P">
+     <module type="PEG" name="Hair_Braid_Bottom_Lock-P" pos="2299,-1263,74" publishUnderTab="Hair_Braid_Bottom_Lock-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9267,7 +9249,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Bottom-P" pos="2512,-1418,42" publishUnderTab="Hair_Braid_Bottom-P">
+     <module type="PEG" name="Hair_Braid_Bottom-P" pos="2512,-1418,75" publishUnderTab="Hair_Braid_Bottom-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9329,7 +9311,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_BK_T_Side_Master_P" pos="197,-1729,78" publishUnderTab="Peg">
+     <module type="PEG" name="Hair_BK_T_Side_Master_P" pos="197,-1729,102" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9391,7 +9373,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_10" pos="3926,-931,158" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_10" pos="4694,-843,162" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9400,7 +9382,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Button_1-P" pos="3292,-1297,67" publishUnderTab="Button_1-P">
+     <module type="PEG" name="Button_1-P" pos="4060,-1209,26" publishUnderTab="Button_1-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9462,7 +9444,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Button_2-P" pos="3442,-1297,66" publishUnderTab="Button_2-P">
+     <module type="PEG" name="Button_2-P" pos="4210,-1209,27" publishUnderTab="Button_2-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9524,7 +9506,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Button_3-P" pos="3587,-1297,65" publishUnderTab="Button_3-P">
+     <module type="PEG" name="Button_3-P" pos="4355,-1209,28" publishUnderTab="Button_3-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9586,7 +9568,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Seam-P" pos="3904,-1299,64" publishUnderTab="Seam-P">
+     <module type="PEG" name="Seam-P" pos="4672,-1211,95" publishUnderTab="Seam-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -9648,7 +9630,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-Torso" pos="4188,-1131,138">
+     <group name="Deformation-Torso" pos="4956,-1043,150">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -9961,7 +9943,7 @@
        <link out="1" in="Transformation-Switch" inport="1"/>
       </linkedlist>
      </group>
-     <module type="PEG" name="Torso_Shirt_Collar_P" pos="4190,-1709,61" publishUnderTab="Deformation-Torso-P">
+     <module type="PEG" name="Torso_Shirt_Collar_P" pos="4958,-1621,93" publishUnderTab="Deformation-Torso-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10023,7 +10005,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Top_Lip-P" pos="-4129,-1240,101" publishUnderTab="Top_Lip-P">
+     <module type="PEG" name="Top_Lip-P" pos="-4129,-1240,124" publishUnderTab="Top_Lip-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10085,7 +10067,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Bottom_Lip-P" pos="-3987,-1240,108" publishUnderTab="Bottom_Lip-P">
+     <module type="PEG" name="Bottom_Lip-P" pos="-3987,-1240,131" publishUnderTab="Bottom_Lip-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10148,7 +10130,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Teeth_Down-P" pos="-3807,-1240,109" publishUnderTab="Teeth_Down-P">
+     <module type="PEG" name="Teeth_Down-P" pos="-3807,-1240,132" publishUnderTab="Teeth_Down-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10210,7 +10192,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Teeth_Top-P" pos="-3649,-1240,98" publishUnderTab="Teeth_Top-P">
+     <module type="PEG" name="Teeth_Top-P" pos="-3649,-1240,121" publishUnderTab="Teeth_Top-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10272,7 +10254,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Tongue-P" pos="-3429,-1240,99" publishUnderTab="Tongue-P">
+     <module type="PEG" name="Tongue-P" pos="-3429,-1240,122" publishUnderTab="Tongue-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10334,7 +10316,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Lips_Master_P" pos="-4064,-1338,100" publishUnderTab="Peg">
+     <module type="PEG" name="Lips_Master_P" pos="-4064,-1338,123" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10396,7 +10378,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Teeth_Master_P" pos="-3737,-1340,97" publishUnderTab="Peg_1">
+     <module type="PEG" name="Teeth_Master_P" pos="-3737,-1340,120" publishUnderTab="Peg_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10458,7 +10440,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Lips_Teeth_P" pos="-3894,-1508,34" publishUnderTab="Peg_2">
+     <module type="PEG" name="Lips_Teeth_P" pos="-3894,-1508,67" publishUnderTab="Peg_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10520,7 +10502,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Mouth_Master_P" pos="-3903,-1704,35" publishUnderTab="Peg_2-P">
+     <module type="PEG" name="Mouth_Master_P" pos="-3903,-1704,68" publishUnderTab="Peg_2-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10582,7 +10564,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_4" pos="7061,-1050,151" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_4" pos="7807,-962,4" publishUnderTab="Line-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10594,19 +10576,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_3" pos="7179,-1050,152" publishUnderTab="Colour-Art">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <flatten val="false"/>
-       <applyToMattePorts val="false"/>
-       <antialiasingQuality val="IGNORE"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-      </attrs>
-     </module>
-     <module type="CUTTER" name="Cutter_11" pos="7295,-923,150" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_11" pos="8063,-835,5" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10615,7 +10585,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_12" pos="7111,-766,148" publishUnderTab="Cutter_11">
+     <module type="CUTTER" name="Cutter_12" pos="7879,-678,157" publishUnderTab="Cutter_11">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10624,7 +10594,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Buttons_Master_P" pos="3425,-1432,63" publishUnderTab="Peg_3">
+     <module type="PEG" name="Buttons_Master_P" pos="4193,-1344,29" publishUnderTab="Peg_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10686,7 +10656,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Buttons_Seams_Master_P" pos="3860,-1569,62" publishUnderTab="Seam-P-P">
+     <module type="PEG" name="Buttons_Seams_Master_P" pos="4628,-1481,94" publishUnderTab="Seam-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10748,7 +10718,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Torso_Shirt_Master_P" pos="4186,-1977,50" publishUnderTab="Deformation-Torso-P-P">
+     <module type="PEG" name="Torso_Shirt_Master_P" pos="4186,-1977,83" publishUnderTab="Deformation-Torso-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10810,7 +10780,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Skirt-P" pos="7310,-1505,52" publishUnderTab="Skirt-P">
+     <module type="PEG" name="Skirt-P" pos="8078,-1417,84" publishUnderTab="Skirt-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10872,7 +10842,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Slit-P" pos="7111,-1275,57" publishUnderTab="Slit-P">
+     <module type="PEG" name="Slit-P" pos="7879,-1187,89" publishUnderTab="Slit-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10935,7 +10905,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm-P" pos="5600,-1287,136" publishUnderTab="Arm-P">
+     <module type="PEG" name="Arm-P" pos="6368,-1199,149" publishUnderTab="Arm-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10997,7 +10967,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head-P" pos="-585,-1305,86" publishUnderTab="Head-P">
+     <module type="PEG" name="Head-P" pos="-585,-1305,110" publishUnderTab="Head-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11059,7 +11029,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Ear_Master_P" pos="-616,-1406,87" publishUnderTab="Head-P-P">
+     <module type="PEG" name="Head_Ear_Master_P" pos="-616,-1406,111" publishUnderTab="Head-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11121,7 +11091,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Face_Master_P" pos="-599,-2079,90" publishUnderTab="Head-P-P-P">
+     <module type="PEG" name="Head_Face_Master_P" pos="-599,-2079,114" publishUnderTab="Head-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11183,7 +11153,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Face_Hair_P" pos="-270,-2547,143" publishUnderTab="Peg_4">
+     <module type="PEG" name="Head_Face_Hair_P" pos="-270,-2547,155" publishUnderTab="Peg_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11245,7 +11215,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_BK_T_Side_Master_P-P" pos="192,-2056,144" publishUnderTab="Hair_BK_T_Side_Master_P-P">
+     <module type="PEG" name="Hair_BK_T_Side_Master_P-P" pos="192,-2056,156" publishUnderTab="Hair_BK_T_Side_Master_P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11307,7 +11277,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Up-P-P" pos="1738,-1856,39" publishUnderTab="Hair_Braid_Up-P-P">
+     <module type="PEG" name="Hair_Braid_Up-P-P" pos="1738,-1856,72" publishUnderTab="Hair_Braid_Up-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11369,7 +11339,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Mid-P-P" pos="2128,-1691,45" publishUnderTab="Hair_Braid_Mid-P-P">
+     <module type="PEG" name="Hair_Braid_Mid-P-P" pos="2128,-1691,78" publishUnderTab="Hair_Braid_Mid-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11431,7 +11401,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Braid_Bottom-P-P" pos="2507,-1546,40" publishUnderTab="Hair_Braid_Bottom-P-P">
+     <module type="PEG" name="Hair_Braid_Bottom-P-P" pos="2507,-1546,73" publishUnderTab="Hair_Braid_Bottom-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11494,7 +11464,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Head_Face_Hair_Master_P" pos="-290,-2873,38" publishUnderTab="Peg_4-P">
+     <module type="PEG" name="Head_Face_Hair_Master_P" pos="-290,-2873,71" publishUnderTab="Peg_4-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11556,7 +11526,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_13" pos="-741,-849,3" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_13" pos="-741,-849,52" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11565,7 +11535,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Skirt-P-P" pos="7305,-1719,51" publishUnderTab="Skirt-P-P">
+     <module type="PEG" name="Skirt-P-P" pos="8073,-1631,25" publishUnderTab="Skirt-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11627,7 +11597,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Face_Body_P" pos="4229,-3847,37" publishUnderTab="Deformation-Torso-P-P-P">
+     <module type="PEG" name="Hair_Face_Body_P" pos="4229,-3847,70" publishUnderTab="Deformation-Torso-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11689,7 +11659,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Hair_Face_Body_Master_P" pos="4223,-4333,36" publishUnderTab="Deformation-Torso-P-P-P-P">
+     <module type="PEG" name="Hair_Face_Body_Master_P" pos="4223,-4333,69" publishUnderTab="Deformation-Torso-P-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11751,7 +11721,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="GLN_Rig_Master_P" pos="4241,-5043,49" publishUnderTab="Deformation-Torso-P-P-P-P-P">
+     <module type="PEG" name="GLN_Rig_Master_P" pos="4241,-5043,82" publishUnderTab="Deformation-Torso-P-P-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11813,7 +11783,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Scene_Master" pos="4262,-6085,48" publishUnderTab="Deformation-Torso-P-P-P-P-P-P">
+     <module type="PEG" name="Scene_Master" pos="4262,-6085,81" publishUnderTab="Deformation-Torso-P-P-P-P-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11875,7 +11845,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Torso_P" pos="4221,-1232,28" publishUnderTab="Deformation-Torso-P">
+     <module type="PEG" name="Torso_P" pos="4989,-1144,62" publishUnderTab="Deformation-Torso-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -11938,7 +11908,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Leg_Left" pos="8642,-660,30">
+     <group name="Leg_Left" pos="9410,-572,64">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -13180,7 +13150,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <module type="COMPOSITE" name="Composite_1" pos="8752,-340,124" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Composite_1" pos="9520,-252,140" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13199,7 +13169,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Leg_Left-P" pos="8650,-1020,55" publishUnderTab="Leg_Left-P">
+     <module type="PEG" name="Leg_Left-P" pos="9418,-932,87" publishUnderTab="Leg_Left-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13261,7 +13231,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Collar" pos="2726,-1027,71">
+     <group name="Collar" pos="2788,-983,9">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -13278,7 +13248,7 @@
          <port type="PEG" idx="0"/>
         </ports>
        </module>
-       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="2828,-866,3">
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="2828,-866,4">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -13290,7 +13260,7 @@
          <port type="IMAGE" idx="3"/>
         </ports>
        </module>
-       <module type="READ" name="Collar" pos="2814,-1181,4" publishUnderTab="Collar">
+       <module type="READ" name="Collar" pos="2814,-1181,1" publishUnderTab="Collar">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -13402,7 +13372,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="Collar-P" pos="2829,-1281,1" publishUnderTab="Collar-P">
+       <module type="PEG" name="Collar-P" pos="2829,-1281,3" publishUnderTab="Collar-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -13526,16 +13496,7 @@
        <link out="LA" in="Multi-Port-Out" inport="2"/>
       </linkedlist>
      </group>
-     <module type="CUTTER" name="Cutter_14" pos="2738,-732,121" publishUnderTab="Cutter_1">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <inverted val="false"/>
-      </attrs>
-     </module>
-     <module type="CUTTER" name="Cutter_15" pos="2728,-565,119" publishUnderTab="Cutter_1">
+     <module type="CUTTER" name="Cutter_14" pos="2757,-691,12" publishUnderTab="Cutter_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13544,7 +13505,16 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Collar_Comp" pos="2718,-633,123" publishUnderTab="Composite_2">
+     <module type="CUTTER" name="Cutter_15" pos="2786,-375,22" publishUnderTab="Cutter_1">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="true"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="Collar_Comp" pos="2780,-589,30" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13563,7 +13533,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Neck-P" pos="3056,-1340,69" publishUnderTab="Neck-P">
+     <module type="PEG" name="Neck-P" pos="3056,-1340,97" publishUnderTab="Neck-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13625,7 +13595,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Neck_Master_P" pos="3035,-1572,68" publishUnderTab="Neck-P-P">
+     <module type="PEG" name="Neck_Master_P" pos="3035,-1572,96" publishUnderTab="Neck-P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13687,7 +13657,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Collar-P" pos="2734,-1129,73" publishUnderTab="Collar-P">
+     <module type="PEG" name="Collar-P" pos="2796,-1085,23" publishUnderTab="Collar-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -13749,7 +13719,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Eye" pos="-2053,-904,94">
+     <group name="Eye" pos="-2053,-904,46">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -14158,7 +14128,7 @@
          <mergeVector val="false"/>
         </attrs>
        </module>
-       <module type="CUTTER" name="Cutter_16" pos="-1930,-967,13" publishUnderTab="Cutter">
+       <module type="CUTTER" name="Cutter_16" pos="-1930,-967,1" publishUnderTab="Cutter">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -14277,7 +14247,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Eye_Master_P" pos="-1636,-1633,1" publishUnderTab="Eye_Left-P-P-P">
+       <module type="PEG" name="Eye_Master_P" pos="-1636,-1633,2" publishUnderTab="Eye_Left-P-P-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -14568,7 +14538,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <group name="Ear" pos="-1086,-1068,92">
+     <group name="Ear" pos="-1086,-1068,116">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -15127,7 +15097,7 @@
        <waypointLink nameId="waypoint" out="Cutter_1" outport="0" in="Ear_Comp" inport="1"/>
       </waypointLinks>
      </group>
-     <module type="PEG" name="Nose-P" pos="-1368,-1378,93" publishUnderTab="Nose-P">
+     <module type="PEG" name="Nose-P" pos="-1368,-1378,117" publishUnderTab="Nose-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -15189,7 +15159,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Glasses" pos="-3068,-1227,17">
+     <group name="Glasses" pos="-3068,-1227,33">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="false"/>
@@ -15197,7 +15167,7 @@
       </options>
       <attrs/>
       <nodeslist>
-       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-3078,-1650,15">
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-3078,-1650,16">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15206,7 +15176,7 @@
          <port type="PEG" idx="0"/>
         </ports>
        </module>
-       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-2911,-616,6">
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-2911,-616,9">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15218,7 +15188,7 @@
          <port type="IMAGE" idx="3"/>
         </ports>
        </module>
-       <module type="READ" name="Glasses" pos="-3087,-1129,1" publishUnderTab="Glasses">
+       <module type="READ" name="Glasses" pos="-3087,-1129,4" publishUnderTab="Glasses">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15330,7 +15300,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="UNDERLAY" name="Glasses_UL" pos="-2962,-950,8" publishUnderTab="Underlay-Layer">
+       <module type="UNDERLAY" name="Glasses_UL" pos="-2962,-950,3" publishUnderTab="Underlay-Layer">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -15342,7 +15312,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="LINE_ART" name="Glasses_LA" pos="-3194,-950,4" publishUnderTab="Line-Art_1">
+       <module type="LINE_ART" name="Glasses_LA" pos="-3194,-950,7" publishUnderTab="Line-Art_1">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -15354,7 +15324,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="CUTTER" name="HL_Revealed_By_Glasses_UL" pos="-2777,-889,7" publishUnderTab="Cutter_7">
+       <module type="CUTTER" name="HL_Revealed_By_Glasses_UL" pos="-2777,-889,10" publishUnderTab="Cutter_7">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -15363,7 +15333,7 @@
          <inverted val="true"/>
         </attrs>
        </module>
-       <module type="READ" name="Highlight" pos="-2819,-1129,3" publishUnderTab="Highlight">
+       <module type="READ" name="Highlight" pos="-2819,-1129,6" publishUnderTab="Highlight">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -15475,7 +15445,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Edge_Highight" pos="-2681,-1129,2" publishUnderTab="Edge_Highight">
+       <module type="READ" name="Edge_Highight" pos="-2681,-1129,1" publishUnderTab="Edge_Highight">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -15587,7 +15557,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="COLOR_ART" name="Colour-Art_1" pos="-3086,-950,9" publishUnderTab="Colour-Art_1">
+       <module type="COLOR_ART" name="Colour-Art_1" pos="-3086,-950,5" publishUnderTab="Colour-Art_1">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15599,7 +15569,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="COMPOSITE" name="Highlights_Comp" pos="-2746,-989,5" publishUnderTab="Composite_2">
+       <module type="COMPOSITE" name="Highlights_Comp" pos="-2746,-989,8" publishUnderTab="Composite_2">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15618,7 +15588,7 @@
          <mergeVector val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="Highlights_Master_P" pos="-2767,-1317,10" publishUnderTab="Highlights_Master_P">
+       <module type="PEG" name="Highlights_Master_P" pos="-2767,-1317,11" publishUnderTab="Highlights_Master_P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15680,7 +15650,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Edge_Highight-P" pos="-2680,-1217,11" publishUnderTab="Edge_Highight-P">
+       <module type="PEG" name="Edge_Highight-P" pos="-2680,-1217,12" publishUnderTab="Edge_Highight-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15742,7 +15712,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Highlight-P" pos="-2804,-1217,14" publishUnderTab="Highlight-P">
+       <module type="PEG" name="Highlight-P" pos="-2804,-1217,15" publishUnderTab="Highlight-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15804,7 +15774,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Glasses_Master_P" pos="-3092,-1550,12" publishUnderTab="Glasses_Master_P">
+       <module type="PEG" name="Glasses_Master_P" pos="-3092,-1550,13" publishUnderTab="Glasses_Master_P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15866,7 +15836,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Glasses-P" pos="-3071,-1338,13" publishUnderTab="Glasses-P">
+       <module type="PEG" name="Glasses-P" pos="-3071,-1338,14" publishUnderTab="Glasses-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15963,7 +15933,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <group name="Collar_1" pos="2848,-1027,70">
+     <group name="Collar_1" pos="3112,-968,8">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -15971,7 +15941,7 @@
       </options>
       <attrs/>
       <nodeslist>
-       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="102,-329,5">
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="102,-329,6">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15980,7 +15950,7 @@
          <port type="PEG" idx="0"/>
         </ports>
        </module>
-       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="102,186,4">
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="102,186,5">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -15992,9 +15962,10 @@
          <port type="IMAGE" idx="3"/>
         </ports>
        </module>
-       <module type="READ" name="Collar" pos="88,-129,3" publishUnderTab="Collar">
+       <module type="READ" name="Collar" pos="85,-129,1" publishUnderTab="Collar">
         <options>
          <collapsed val="true"/>
+         <nodeShowThumbnail val="true"/>
          <version val="1"/>
         </options>
         <attrs>
@@ -16104,7 +16075,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="Collar-P" pos="103,-229,1" publishUnderTab="Collar-P">
+       <module type="PEG" name="Collar-P" pos="103,-229,4" publishUnderTab="Collar-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -16166,7 +16137,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="UNDERLAY" name="UL" pos="216,56,6" publishUnderTab="UL">
+       <module type="UNDERLAY" name="UL" pos="216,56,3" publishUnderTab="UL">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -16228,7 +16199,7 @@
        <link out="LA" in="Multi-Port-Out" inport="2"/>
       </linkedlist>
      </group>
-     <group name="Arm_1" pos="5711,-1050,58">
+     <group name="Arm_1" pos="6479,-962,90">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -18161,7 +18132,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <group name="Leg_Left_1" pos="8849,-660,56">
+     <group name="Leg_Left_1" pos="9617,-572,88">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -19403,7 +19374,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <group name="Ear_1" pos="-977,-1068,1">
+     <group name="Ear_1" pos="-977,-1068,50">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -19962,15 +19933,15 @@
        <waypointLink nameId="waypoint" out="Cutter_1" outport="0" in="Ear_Comp" inport="1"/>
       </waypointLinks>
      </group>
-     <group name="Eye_Clone" pos="-1850,-904,31">
+     <group name="Eye_Clone" pos="-1850,-904,45">
       <options>
        <collapsed val="true"/>
-       <subnodeCollapsed val="true"/>
+       <subnodeCollapsed val="false"/>
        <showsPublished val="true"/>
       </options>
       <attrs/>
       <nodeslist>
-       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="237,-809,9">
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="237,-809,10">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -19979,7 +19950,7 @@
          <port type="PEG" idx="0"/>
         </ports>
        </module>
-       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="237,684,10">
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="237,684,11">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -19988,7 +19959,7 @@
          <port type="IMAGE" idx="0"/>
         </ports>
        </module>
-       <module type="READ" name="Eye_Left" pos="482,-179,8" publishUnderTab="Eye_Left">
+       <module type="READ" name="Eye_Left" pos="482,-179,9" publishUnderTab="Eye_Left">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -20100,7 +20071,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Brow" pos="-111,-177,6" publishUnderTab="Brow">
+       <module type="READ" name="Brow" pos="-111,-177,7" publishUnderTab="Brow">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -20212,7 +20183,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="162,554,16" publishUnderTab="Composite_3">
+       <module type="COMPOSITE" name="Eyes_Master_Comp_" pos="162,554,17" publishUnderTab="Composite_3">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -20231,7 +20202,7 @@
          <mergeVector val="false"/>
         </attrs>
        </module>
-       <module type="CUTTER" name="Cutter_17" pos="213,349,17" publishUnderTab="Cutter_1">
+       <module type="CUTTER" name="Cutter_17" pos="213,349,18" publishUnderTab="Cutter_1">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20240,7 +20211,7 @@
          <inverted val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Pupil" pos="212,-189,7" publishUnderTab="Pupil">
+       <module type="READ" name="Pupil" pos="212,-189,8" publishUnderTab="Pupil">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20352,7 +20323,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="COMPOSITE" name="Eye_and_Pupil_Comp" pos="186,271,18" publishUnderTab="Composite_2">
+       <module type="COMPOSITE" name="Eye_and_Pupil_Comp" pos="186,271,19" publishUnderTab="Composite_2">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20371,7 +20342,7 @@
          <mergeVector val="false"/>
         </attrs>
        </module>
-       <module type="CUTTER" name="Cutter_16" pos="220,-43,13" publishUnderTab="Cutter">
+       <module type="CUTTER" name="Cutter_16" pos="220,-43,1" publishUnderTab="Cutter">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20380,7 +20351,7 @@
          <inverted val="true"/>
         </attrs>
        </module>
-       <module type="LINE_ART" name="Line-Art_9" pos="-154,-43,15" publishUnderTab="Line-Art">
+       <module type="LINE_ART" name="Line-Art_9" pos="-154,-43,16" publishUnderTab="Line-Art">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20392,7 +20363,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="UNDERLAY" name="Underlay-Layer" pos="-43,-43,14" publishUnderTab="Underlay-Layer">
+       <module type="UNDERLAY" name="Underlay-Layer" pos="-43,-43,15" publishUnderTab="Underlay-Layer">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20404,7 +20375,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="LINE_ART" name="Line-Art_8" pos="413,-34,12" publishUnderTab="Line-Art">
+       <module type="LINE_ART" name="Line-Art_8" pos="413,-34,13" publishUnderTab="Line-Art">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20416,7 +20387,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="COLOR_ART" name="Colour-Art_5" pos="546,-34,11" publishUnderTab="Colour-Art">
+       <module type="COLOR_ART" name="Colour-Art_5" pos="546,-34,12" publishUnderTab="Colour-Art">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20428,7 +20399,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="PEG" name="Eye_Pupil_P" pos="520,-533,2" publishUnderTab="Eye_Left-P-P">
+       <module type="PEG" name="Eye_Pupil_P" pos="520,-533,3" publishUnderTab="Eye_Left-P-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20490,7 +20461,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Eye_Master_P" pos="514,-709,1" publishUnderTab="Eye_Left-P-P-P">
+       <module type="PEG" name="Eye_Master_P" pos="514,-709,2" publishUnderTab="Eye_Left-P-P-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20552,7 +20523,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Eye_Left-P" pos="486,-309,3" publishUnderTab="Eye_Left-P">
+       <module type="PEG" name="Eye_Left-P" pos="486,-309,4" publishUnderTab="Eye_Left-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20614,7 +20585,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Pupil-P" pos="228,-309,4" publishUnderTab="Pupil-P">
+       <module type="PEG" name="Pupil-P" pos="228,-309,5" publishUnderTab="Pupil-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20676,7 +20647,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Brow-P" pos="-95,-299,5" publishUnderTab="Brow-P">
+       <module type="PEG" name="Brow-P" pos="-95,-299,6" publishUnderTab="Brow-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20781,7 +20752,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <group name="Glasses_1" pos="-2752,-1232,15">
+     <group name="Glasses_1" pos="-2752,-1232,41">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -20789,7 +20760,7 @@
       </options>
       <attrs/>
       <nodeslist>
-       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="23,-556,15">
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="23,-556,16">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20798,7 +20769,7 @@
          <port type="PEG" idx="0"/>
         </ports>
        </module>
-       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="190,478,3">
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="190,478,7">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20810,7 +20781,7 @@
          <port type="IMAGE" idx="3"/>
         </ports>
        </module>
-       <module type="READ" name="Glasses" pos="14,-35,12" publishUnderTab="Glasses">
+       <module type="READ" name="Glasses" pos="14,-35,4" publishUnderTab="Glasses">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -20922,7 +20893,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="UNDERLAY" name="Glasses_UL" pos="135,137,14" publishUnderTab="Underlay-Layer">
+       <module type="UNDERLAY" name="Glasses_UL" pos="136,145,3" publishUnderTab="Underlay-Layer">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -20934,7 +20905,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="LINE_ART" name="Glasses_LA" pos="-95,145,2" publishUnderTab="Line-Art_1">
+       <module type="LINE_ART" name="Glasses_LA" pos="-95,145,6" publishUnderTab="Line-Art_1">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -20946,7 +20917,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="CUTTER" name="HL_Revealed_By_Glasses_UL" pos="324,205,9" publishUnderTab="Cutter_7">
+       <module type="CUTTER" name="HL_Revealed_By_Glasses_UL" pos="324,205,13" publishUnderTab="Cutter_7">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -20955,7 +20926,7 @@
          <inverted val="true"/>
         </attrs>
        </module>
-       <module type="READ" name="Highlight" pos="282,-35,11" publishUnderTab="Highlight">
+       <module type="READ" name="Highlight" pos="282,-35,15" publishUnderTab="Highlight">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -21067,7 +21038,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Edge_Highight" pos="420,-35,10" publishUnderTab="Edge_Highight">
+       <module type="READ" name="Edge_Highight" pos="420,-35,14" publishUnderTab="Edge_Highight">
         <options>
          <collapsed val="true"/>
          <version val="1"/>
@@ -21179,7 +21150,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="COLOR_ART" name="Colour-Art_1" pos="15,145,1" publishUnderTab="Colour-Art_1">
+       <module type="COLOR_ART" name="Colour-Art_1" pos="15,145,5" publishUnderTab="Colour-Art_1">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21191,7 +21162,7 @@
          <antialiasingExponent val="1" defaultValue="1"/>
         </attrs>
        </module>
-       <module type="COMPOSITE" name="Highlights_Comp" pos="355,105,13" publishUnderTab="Composite_2">
+       <module type="COMPOSITE" name="Highlights_Comp" pos="355,105,1" publishUnderTab="Composite_2">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21210,7 +21181,7 @@
          <mergeVector val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="Highlights_Master_P" pos="334,-223,8" publishUnderTab="Highlights_Master_P">
+       <module type="PEG" name="Highlights_Master_P" pos="334,-223,12" publishUnderTab="Highlights_Master_P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21272,7 +21243,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Edge_Highight-P" pos="421,-123,4" publishUnderTab="Edge_Highight-P">
+       <module type="PEG" name="Edge_Highight-P" pos="421,-123,8" publishUnderTab="Edge_Highight-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21334,7 +21305,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Highlight-P" pos="297,-123,5" publishUnderTab="Highlight-P">
+       <module type="PEG" name="Highlight-P" pos="297,-123,9" publishUnderTab="Highlight-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21396,7 +21367,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Glasses_Master_P" pos="9,-452,6" publishUnderTab="Glasses_Master_P">
+       <module type="PEG" name="Glasses_Master_P" pos="9,-452,10" publishUnderTab="Glasses_Master_P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21458,7 +21429,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="Glasses-P" pos="30,-244,7" publishUnderTab="Glasses-P">
+       <module type="PEG" name="Glasses-P" pos="30,-244,11" publishUnderTab="Glasses-P">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -21526,8 +21497,8 @@
        <link out="Glasses" in="Glasses_LA"/>
        <link out="Glasses" in="Glasses_UL"/>
        <link out="Glasses" in="Colour-Art_1"/>
-       <link out="Glasses_UL" in="HL_Revealed_By_Glasses_UL" inport="1"/>
        <link out="Glasses_UL" in="Multi-Port-Out" inport="0"/>
+       <link out="Glasses_UL" in="HL_Revealed_By_Glasses_UL" inport="1"/>
        <link out="Glasses_LA" in="Multi-Port-Out" inport="3"/>
        <link out="HL_Revealed_By_Glasses_UL" in="Multi-Port-Out" inport="2"/>
        <link out="Highlight" in="Highlights_Comp" inport="1"/>
@@ -21555,7 +21526,7 @@
        </backdrop>
       </backdrops>
      </group>
-     <module type="COMPOSITE" name="Composite_2" pos="-1962,-686,125" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Composite_2" pos="-1962,-686,38" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21574,7 +21545,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Leg_Left_1-P" pos="8857,-1020,54" publishUnderTab="Leg_Left_1-P">
+     <module type="PEG" name="Leg_Left_1-P" pos="9625,-932,86" publishUnderTab="Leg_Left_1-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21636,7 +21607,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Leg_Master_P" pos="8740,-1180,53" publishUnderTab="Peg">
+     <module type="PEG" name="Leg_Master_P" pos="9508,-1092,85" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21698,7 +21669,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Collar_Clone_Comp" pos="2840,-633,122" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Collar_Clone_Comp" pos="3104,-589,20" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21717,16 +21688,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_16" pos="2876,-732,120" publishUnderTab="Cutter_14">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <inverted val="false"/>
-      </attrs>
-     </module>
-     <module type="CUTTER" name="Cutter_17" pos="2864,-565,118" publishUnderTab="Cutter_15">
+     <module type="CUTTER" name="Cutter_16" pos="3084,-692,10" publishUnderTab="Cutter_14">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21735,7 +21697,16 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_3" pos="-3096,-662,14" publishUnderTab="Composite_3">
+     <module type="CUTTER" name="Cutter_17" pos="3143,-378,21" publishUnderTab="Cutter_15">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="true"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="Composite_3" pos="-3096,-662,49" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21754,7 +21725,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_4" pos="-2699,-664,7" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Composite_4" pos="-2699,-664,34" publishUnderTab="Composite_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21773,7 +21744,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_and_Hair_Comp" pos="-2915,-1114,9" publishUnderTab="Composite_8">
+     <module type="COMPOSITE" name="Head_and_Hair_Comp" pos="-2921,-1120,32" publishUnderTab="Composite_8">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21792,13 +21763,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="LAYER_SELECTOR" name="Face_Hair_LS" pos="-3131,-925,25" publishUnderTab="Layer-Selector_1">
+     <module type="LAYER_SELECTOR" name="Face_Hair_LS" pos="-3141,-925,35" publishUnderTab="Layer-Selector_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
       <attrs>
-       <flatten val="false"/>
+       <flatten val="true"/>
        <applyToMattePorts val="false"/>
        <antialiasingQuality val="IGNORE"/>
        <antialiasingExponent val="1" defaultValue="1"/>
@@ -21808,13 +21779,14 @@
        <readUnderlay val="false"/>
       </attrs>
      </module>
-     <module type="LAYER_SELECTOR" name="Face_Hair_Clone_LS" pos="-2802,-925,18" publishUnderTab="Layer-Selector_1">
+     <module type="LAYER_SELECTOR" name="Face_Hair_Clone_LS" pos="-2802,-925,36" publishUnderTab="Layer-Selector_1">
       <options>
        <collapsed val="false"/>
+       <nodeThumbnailSize val="114"/>
        <version val="1"/>
       </options>
       <attrs>
-       <flatten val="false"/>
+       <flatten val="true"/>
        <applyToMattePorts val="false"/>
        <antialiasingQuality val="IGNORE"/>
        <antialiasingExponent val="1" defaultValue="1"/>
@@ -21824,7 +21796,7 @@
        <readUnderlay val="false"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Face_Hair_Colour-Ar" pos="-3004,-925,117" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Face_Hair_Colour-Ar" pos="-3004,-925,47" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21836,7 +21808,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Face_Hair_Clone_Colour_Art" pos="-2643,-925,21" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Face_Hair_Clone_Colour_Art" pos="-2643,-925,59" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21848,7 +21820,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_19" pos="-2710,-809,12" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_19" pos="-2703,-803,44" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21857,7 +21829,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="StaticConstraint" name="Clone_Static" pos="-2745,-1307,27" publishUnderTab="Static-Transformation">
+     <module type="StaticConstraint" name="Clone_Static" pos="-2745,-1307,61" publishUnderTab="Static-Transformation">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21890,7 +21862,7 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="StaticConstraint" name="Eye_Clone_Static" pos="-1853,-990,112" publishUnderTab="Static-Transformation">
+     <module type="StaticConstraint" name="Eye_Clone_Static" pos="-1853,-990,135" publishUnderTab="Static-Transformation">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21923,13 +21895,13 @@
        <inverted val="false"/>
       </attrs>
      </module>
-     <module type="AutoPatchModule" name="Auto-Patch_7" pos="-458,-995,2" publishUnderTab="Auto-Patch">
+     <module type="AutoPatchModule" name="Auto-Patch_7" pos="-458,-995,51" publishUnderTab="Auto-Patch">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="PEG" name="Eye_Master_P" pos="-1952,-1212,33" publishUnderTab="Peg">
+     <module type="PEG" name="Eye_Master_P" pos="-1952,-1212,66" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -21991,7 +21963,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Bridge-P" pos="-2489,-1339,26" publishUnderTab="Bridge-P">
+     <module type="PEG" name="Bridge-P" pos="-2489,-1339,60" publishUnderTab="Bridge-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22053,7 +22025,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Glasses_P" pos="-2869,-1439,95" publishUnderTab="Peg">
+     <module type="PEG" name="Glasses_P" pos="-2869,-1439,118" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22115,7 +22087,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Glasses_Master_P" pos="-2889,-1582,111" publishUnderTab="Glasses_Master_P-P">
+     <module type="PEG" name="Glasses_Master_P" pos="-2889,-1582,134" publishUnderTab="Glasses_Master_P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22177,7 +22149,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Facial_Features_Master_P" pos="-2908,-1801,105" publishUnderTab="Glasses_Master_P-P">
+     <module type="PEG" name="Facial_Features_Master_P" pos="-2908,-1801,128" publishUnderTab="Glasses_Master_P-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22239,7 +22211,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_22" pos="-3093,-827,13" publishUnderTab="Cutter_18">
+     <module type="CUTTER" name="Cutter_22" pos="-3100,-836,48" publishUnderTab="Cutter_18">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22248,7 +22220,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_23" pos="-2579,-825,16" publishUnderTab="Cutter_22">
+     <module type="CUTTER" name="Cutter_23" pos="-2558,-803,43" publishUnderTab="Cutter_22">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22257,7 +22229,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_24" pos="-2946,-827,20" publishUnderTab="Cutter_22">
+     <module type="CUTTER" name="Cutter_24" pos="-2946,-827,58" publishUnderTab="Cutter_22">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22266,7 +22238,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Ear_Master_P" pos="-1033,-1240,91" publishUnderTab="Peg">
+     <module type="PEG" name="Ear_Master_P" pos="-1033,-1240,115" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22328,7 +22300,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Collar_1-P" pos="2856,-1129,72" publishUnderTab="Collar_1-P">
+     <module type="PEG" name="Collar_1-P" pos="3120,-1070,24" publishUnderTab="Collar_1-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22390,7 +22362,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Arm_1-P" pos="5719,-1287,60" publishUnderTab="Arm_1-P">
+     <module type="PEG" name="Arm_1-P" pos="6487,-1199,92" publishUnderTab="Arm_1-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -22450,6 +22422,71 @@
        <ikStiffness val="1" defaultValue="1"/>
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="Glasses_Hair_Master_Comp" pos="-333,1453,42" publishUnderTab="Composite_8">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <compositeMode val="compositePassthrough"/>
+       <flattenOutput val="false"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="LAYER_SELECTOR" name="Layer-Selector" pos="3635,-910,16" publishUnderTab="Layer-Selector">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <readOverlay val="false"/>
+       <readLineart val="true"/>
+       <readColourart val="true"/>
+       <readUnderlay val="false"/>
+      </attrs>
+     </module>
+     <module type="CUTTER" name="Cutter_2" pos="3649,-726,18" publishUnderTab="Cutter_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="false"/>
+      </attrs>
+     </module>
+     <module type="CUTTER" name="Cutter_3" pos="3649,-581,17" publishUnderTab="Cutter_3">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <inverted val="false"/>
+      </attrs>
+     </module>
+     <module type="UNDERLAY" name="Underlay-Layer" pos="7924,-962,3" publishUnderTab="Underlay-Layer">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <flatten val="false"/>
+       <applyToMattePorts val="false"/>
+       <antialiasingQuality val="IGNORE"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
     </nodeslist>
@@ -22466,13 +22503,12 @@
      <link out="Teeth_Top" in="Lips_Master_Compc" inport="1"/>
      <link out="Tongue" in="Lips_Master_Compc" inport="0"/>
      <link out="Torso" in="Torso_Comp"/>
-     <link out="Torso" in="Cutter_2" inport="1"/>
-     <link out="Torso" in="Cutter_3" inport="1"/>
      <link out="Torso" in="Cutter_10" inport="1"/>
      <link out="Neck" in="Line-Art_3"/>
      <link out="Neck" in="Colour-Art_2"/>
      <link out="Neck" in="Cutter_15" inport="1"/>
      <link out="Neck" in="Cutter_17" inport="1"/>
+     <link out="Neck" in="Layer-Selector"/>
      <link out="Skirt" in="Cutter_11" inport="0"/>
      <link out="Skirt" in="Cutter_12" inport="1"/>
      <link out="Hair_Side" in="Line-Art_16"/>
@@ -22485,7 +22521,7 @@
      <link out="Bangs" in="Line-Art_7"/>
      <link out="Bangs" in="Colour-Art_8"/>
      <link out="Bangs_Lock" in="Cutter_5" inport="0"/>
-     <link out="Glasses_Master_Comp_" in="GLN_Master_Comp" inport="5"/>
+     <link out="Glasses_Master_Comp_" in="Glasses_Hair_Master_Comp" inport="1"/>
      <link out="Head_Master_Comp_" in="Face_Master_Comp_" inport="0"/>
      <link out="Lips_Master_Compc" in="Face_Master_Comp_" inport="6"/>
      <link out="Body_Master_Comp_" in="GLN_Master_Comp" inport="2"/>
@@ -22494,10 +22530,8 @@
      <link out="Rough_Sketches" in="Composite" inport="4"/>
      <link out="GLN_Rig_Breakdown_0210" in="Composite" inport="2"/>
      <link out="20220208_Glinda_Turnaround" in="Composite" inport="1"/>
-     <link out="Face_Master_Comp_" in="Head_and_Hair_Comp" inport="0"/>
-     <link out="Face_Master_Comp_" in="GLN_Master_Comp" inport="3"/>
-     <link out="Face_Master_Comp_" in="GLN_Master_Comp" inport="4"/>
      <link out="Face_Master_Comp_" in="Head_and_Hair_Comp" inport="1"/>
+     <link out="Face_Master_Comp_" in="Glasses_Hair_Master_Comp" inport="0"/>
      <link out="GLN_Master_Comp" in="Composite" inport="6"/>
      <link out="Teeth_Down" in="Lips_Master_Compc" inport="2"/>
      <link out="Bridge" in="Glasses_Master_Comp_" inport="0"/>
@@ -22526,6 +22560,7 @@
      <link out="Composite_7" in="Hair_Master_Comp" inport="0"/>
      <link out="Nose_Comp" in="Face_Master_Comp_" inport="3"/>
      <link out="Hair_Master_Comp" in="GLN_Master_Comp" inport="0"/>
+     <link out="Hair_Master_Comp" in="Head_and_Hair_Comp" inport="0"/>
      <link out="Button_1" in="Torso_Details_Comp_" inport="3"/>
      <link out="Button_2" in="Torso_Details_Comp_" inport="2"/>
      <link out="Button_3" in="Torso_Details_Comp_" inport="1"/>
@@ -22534,15 +22569,11 @@
      <link out="Torso_Details_Comp_" in="Body_Master_Comp_" inport="2"/>
      <link out="Torso_Comp" in="Body_Master_Comp_" inport="1"/>
      <link out="Slit" in="Line-Art_4"/>
-     <link out="Slit" in="Colour-Art_3"/>
+     <link out="Slit" in="Underlay-Layer"/>
      <link out="Lower_Body_Comp" in="GLN_Master_Comp" inport="1"/>
      <link out="Sketch" in="Composite" inport="0"/>
-     <link out="Line-Art_3" in="Cutter_3" inport="0"/>
      <link out="Line-Art_3" in="Cutter_14" inport="1"/>
      <link out="Line-Art_3" in="Cutter_16" inport="1"/>
-     <link out="Colour-Art_2" in="Cutter_2" inport="0"/>
-     <link out="Cutter_2" in="Neck_Compc" inport="0"/>
-     <link out="Cutter_3" in="Neck_Compc" inport="1"/>
      <link out="Line-Art_5" in="Cutter_13" inport="0"/>
      <link out="Colour-Art_4" in="Head_Master_Comp_" inport="0"/>
      <link out="Arm" in="Arm_Master_Comp" inport="1"/>
@@ -22624,10 +22655,8 @@
      <link out="Mouth_Master_P" in="Lips_Teeth_P"/>
      <link out="Mouth_Master_P" in="Tongue-P"/>
      <link out="Line-Art_4" in="Cutter_12" inport="0"/>
-     <link out="Colour-Art_3" in="Skirt_Master_Comp_" inport="1"/>
-     <link out="Colour-Art_3" in="Cutter_11" inport="1"/>
      <link out="Cutter_11" in="Skirt_Master_Comp_" inport="0"/>
-     <link out="Cutter_12" in="Skirt_Master_Comp_" inport="2"/>
+     <link out="Cutter_12" in="Skirt_Master_Comp_" inport="1"/>
      <link out="Buttons_Master_P" in="Button_1-P"/>
      <link out="Buttons_Master_P" in="Button_3-P"/>
      <link out="Buttons_Master_P" in="Button_2-P"/>
@@ -22670,12 +22699,12 @@
      <link out="Leg_Left" in="Composite_1" inport="1"/>
      <link out="Composite_1" in="Lower_Body_Comp" inport="0"/>
      <link out="Leg_Left-P" in="Leg_Left"/>
-     <link out="Collar" in="Collar_Comp" inport="0"/>
-     <link out="Collar" outport="1" in="Cutter_14" inport="0"/>
-     <link out="Collar" outport="2" in="Collar_Comp" inport="2"/>
-     <link out="Collar" outport="3" in="Collar_Comp" inport="3"/>
-     <link out="Cutter_14" in="Collar_Comp" inport="1"/>
-     <link out="Cutter_15" in="Neck_Compc" inport="3"/>
+     <link out="Collar" in="Cutter_2" inport="1"/>
+     <link out="Collar" outport="1" in="Collar_Comp" inport="0"/>
+     <link out="Collar" outport="2" in="Collar_Comp" inport="1"/>
+     <link out="Collar" outport="3" in="Cutter_14" inport="0"/>
+     <link out="Cutter_14" in="Collar_Comp" inport="2"/>
+     <link out="Cutter_15" in="Neck_Compc" inport="2"/>
      <link out="Collar_Comp" in="Cutter_15" inport="0"/>
      <link out="Neck-P" in="Neck" inport="0"/>
      <link out="Neck-P" in="Collar-P"/>
@@ -22690,10 +22719,10 @@
      <link out="Glasses" outport="1" in="Cutter_22" inport="0"/>
      <link out="Glasses" outport="2" in="Composite_3" inport="1"/>
      <link out="Glasses" outport="3" in="Composite_3" inport="3"/>
-     <link out="Collar_1" in="Collar_Clone_Comp" inport="0"/>
-     <link out="Collar_1" outport="1" in="Cutter_16" inport="0"/>
-     <link out="Collar_1" outport="2" in="Collar_Clone_Comp" inport="2"/>
-     <link out="Collar_1" outport="3" in="Collar_Clone_Comp" inport="3"/>
+     <link out="Collar_1" in="Cutter_3" inport="1"/>
+     <link out="Collar_1" outport="1" in="Collar_Clone_Comp" inport="0"/>
+     <link out="Collar_1" outport="2" in="Collar_Clone_Comp" inport="1"/>
+     <link out="Collar_1" outport="3" in="Cutter_16" inport="0"/>
      <link out="Arm_1" in="Arm_Master_Comp" inport="0"/>
      <link out="Leg_Left_1" in="Composite_1" inport="0"/>
      <link out="Ear_1" outport="1" in="Face_Master_Comp_" inport="1"/>
@@ -22707,8 +22736,8 @@
      <link out="Leg_Master_P" in="Leg_Left_1-P"/>
      <link out="Leg_Master_P" in="Leg_Left-P"/>
      <link out="Collar_Clone_Comp" in="Cutter_17" inport="0"/>
-     <link out="Cutter_16" in="Collar_Clone_Comp" inport="1"/>
-     <link out="Cutter_17" in="Neck_Compc" inport="2"/>
+     <link out="Cutter_16" in="Collar_Clone_Comp" inport="2"/>
+     <link out="Cutter_17" in="Neck_Compc" inport="1"/>
      <link out="Composite_3" in="Glasses_Master_Comp_" inport="2"/>
      <link out="Composite_4" in="Glasses_Master_Comp_" inport="1"/>
      <link out="Head_and_Hair_Comp" in="Face_Hair_LS"/>
@@ -22742,9 +22771,44 @@
      <link out="Ear_Master_P" in="Ear_1" inport="1"/>
      <link out="Collar_1-P" in="Collar_1"/>
      <link out="Arm_1-P" in="Arm_1"/>
+     <link out="Glasses_Hair_Master_Comp" in="GLN_Master_Comp" inport="3"/>
+     <link out="Layer-Selector" in="Cutter_2" inport="0"/>
+     <link out="Cutter_2" in="Cutter_3" inport="0"/>
+     <link out="Cutter_3" in="Neck_Compc" inport="0"/>
+     <link out="Underlay-Layer" in="Cutter_11" inport="1"/>
     </linkedlist>
     <backdrops>
-     <backdrop topLeft="-263,652" bottomRight="193,945">
+     <backdrop topLeft="2721,-1250" bottomRight="3923,-312">
+      <background color="#323232FF"/>
+      <title text="Neck/Collar" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="8279,-1119" bottomRight="10865,773">
+      <background color="#023CBEFF"/>
+      <title text="Leg" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="7811,-1134" bottomRight="8222,-548">
+      <background color="#6C0E9CFF"/>
+      <title text="Skirt" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="5235,-1412" bottomRight="7644,147">
+      <background color="#C11717FF"/>
+      <title text="Arms" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="4921,-1244" bottomRight="5120,-556">
+      <background color="#DCAA32FF"/>
+      <title text="Torso" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="4059,-1166" bottomRight="4834,-547">
+      <background color="#0D6B58FF"/>
+      <title text="Shirt Details" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="-263,652" bottomRight="664,1116">
       <background color="#843A16FF"/>
       <title text="Head and Hair Comp" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
@@ -22784,44 +22848,14 @@
       <title text="Master Peg" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
-     <backdrop topLeft="4467,-1500" bottomRight="6876,59">
-      <background color="#C11717FF"/>
-      <title text="Arms" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="2721,-1250" bottomRight="3210,-408">
-      <background color="#323232FF"/>
-      <title text="Neck/Collar" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="3291,-1254" bottomRight="4066,-635">
-      <background color="#0D6B58FF"/>
-      <title text="Shirt Details" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="7511,-1207" bottomRight="10097,685">
-      <background color="#023CBEFF"/>
-      <title text="Leg" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
      <backdrop topLeft="-762,-1227" bottomRight="-371,-566">
       <background color="#E16B14FF"/>
       <title text="Head" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
-     <backdrop topLeft="7043,-1222" bottomRight="7454,-636">
-      <background color="#6C0E9CFF"/>
-      <title text="Skirt" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
      <backdrop topLeft="-4245,-197" bottomRight="-4014,-72">
       <background color="#323232FF"/>
       <title text="Layer Tool Box" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="4153,-1332" bottomRight="4352,-644">
-      <background color="#DCAA32FF"/>
-      <title text="Torso" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="-317,-1240" bottomRight="2668,-696">
@@ -22838,14 +22872,23 @@
     <waypoints>
      <waypoint nameId="waypoint_2" location="-2452,-684"/>
      <waypoint nameId="waypoint" location="7245,188"/>
-     <waypoint nameId="waypoint_3" location="3977,-874"/>
-     <waypoint nameId="waypoint_1" location="8685,410"/>
-     <waypoint nameId="waypoint_4" location="3089,-936"/>
-     <waypoint nameId="waypoint_5" location="3103,-936"/>
+     <waypoint nameId="waypoint_3" location="4745,-786"/>
+     <waypoint nameId="waypoint_1" location="9453,498"/>
+     <waypoint nameId="waypoint_4" location="2979,-630"/>
+     <waypoint nameId="waypoint_5" location="2980,-630"/>
      <waypoint nameId="waypoint_8" location="-550,-858"/>
      <waypoint nameId="waypoint_9" location="-983,-1210"/>
      <waypoint nameId="waypoint_10" location="-983,-1210"/>
      <waypoint nameId="waypoint_11" location="-3690,-51"/>
+     <waypoint nameId="waypoint_6" location="-2825,807"/>
+     <waypoint nameId="waypoint_7" location="-2809,785"/>
+     <waypoint nameId="waypoint_12" location="2958,-798"/>
+     <waypoint nameId="waypoint_13" location="2958,-798"/>
+     <waypoint nameId="waypoint_15" location="3694,-501"/>
+     <waypoint nameId="waypoint_17" location="3403,-659"/>
+     <waypoint nameId="waypoint_18" location="2944,-900"/>
+     <waypoint nameId="waypoint_14" location="2958,-798"/>
+     <waypoint nameId="waypoint_16" location="2960,-798"/>
     </waypoints>
     <waypointLinks>
      <waypointLink nameId="waypoint_2" out="Bridge" outport="0" in="Glasses_Master_Comp_" inport="0"/>
@@ -22858,6 +22901,15 @@
      <waypointLink nameId="waypoint_9" out="Auto-Patch_7" outport="0" in="Ear_1" inport="0"/>
      <waypointLink nameId="waypoint_10" out="Auto-Patch_7" outport="0" in="Ear" inport="0"/>
      <waypointLink nameId="waypoint_11" out="Lips_Master_Compc" outport="0" in="Face_Master_Comp_" inport="6"/>
+     <waypointLink nameId="waypoint_6" out="Face_Master_Comp_" outport="0" in="Head_and_Hair_Comp" inport="1"/>
+     <waypointLink nameId="waypoint_7" out="Hair_Master_Comp" outport="0" in="Head_and_Hair_Comp" inport="0"/>
+     <waypointLink nameId="waypoint_12" out="Line-Art_3" outport="0" in=""/>
+     <waypointLink nameId="waypoint_13" out="Line-Art_3" outport="0" in=""/>
+     <waypointLink nameId="waypoint_15" out="Cutter_3" outport="0" in="Neck_Compc" inport="0"/>
+     <waypointLink nameId="waypoint_17" out="Collar_1" outport="0" in="Cutter_3" inport="1"/>
+     <waypointLink nameId="waypoint_18" out="Collar" outport="0" in="Cutter_2" inport="1"/>
+     <waypointLink nameId="waypoint_14" out="Line-Art_3" outport="0" in="Cutter_14" inport="1"/>
+     <waypointLink nameId="waypoint_16" out="Line-Art_3" outport="0" in="Cutter_16" inport="1"/>
     </waypointLinks>
    </rootgroup>
    <unconnectedComposite>
