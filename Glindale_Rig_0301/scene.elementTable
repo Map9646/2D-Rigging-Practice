@@ -52,4 +52,5 @@
  <element id="52" elementName="Sketch" elementFolder="Sketch" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="53" elementName="Edge_Highight" elementFolder="Edge_Highight" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="54" elementName="Pupil" elementFolder="Pupil" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="55" elementName="Shoe_Tip" elementFolder="Shoe_Tip" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

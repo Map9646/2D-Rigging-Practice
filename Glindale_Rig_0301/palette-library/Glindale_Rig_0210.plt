@@ -27,3 +27,4 @@ Solid    "New 0"                    0x0b15d961e16a1890 214 255 246 255
 Solid    "Tongue Outline"           0x0b17554a7dc1b82c 243  76 135 255
 Solid    Tongue                     0x0b17554a7dc395e0 253 124 161 255
 Solid    "New 3"                    0x0b1758a145cd612e  15  34  38 255
+Solid    "New 0"                    0x0b1b5975cbe12731 182 232 221 255
