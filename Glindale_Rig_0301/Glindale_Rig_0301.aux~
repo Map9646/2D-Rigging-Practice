@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Glindale_Rig_0301" Modified="2022-03-15 11:51:52" ID="1">
+<SceneVersion VersionName="Glindale_Rig_0301" Modified="2022-03-15 12:20:51" ID="1">
  <Element Name="Head" ID="1" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
@@ -18,6 +18,8 @@
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
  </Element>
  <Element Name="Top_Lip" ID="6" Folder="Top_Lip">
   <Drawing Key="" Name="1" Version="1"/>
@@ -130,21 +132,27 @@
  </Element>
  <Element Name="Hair_Braid_Up" ID="40" Folder="Hair_Braid_Up">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Hair_Braid_Up_Lock" ID="41" Folder="Hair_Braid_Up_Lock">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Hair_Braid_Mid" ID="42" Folder="Hair_Braid_Mid">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Hair_Braid_Mid_Lock" ID="43" Folder="Hair_Braid_Mid_Lock">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Hair_Braid_Bottom" ID="44" Folder="Hair_Braid_Bottom">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Hair_Braid_Bottom_Lock" ID="45" Folder="Hair_Braid_Bottom_Lock">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Button_1" ID="46" Folder="Button_1">
   <Drawing Key="" Name="1" Version="1"/>
