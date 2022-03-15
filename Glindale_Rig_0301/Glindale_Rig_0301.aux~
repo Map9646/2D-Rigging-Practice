@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Glindale_Rig_0301" Modified="2022-03-15 11:51:48" ID="1">
+<SceneVersion VersionName="Glindale_Rig_0301" Modified="2022-03-15 11:51:52" ID="1">
  <Element Name="Head" ID="1" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
@@ -130,7 +130,6 @@
  </Element>
  <Element Name="Hair_Braid_Up" ID="40" Folder="Hair_Braid_Up">
   <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
  </Element>
  <Element Name="Hair_Braid_Up_Lock" ID="41" Folder="Hair_Braid_Up_Lock">
   <Drawing Key="" Name="1" Version="1"/>

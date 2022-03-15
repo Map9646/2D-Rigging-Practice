@@ -208,7 +208,6 @@
   <element id="40" elementName="Hair_Braid_Up" elementFolder="Hair_Braid_Up" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
-    <dwg name="2"/>
    </drawings>
   </element>
   <element id="41" elementName="Hair_Braid_Up_Lock" elementFolder="Hair_Braid_Up_Lock" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -419,8 +418,7 @@
      <elementSeq exposures="1-20" val="1" id="39"/>
     </column>
     <column type="0" name="ATV-0B15373C305024BD" displayOrder="40" width="100" anonymous="true" id="40">
-     <elementSeq exposures="1-4" val="1" id="40"/>
-     <elementSeq exposures="5-20" val="2" id="40"/>
+     <elementSeq exposures="1-20" val="1" id="40"/>
     </column>
     <column type="0" name="ATV-0B15373C3050255D" displayOrder="41" width="100" anonymous="true" id="41">
      <elementSeq exposures="1-20" val="1" id="41"/>
@@ -6806,43 +6804,43 @@
     <column type="3" name="ATV-0B1BC701D433400A" displayOrder="1036" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="0" y="0"/>
+      <pt constSeg="true" x="1,3" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0B1BC701D433400B" displayOrder="1037" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="0" y="0"/>
+      <pt constSeg="true" x="1,3" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0B1BC701D433400C" displayOrder="1038" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="0" y="0"/>
+      <pt constSeg="true" x="1,3" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0B1BC701D433400D" displayOrder="1039" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="0" y="0"/>
+      <pt constSeg="true" x="1,3" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0B1BC701D433400E" displayOrder="1040" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="1" y="1"/>
+      <pt constSeg="true" x="1,3" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0B1BC701D433400F" displayOrder="1041" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="1" y="1"/>
+      <pt constSeg="true" x="1,3" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0B1BC701D4334010" displayOrder="1042" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="true" x="1,3,5" yLocal="0" y="0"/>
+      <pt constSeg="true" x="1,3" yLocal="0" y="0"/>
      </points>
     </column>
    </columns>
