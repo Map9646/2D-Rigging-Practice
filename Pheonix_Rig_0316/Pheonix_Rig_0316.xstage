@@ -3056,7 +3056,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Skirt" pos="6785,-1610,21" publishUnderTab="Skirt">
+     <module type="READ" name="Skirt" pos="6794,-1602,21" publishUnderTab="Skirt">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3861,6 +3861,11 @@
      <link out="PHIX_Master_Comp" in="Composite" inport="3"/>
     </linkedlist>
     <backdrops>
+     <backdrop topLeft="6744,-1677" bottomRight="6941,-1552">
+      <background color="#0D6B58FF"/>
+      <title text="Dress" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
      <backdrop topLeft="6727,499" bottomRight="6967,624">
       <background color="#E30F69FF"/>
       <title text="Lower Body Comp" color="#000000FF" size="12" font="Arial"/>
@@ -3879,11 +3884,6 @@
      <backdrop topLeft="1298,-920" bottomRight="1498,-795">
       <background color="#E16B14FF"/>
       <title text="Hair Comp" color="#000000FF" size="12" font="Arial"/>
-      <description text="" color="#000000FF" size="12" font="Arial"/>
-     </backdrop>
-     <backdrop topLeft="6735,-1685" bottomRight="6932,-1560">
-      <background color="#0D6B58FF"/>
-      <title text="Dress" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="3860,-1727" bottomRight="6585,-806">
