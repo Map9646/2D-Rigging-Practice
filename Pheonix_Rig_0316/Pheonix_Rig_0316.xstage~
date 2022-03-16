@@ -928,7 +928,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Neck" pos="-497,-1749,12" publishUnderTab="Neck">
+     <module type="READ" name="Neck" pos="-497,-1749,14" publishUnderTab="Neck">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1264,7 +1264,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Belt" pos="3284,-1671,8" publishUnderTab="Belt">
+     <module type="READ" name="Belt" pos="3284,-1671,12" publishUnderTab="Belt">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1376,7 +1376,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Belt_Lower" pos="3554,-1671,7" publishUnderTab="Belt_Lower">
+     <module type="READ" name="Belt_Lower" pos="3554,-1671,11" publishUnderTab="Belt_Lower">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3322,7 +3322,7 @@
        <link out="Composite" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="COMPOSITE" name="Lips_Comp" pos="-1761,-1484,10" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Lips_Comp" pos="-1761,-1484,5" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3341,7 +3341,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Ear" pos="-1271,-1751,11" publishUnderTab="Ear">
+     <module type="READ" name="Ear" pos="-1271,-1751,13" publishUnderTab="Ear">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3453,7 +3453,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Nose" pos="-722,-1749,13" publishUnderTab="Nose">
+     <module type="READ" name="Nose" pos="-722,-1749,15" publishUnderTab="Nose">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3565,7 +3565,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Head_Comp" pos="-964,-1383,15" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Head_Comp" pos="-964,-1383,16" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3584,7 +3584,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Eyes_Comp" pos="10,-1281,16" publishUnderTab="Composite_3">
+     <module type="COMPOSITE" name="Eyes_Comp" pos="10,-1281,6" publishUnderTab="Composite_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3603,7 +3603,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hair_Comp" pos="1363,-1220,1" publishUnderTab="Composite_4">
+     <module type="COMPOSITE" name="Hair_Comp" pos="1363,-1220,7" publishUnderTab="Composite_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3622,7 +3622,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Torso_Comp" pos="2475,-1538,2" publishUnderTab="Composite_5">
+     <module type="COMPOSITE" name="Torso_Comp" pos="2475,-1212,3" publishUnderTab="Composite_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3641,7 +3641,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Decor_Comp" pos="2924,-1502,3" publishUnderTab="Composite_6">
+     <module type="COMPOSITE" name="Decor_Comp" pos="2924,-1197,2" publishUnderTab="Composite_6">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3660,7 +3660,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Belt_Comp" pos="3427,-1410,4" publishUnderTab="Composite_7">
+     <module type="COMPOSITE" name="Belt_Comp" pos="3432,-1184,1" publishUnderTab="Composite_7">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3679,7 +3679,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_8" pos="5234,-703,6" publishUnderTab="Composite_8">
+     <module type="COMPOSITE" name="Composite_8" pos="5234,-703,10" publishUnderTab="Composite_8">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3717,7 +3717,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Face_Comp" pos="-723,-1212,14" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Face_Comp" pos="-713,-913,4" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3736,7 +3736,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Hand_Comp" pos="5359,-937,5" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Hand_Comp" pos="5359,-937,9" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3786,9 +3786,11 @@
      <link out="Ring_Finger" in="Hand_Comp" inport="1"/>
      <link out="Pinkie_Finger" in="Hand_Comp" inport="0"/>
      <link out="Skirt" in="Composite_9"/>
+     <link out="Lips_Comp" in="Face_Comp" inport="5"/>
      <link out="Ear" in="Face_Comp" inport="3"/>
      <link out="Nose" in="Face_Comp" inport="1"/>
      <link out="Head_Comp" in="Face_Comp" inport="2"/>
+     <link out="Eyes_Comp" in="Face_Comp" inport="4"/>
      <link out="Hand_Comp" in="Composite_8" inport="0"/>
     </linkedlist>
     <backdrops>
@@ -3871,8 +3873,9 @@
      <waypoint nameId="waypoint_19" location="2094,-1411"/>
      <waypoint nameId="waypoint_20" location="1816,-1419"/>
      <waypoint nameId="waypoint_21" location="1561,-1438"/>
-     <waypoint nameId="waypoint_22" location="3331,-1561"/>
-     <waypoint nameId="waypoint_23" location="3618,-1561"/>
+     <waypoint nameId="waypoint_22" location="3331,-1431"/>
+     <waypoint nameId="waypoint_23" location="3618,-1431"/>
+     <waypoint nameId="waypoint_24" location="-1712,-1063"/>
     </waypoints>
     <waypointLinks>
      <waypointLink nameId="waypoint" out="Brow" outport="0" in="Eyes_Comp" inport="0"/>
@@ -3899,6 +3902,7 @@
      <waypointLink nameId="waypoint_21" out="Hair_Mid_L" outport="0" in="Hair_Comp" inport="2"/>
      <waypointLink nameId="waypoint_22" out="Belt" outport="0" in="Belt_Comp" inport="1"/>
      <waypointLink nameId="waypoint_23" out="Belt_Lower" outport="0" in="Belt_Comp" inport="0"/>
+     <waypointLink nameId="waypoint_24" out="Lips_Comp" outport="0" in="Face_Comp" inport="5"/>
     </waypointLinks>
    </rootgroup>
    <unconnectedComposite>
