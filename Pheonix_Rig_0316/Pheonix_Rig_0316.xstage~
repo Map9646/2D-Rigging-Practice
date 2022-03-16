@@ -86,7 +86,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="50,822,5" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="50,822,3" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3698,7 +3698,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Lower_Body_Comp" pos="6777,370,4" publishUnderTab="Composite_9">
+     <module type="COMPOSITE" name="Lower_Body_Comp" pos="6770,553,2" publishUnderTab="Composite_9">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3717,7 +3717,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Face_Comp" pos="-709,-804,3" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Face_Comp" pos="-709,-804,5" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3755,7 +3755,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Arms_Master_Comp" pos="5217,-365,7" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Arms_Master_Comp" pos="5217,-476,7" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3774,7 +3774,26 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Upper_Body_Comp" pos="2908,2,6" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Upper_Body_Comp" pos="2922,-119,4" publishUnderTab="Composite_1">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <compositeMode val="compositeBitmap"/>
+       <flattenOutput val="true"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="PHIX_Master_Comp" pos="-36,589,6" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3829,14 +3848,29 @@
      <link out="Nose" in="Face_Comp" inport="1"/>
      <link out="Head_Comp" in="Face_Comp" inport="2"/>
      <link out="Eyes_Comp" in="Face_Comp" inport="4"/>
+     <link out="Hair_Comp" in="Composite" inport="0"/>
      <link out="Torso_Comp" in="Upper_Body_Comp" inport="3"/>
      <link out="Decor_Comp" in="Upper_Body_Comp" inport="2"/>
      <link out="Belt_Comp" in="Upper_Body_Comp" inport="1"/>
      <link out="Arm_Comp" in="Arms_Master_Comp"/>
+     <link out="Lower_Body_Comp" in="Composite" inport="1"/>
+     <link out="Face_Comp" in="PHIX_Master_Comp"/>
      <link out="Hand_Comp" in="Arm_Comp" inport="0"/>
      <link out="Arms_Master_Comp" in="Upper_Body_Comp" inport="0"/>
+     <link out="Upper_Body_Comp" in="Composite" inport="2"/>
+     <link out="PHIX_Master_Comp" in="Composite" inport="3"/>
     </linkedlist>
     <backdrops>
+     <backdrop topLeft="6727,499" bottomRight="6967,624">
+      <background color="#E30F69FF"/>
+      <title text="Lower Body Comp" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="2872,-194" bottomRight="3112,-69">
+      <background color="#6C0E9CFF"/>
+      <title text="Upper Body Comp" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
      <backdrop topLeft="-759,-879" bottomRight="-556,-754">
       <background color="#084C18FF"/>
       <title text="Face Comp" color="#000000FF" size="12" font="Arial"/>
@@ -3929,6 +3963,9 @@
      <waypoint nameId="waypoint_22" location="3331,-1431"/>
      <waypoint nameId="waypoint_23" location="3618,-1431"/>
      <waypoint nameId="waypoint_24" location="-1712,-1063"/>
+     <waypoint nameId="waypoint_25" location="2528,-712"/>
+     <waypoint nameId="waypoint_26" location="3481,-725"/>
+     <waypoint nameId="waypoint_27" location="35,689"/>
     </waypoints>
     <waypointLinks>
      <waypointLink nameId="waypoint" out="Brow" outport="0" in="Eyes_Comp" inport="0"/>
@@ -3956,6 +3993,9 @@
      <waypointLink nameId="waypoint_22" out="Belt" outport="0" in="Belt_Comp" inport="1"/>
      <waypointLink nameId="waypoint_23" out="Belt_Lower" outport="0" in="Belt_Comp" inport="0"/>
      <waypointLink nameId="waypoint_24" out="Lips_Comp" outport="0" in="Face_Comp" inport="5"/>
+     <waypointLink nameId="waypoint_25" out="Torso_Comp" outport="0" in="Upper_Body_Comp" inport="3"/>
+     <waypointLink nameId="waypoint_26" out="Belt_Comp" outport="0" in="Upper_Body_Comp" inport="1"/>
+     <waypointLink nameId="waypoint_27" out="PHIX_Master_Comp" outport="0" in="Composite" inport="3"/>
     </waypointLinks>
    </rootgroup>
    <unconnectedComposite>
