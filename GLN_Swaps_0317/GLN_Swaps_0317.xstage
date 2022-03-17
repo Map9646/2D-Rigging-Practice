@@ -305,7 +305,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0b12d60acb700d5b" nbframes="78" startFrame="1" stopFrame="6">
+  <scene name="Top" id="0b12d60acb700d5b" nbframes="78" startFrame="1" stopFrame="5">
    <columns>
     <column type="0" name="ATV-0B13C894C64011F9" displayOrder="30" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-4" val="1" id="1"/>
@@ -20401,8 +20401,8 @@
        <angle val="0" defaultValue="0" col="ATV-0B1C47A3BC50AD2B"/>
        <skew val="0" defaultValue="0" col="ATV-0B1C47A3BC50AD2E"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-5.6333198100899295" defaultValue="0"/>
+        <y val="0.088888675504377623" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -20729,8 +20729,8 @@
        <angle val="0" defaultValue="0" col="ATV-0B1C47A3BC50A28E"/>
        <skew val="0" defaultValue="0" col="ATV-0B1C47A3BC50A291"/>
        <pivot>
-        <x val="-5.6613620708145298" defaultValue="0"/>
-        <y val="5.0088063181038187" defaultValue="0"/>
+        <x val="-5.5946955641862468" defaultValue="0"/>
+        <y val="0.075484827610862892" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -21036,7 +21036,7 @@
      </module>
      <module type="PEG" name="Scene_Master" pos="4262,-6085,158" publishUnderTab="Deformation-Torso-P-P-P-P-P-P">
       <options>
-       <collapsed val="true"/>
+       <collapsed val="false"/>
        <frameMarker frame="0" length="0" type="0"/>
        <frameMarker frame="2" length="0" type="2"/>
        <frameMarker frame="4" length="0" type="1"/>
@@ -21070,8 +21070,8 @@
        <angle val="0" defaultValue="0" col="ATV-0B1C47A3BC506C59"/>
        <skew val="0" defaultValue="0" col="ATV-0B1C47A3BC506C5C"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-5.6666530634040679" defaultValue="0"/>
+        <y val="-11.288861789055964" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -32935,8 +32935,8 @@
        <angle val="0" defaultValue="0" col="ATV-0B1C47A3BC50CD04"/>
        <skew val="0" defaultValue="0" col="ATV-0B1C47A3BC50CD07"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-5.5999865567757885" defaultValue="0"/>
+        <y val="2.0444395366006831" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
