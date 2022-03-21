@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Pheonix_Rig_0316" Modified="2022-03-21 13:25:19" ID="1">
+<SceneVersion VersionName="Pheonix_Rig_0316" Modified="2022-03-21 13:27:44" ID="1">
  <Element Name="Head" ID="2" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
@@ -43,8 +43,10 @@
  <Element Name="Hair_Top_R" ID="17" Folder="Hair_Top_R.17">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Hair_Mid_R" ID="18" Folder="Hair_Mid_R"/>
- <Element Name="Hair_Mid_L" ID="19" Folder="Hair_Mid_L"/>
+ <Element Name="Hair_Mid_L" ID="18" Folder="Hair_Mid_L.18"/>
+ <Element Name="Hair_Mid_R" ID="19" Folder="Hair_Mid_R.19">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Hair_BT" ID="20" Folder="Hair_BT"/>
  <Element Name="Upper_Arm" ID="21" Folder="Upper_Arm">
   <Drawing Key="" Name="1" Version="1"/>
