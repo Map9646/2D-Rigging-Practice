@@ -29,4 +29,6 @@
  <element id="29" elementName="Skirt" elementFolder="Skirt" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="30" elementName="Ear" elementFolder="Ear" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="31" elementName="Nose" elementFolder="Nose.31" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="32" elementName="Clothing_Torso" elementFolder="Clothing_Torso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="33" elementName="Phoenix_Drawing_Ref" elementFolder="Phoenix_Drawing_Ref" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

@@ -1,14 +1,30 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Pheonix_Rig_0316" Modified="2022-03-16 20:28:27" ID="1">
- <Element Name="Head" ID="2" Folder="Head"/>
- <Element Name="Top_Lip" ID="4" Folder="Top_Lip"/>
- <Element Name="Botton_Lip" ID="5" Folder="Botton_Lip"/>
- <Element Name="Eye_Outline" ID="6" Folder="Eye_Outline"/>
- <Element Name="Iris" ID="7" Folder="Iris"/>
- <Element Name="Pupil" ID="8" Folder="Pupil"/>
+<SceneVersion VersionName="Pheonix_Rig_0316" Modified="2022-03-21 10:52:28" ID="1">
+ <Element Name="Head" ID="2" Folder="Head">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Top_Lip" ID="4" Folder="Top_Lip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Botton_Lip" ID="5" Folder="Botton_Lip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Eye_Outline" ID="6" Folder="Eye_Outline">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Iris" ID="7" Folder="Iris">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupil" ID="8" Folder="Pupil">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Brow" ID="9" Folder="Brow"/>
- <Element Name="Neck" ID="10" Folder="Neck"/>
- <Element Name="Torso" ID="11" Folder="Torso"/>
+ <Element Name="Neck" ID="10" Folder="Neck">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Torso" ID="11" Folder="Torso">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
  <Element Name="Gold_Piece" ID="12" Folder="Gold_Piece"/>
  <Element Name="Belt" ID="13" Folder="Belt"/>
  <Element Name="Belt_Lower" ID="14" Folder="Belt_Lower"/>
@@ -27,6 +43,14 @@
  <Element Name="Ring_Finger" ID="27" Folder="Ring_Finger"/>
  <Element Name="Pinkie_Finger" ID="28" Folder="Pinkie_Finger"/>
  <Element Name="Skirt" ID="29" Folder="Skirt"/>
- <Element Name="Ear" ID="30" Folder="Ear"/>
- <Element Name="Nose" ID="31" Folder="Nose.31"/>
+ <Element Name="Ear" ID="30" Folder="Ear">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Nose" ID="31" Folder="Nose.31">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Clothing_Torso" ID="32" Folder="Clothing_Torso"/>
+ <Element Name="Phoenix_Drawing_Ref" ID="33" Folder="Phoenix_Drawing_Ref">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
 </SceneVersion>
