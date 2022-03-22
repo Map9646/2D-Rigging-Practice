@@ -74,16 +74,16 @@
     <dwg name="Point_090"/>
     <dwg name="X_000"/>
     <dwg name="X_090"/>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
+    <dwg name="Hold_180"/>
+    <dwg name="Hold_270"/>
+    <dwg name="Fist_180"/>
+    <dwg name="Fist_270"/>
+    <dwg name="Point_180"/>
+    <dwg name="Point_270"/>
+    <dwg name="X_180"/>
+    <dwg name="X_270"/>
+    <dwg name="Default_180"/>
+    <dwg name="Default_270"/>
    </drawings>
   </element>
   <element id="13" elementName="Torso" elementFolder="Torso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -370,24 +370,24 @@
     <column type="0" name="ATV-0B13C894C64019BC" displayOrder="53" width="100" anonymous="true" id="12">
      <elementSeq exposures="1-3,4" val="Default_000" id="12"/>
      <elementSeq exposures="5" val="Default_090" id="12"/>
-     <elementSeq exposures="6" val="9" id="12"/>
-     <elementSeq exposures="7" val="10" id="12"/>
+     <elementSeq exposures="6" val="Default_180" id="12"/>
+     <elementSeq exposures="7" val="Default_270" id="12"/>
      <elementSeq exposures="8" val="Hold_000" id="12"/>
      <elementSeq exposures="9" val="Hold_090" id="12"/>
-     <elementSeq exposures="10" val="1" id="12"/>
-     <elementSeq exposures="11" val="2" id="12"/>
+     <elementSeq exposures="10" val="Hold_180" id="12"/>
+     <elementSeq exposures="11" val="Hold_270" id="12"/>
      <elementSeq exposures="12" val="Fist_000" id="12"/>
      <elementSeq exposures="13" val="Fist_090" id="12"/>
-     <elementSeq exposures="14" val="3" id="12"/>
-     <elementSeq exposures="15" val="4" id="12"/>
+     <elementSeq exposures="14" val="Fist_180" id="12"/>
+     <elementSeq exposures="15" val="Fist_270" id="12"/>
      <elementSeq exposures="16" val="Point_000" id="12"/>
      <elementSeq exposures="17" val="Point_090" id="12"/>
-     <elementSeq exposures="18" val="5" id="12"/>
-     <elementSeq exposures="19" val="6" id="12"/>
+     <elementSeq exposures="18" val="Point_180" id="12"/>
+     <elementSeq exposures="19" val="Point_270" id="12"/>
      <elementSeq exposures="20" val="X_000" id="12"/>
      <elementSeq exposures="21" val="X_090" id="12"/>
-     <elementSeq exposures="22" val="7" id="12"/>
-     <elementSeq exposures="23" val="8" id="12"/>
+     <elementSeq exposures="22" val="X_180" id="12"/>
+     <elementSeq exposures="23" val="X_270" id="12"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401A64" displayOrder="8" width="100" anonymous="true" id="13">
      <elementSeq exposures="1-23" val="1" id="13"/>
