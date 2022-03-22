@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="GLN_Swaps_0317" Modified="2022-03-17 15:04:22" ID="1">
+<SceneVersion VersionName="GLN_Swaps_0317" Modified="2022-03-21 22:14:17" ID="1">
  <Element Name="Head" ID="1" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
@@ -42,6 +42,15 @@
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="Hand_Left" ID="12" Folder="Hand_Left">
+  <Drawing Key="" Name="Default_000" Version="1"/>
+  <Drawing Key="" Name="Default_090" Version="1"/>
+  <Drawing Key="" Name="Hold_000" Version="1"/>
+  <Drawing Key="" Name="Hold_090" Version="1"/>
+  <Drawing Key="" Name="Fist_000" Version="1"/>
+  <Drawing Key="" Name="Fist_090" Version="1"/>
+  <Drawing Key="" Name="Point_000" Version="1"/>
+  <Drawing Key="" Name="Point_090" Version="1"/>
+  <Drawing Key="" Name="X_000" Version="1"/>
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="Torso" ID="13" Folder="Torso">
@@ -180,6 +189,9 @@
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="Shoe_Tip" ID="55" Folder="Shoe_Tip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="MW_Hands_CHARACTER_DESIGNER_210923" ID="56" Folder="MW_Hands_CHARACTER_DESIGNER_210923">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>
