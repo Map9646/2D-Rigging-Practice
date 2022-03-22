@@ -15,9 +15,9 @@
  <element id="15" elementName="Hair_BK" elementFolder="Hair_BK" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="16" elementName="Hair_Top_L" elementFolder="Hair_Top_L.16" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="17" elementName="Hair_Top_R" elementFolder="Hair_Top_R.17" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="18" elementName="Hair_Mid_L" elementFolder="Hair_Mid_L.18" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="Hair_Bottom" elementFolder="Hair_Bottom" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="19" elementName="Hair_Mid_R" elementFolder="Hair_Mid_R.19" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="20" elementName="Hair_BT" elementFolder="Hair_BT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="Hair_Mid_L" elementFolder="Hair_Mid_L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="21" elementName="Upper_Arm" elementFolder="Upper_Arm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="22" elementName="Forearm" elementFolder="Forearm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="23" elementName="Hand" elementFolder="Hand" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
