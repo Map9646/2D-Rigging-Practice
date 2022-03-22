@@ -399,22 +399,22 @@
      <elementSeq exposures="1-23" val="1" id="15"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401C5C" displayOrder="54" width="100" anonymous="true" id="16">
-     <elementSeq exposures="1-22" val="1" id="16"/>
+     <elementSeq exposures="1-23" val="1" id="16"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401D04" displayOrder="65" width="100" anonymous="true" id="17">
-     <elementSeq exposures="1-22" val="1" id="17"/>
+     <elementSeq exposures="1-23" val="1" id="17"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401DAC" displayOrder="62" width="100" anonymous="true" id="18">
-     <elementSeq exposures="1-22" val="1" id="18"/>
+     <elementSeq exposures="1-23" val="1" id="18"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401E54" displayOrder="12" width="100" anonymous="true" id="19">
      <elementSeq exposures="1-23" val="2" id="19"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401EFC" displayOrder="63" width="100" anonymous="true" id="20">
-     <elementSeq exposures="1-22" val="1" id="20"/>
+     <elementSeq exposures="1-23" val="1" id="20"/>
     </column>
     <column type="0" name="ATV-0B13C894C6401FA4" displayOrder="64" width="100" anonymous="true" id="21">
-     <elementSeq exposures="1-22" val="1" id="21"/>
+     <elementSeq exposures="1-23" val="1" id="21"/>
     </column>
     <column type="0" name="ATV-0B13C894C640204C" displayOrder="37" width="100" anonymous="true" id="22">
      <elementSeq exposures="1-23" val="1" id="22"/>
@@ -507,7 +507,7 @@
      <elementSeq exposures="5-23" val="2" id="50"/>
     </column>
     <column type="0" name="ATV-0B1538CB5360497A" displayOrder="55" width="100" anonymous="true" id="51">
-     <elementSeq exposures="1-22" val="1" id="51"/>
+     <elementSeq exposures="1-23" val="1" id="51"/>
     </column>
     <column type="0" name="ATV-0B1538CB536705EF" displayOrder="70" width="100" anonymous="true" id="52">
      <elementSeq exposures="1" val="1" id="52"/>
@@ -529,7 +529,7 @@
        <pt val="-6.3309321672713095,-0.3089973110630222,1" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01043" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FF3" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -700,7 +700,7 @@
        <pt val="-0.88541453851814544,-0.0083333135354932697,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01045" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FF5" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -722,7 +722,7 @@
        <pt val="0.0053333205302612541,0.0084444241729157987,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01047" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FF7" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1436,7 +1436,7 @@
        <pt val="-0.73208156209724717,-0.13166634872821525,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01049" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FF9" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1492,7 +1492,7 @@
        <pt val="-9.4708767352878507,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0104B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FFB" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1531,7 +1531,7 @@
      </points>
     </column>
     <column type="0" name="ATV-0B1B5975CBE8C44A" displayOrder="61" width="100" anonymous="true" id="55">
-     <elementSeq exposures="1-22" val="1" id="55"/>
+     <elementSeq exposures="1-23" val="1" id="55"/>
     </column>
     <column type="3" name="ATV-0B1B402B7DA2A70C" displayOrder="211" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1599,7 +1599,7 @@
        <pt val="-0.89333118881899609,0.071110940403502632,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0104D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FFD" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2279,7 +2279,7 @@
        <pt val="-0.28166599050449559,0.00888886755043794,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0104F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A00FFF" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2417,7 +2417,7 @@
        <pt val="-0.2574596998878852,0.082583576108626988,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01051" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01001" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2480,7 +2480,7 @@
        <pt val="-0.11458305826736426,0.031666590648434578,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01053" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01003" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2536,7 +2536,7 @@
        <pt val="-0.5172275992976233,-0.01496468889198585,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01055" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01005" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2714,7 +2714,7 @@
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points/>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01057" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01007" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
      </velocity>
@@ -3642,7 +3642,7 @@
        <pt val="-0.63491911074555496,0.035273283930308263,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01059" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01009" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -3692,7 +3692,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0105B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0100B" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -3745,7 +3745,7 @@
        <pt val="1.1799971673206113,0.035555470201751371,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0105D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0100D" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -3855,7 +3855,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0105F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0100F" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -3905,7 +3905,7 @@
        <pt val="-0.020081981293926895,-0.040248882892895285,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01061" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01011" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -3959,7 +3959,7 @@
        <pt val="-0.050204953234848623,0.02683258859526472,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01063" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01013" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -4011,7 +4011,7 @@
        <pt val="-1.1478874462639403,0.051931087506314366,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01065" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01015" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -4067,7 +4067,7 @@
        <pt val="1.3233073867131755,0.35811281967448866,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01067" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01017" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -4118,7 +4118,7 @@
        <pt val="-1.2741371371376689,-0.24250382288167049,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01069" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01019" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -4797,7 +4797,7 @@
        <pt val="-1.2291636976430063,-0.069444276702993912,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0106B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0101B" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -7539,7 +7539,7 @@
        <pt val="-0.21666614654191996,0.25555494207508522,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0106D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0101D" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -8342,7 +8342,7 @@
        <pt val="-3.5846336609679978,0.25490959165501903,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0106F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0101F" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -8456,7 +8456,7 @@
        <pt val="-0.29999927982727648,0.091110892391987497,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01071" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01021" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -8510,7 +8510,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01073" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01023" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9289,7 +9289,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01075" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01025" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9339,7 +9339,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01077" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01027" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9389,7 +9389,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01079" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01029" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9439,7 +9439,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0107B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0102B" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9489,7 +9489,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0107D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0102D" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9539,7 +9539,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A0107F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A0102F" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9589,7 +9589,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01081" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01031" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9786,7 +9786,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01083" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01033" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9836,7 +9836,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01085" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01035" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -9886,7 +9886,7 @@
        <pt val="0,0,0" lockedInTime="5"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0B1D8D0A79A01087" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0B1DBF1A34A01037" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -15453,7 +15453,7 @@
        </module>
        <module type="PEG" name="Upperarm_Left_Master_P" pos="5123,-1967,6" publishUnderTab="Upperarm_Left-P-P">
         <options>
-         <collapsed val="true"/>
+         <collapsed val="false"/>
          <frameMarker frame="0" length="0" type="0"/>
          <frameMarker frame="2" length="0" type="2"/>
          <frameMarker frame="4" length="0" type="1"/>
@@ -15778,7 +15778,7 @@
        </module>
        <module type="PEG" name="Forearm_Left_Master_P" pos="6050,-1668,7" publishUnderTab="Forearm_Left-P-P">
         <options>
-         <collapsed val="true"/>
+         <collapsed val="false"/>
          <frameMarker frame="0" length="0" type="0"/>
          <frameMarker frame="2" length="0" type="2"/>
          <frameMarker frame="4" length="0" type="1"/>
@@ -16300,7 +16300,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Hand_Left" pos="6385,-1080,30" publishUnderTab="Hand_Left">
+       <module type="READ" name="Hand_Left" pos="6385,-1080,1" publishUnderTab="Hand_Left">
         <options>
          <showTimelineThumb val="true"/>
          <collapsed val="false"/>
@@ -17173,7 +17173,7 @@
          <link out="Curve_2" in="Multi-Port-Out"/>
         </linkedlist>
        </group>
-       <module type="READ" name="Upperarm_Left" pos="5090,-1119,1" publishUnderTab="Upperarm_Left">
+       <module type="READ" name="Upperarm_Left" pos="5090,-1119,2" publishUnderTab="Upperarm_Left">
         <options>
          <collapsed val="true"/>
          <frameMarker frame="0" length="0" type="0"/>
@@ -27708,7 +27708,7 @@
        <frameMarker frame="0" length="0" type="0"/>
        <frameMarker frame="2" length="0" type="2"/>
        <frameMarker frame="4" length="0" type="1"/>
-       <subnodeCollapsed val="false"/>
+       <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
       </options>
       <attrs/>
@@ -42061,8 +42061,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="-9.5495602401109227" defaultValue="0"/>
-        <y val="-3.7544354220959777" defaultValue="0"/>
+        <x val="-9.632893372154518" defaultValue="0"/>
+        <y val="-1.921106517136919" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
