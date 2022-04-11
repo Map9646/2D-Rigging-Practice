@@ -27,4 +27,7 @@
  <element id="32" elementName="Clothing_Torso" elementFolder="Clothing_Torso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="33" elementName="Phoenix_Drawing_Ref" elementFolder="Phoenix_Drawing_Ref" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="34" elementName="Decor" elementFolder="Decor" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="35" elementName="Top_Teeth" elementFolder="Top_Teeth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="36" elementName="Bottom_Teeth" elementFolder="Bottom_Teeth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="37" elementName="Tongue" elementFolder="Tongue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

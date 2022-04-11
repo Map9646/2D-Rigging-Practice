@@ -14,6 +14,7 @@ Solid    "Hair Stream 2"            0x0b1d7e27b9b558c8 243  92   0 255
 Solid    Blue                       0x0b1c438daea00f97   0   0 255 255
 Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
 Solid    Green                      0x0b1c438daea00f95   0 255   0 255
+Solid    "New 0"                    0x0b22d1c087333e64  72  32   7 255
 Solid    "lip outline"              0x0b1d7e27b9b89c80  98  37   0 255
 Solid    "Lip Top Color"            0x0b1d7e27b9b91296 114  37   0 255
 Solid    "Lip Bottom color"         0x0b1d7e27b9b94e53 155  85  57 255
