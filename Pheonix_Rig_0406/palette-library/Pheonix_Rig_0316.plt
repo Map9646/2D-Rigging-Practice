@@ -1,6 +1,7 @@
 ToonBoomAnimationInc PaletteFile 2
 Solid    Black                      0x0b1c438daea00f8f   0   0   0 255
 Solid    White                      0x0b1c438daea00f91 255 255 255 255
+Solid    "Teeth Outline"            0x0b2342adceb7ca3a 193 193 193 255
 Solid    "New 6"                    0x0b1d7e27b9b593ce 141   0   0 255
 Solid    Red                        0x0b1c438daea00f93 203   4   4 255
 Solid    "Skin outline"             0x0b1d7e27b9b24f2f 116  95  79 255
@@ -21,3 +22,5 @@ Solid    "Lip Bottom color"         0x0b1d7e27b9b94e53 155  85  57 255
 Solid    "Clothing Outline"         0x0b1d7e27b9bb5e53 179 153 142 255
 Solid    "New 14"                   0x0b1d7e27b9be54a9 211 187 183 255
 Solid    "Clothing Color"           0x0b1d7e27b9bc0617 227 205 200 255
+Solid    "Tongue Outline"           0x0b2342adcebe0135 215  76  94 255
+Solid    "Tongue Color"             0x0b2342adcebe8f64 191 110 118 255

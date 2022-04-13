@@ -1,15 +1,23 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Pheonix_Rig_0406" Modified="2022-04-11 14:49:37" ID="1">
+<SceneVersion VersionName="Pheonix_Rig_0406" Modified="2022-04-13 12:33:09" ID="1">
  <Element Name="Head" ID="2" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="Top_Lip" ID="4" Folder="Top_Lip">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
  </Element>
  <Element Name="Botton_Lip" ID="5" Folder="Botton_Lip">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
  </Element>
  <Element Name="Eye_Outline" ID="6" Folder="Eye_Outline">
   <Drawing Key="" Name="1" Version="1"/>
@@ -92,7 +100,14 @@
  <Element Name="Decor" ID="34" Folder="Decor">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Top_Teeth" ID="35" Folder="Top_Teeth"/>
- <Element Name="Bottom_Teeth" ID="36" Folder="Bottom_Teeth"/>
- <Element Name="Tongue" ID="37" Folder="Tongue"/>
+ <Element Name="Top_Teeth" ID="35" Folder="Top_Teeth">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bottom_Teeth" ID="36" Folder="Bottom_Teeth">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="Tongue" ID="37" Folder="Tongue">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
 </SceneVersion>
