@@ -14,6 +14,9 @@
     <dwg name="4"/>
     <dwg name="5"/>
     <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
    </drawings>
   </element>
   <element id="5" elementName="Botton_Lip" elementFolder="Botton_Lip" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -24,6 +27,9 @@
     <dwg name="4"/>
     <dwg name="5"/>
     <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
    </drawings>
   </element>
   <element id="6" elementName="Eye_Outline" elementFolder="Eye_Outline" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -164,6 +170,9 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
    </drawings>
   </element>
   <element id="37" elementName="Tongue" elementFolder="Tongue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -197,14 +206,20 @@
      <elementSeq exposures="8" val="2" id="4"/>
      <elementSeq exposures="9" val="4" id="4"/>
      <elementSeq exposures="10" val="5" id="4"/>
-     <elementSeq exposures="11-24" val="6" id="4"/>
+     <elementSeq exposures="11" val="6" id="4"/>
+     <elementSeq exposures="12" val="7" id="4"/>
+     <elementSeq exposures="13" val="8" id="4"/>
+     <elementSeq exposures="14-24" val="9" id="4"/>
     </column>
     <column type="0" name="ATV-0B1C438DAEA01886" displayOrder="2" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-6,7" val="1" id="5"/>
      <elementSeq exposures="8" val="2" id="5"/>
      <elementSeq exposures="9" val="4" id="5"/>
      <elementSeq exposures="10" val="5" id="5"/>
-     <elementSeq exposures="11-24" val="6" id="5"/>
+     <elementSeq exposures="11" val="6" id="5"/>
+     <elementSeq exposures="12" val="7" id="5"/>
+     <elementSeq exposures="13" val="8" id="5"/>
+     <elementSeq exposures="14-24" val="9" id="5"/>
     </column>
     <column type="0" name="ATV-0B1C438DAEA01900" displayOrder="7" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-3" val="1" id="6"/>
@@ -10947,7 +10962,9 @@
      <elementSeq exposures="7-24" val="1" id="35"/>
     </column>
     <column type="0" name="ATV-0B22C2F7525FED99" displayOrder="0" width="100" anonymous="true" id="36">
-     <elementSeq exposures="7-24" val="2" id="36"/>
+     <elementSeq exposures="7-11,12" val="2" id="36"/>
+     <elementSeq exposures="13" val="4" id="36"/>
+     <elementSeq exposures="14-24" val="5" id="36"/>
     </column>
     <column type="0" name="ATV-0B22C2F7525FEE71" displayOrder="0" width="100" anonymous="true" id="37">
      <elementSeq exposures="7-24" val="1" id="37"/>
