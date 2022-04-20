@@ -30,4 +30,5 @@
  <element id="35" elementName="Top_Teeth" elementFolder="Top_Teeth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="36" elementName="Bottom_Teeth" elementFolder="Bottom_Teeth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="37" elementName="Tongue" elementFolder="Tongue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="38" elementName="Lip_Sync" elementFolder="Lip_Sync" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
