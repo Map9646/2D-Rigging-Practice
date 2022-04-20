@@ -1,90 +1,69 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Pheonix_Rig_0406" Modified="2022-04-20 13:46:55" ID="1">
+<SceneVersion VersionName="PHX_0420" Modified="2022-04-20 14:25:16" ID="1">
  <Element Name="Head" ID="2" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Eye_Outline" ID="6" Folder="Eye_Outline">
+ <Element Name="Pupil" ID="3" Folder="Pupil">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
   <Drawing Key="" Name="4" Version="1"/>
  </Element>
- <Element Name="Iris" ID="7" Folder="Iris">
+ <Element Name="Brow" ID="4" Folder="Brow">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Eye_Outline" ID="5" Folder="Eye_Outline">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
   <Drawing Key="" Name="4" Version="1"/>
  </Element>
- <Element Name="Pupil" ID="8" Folder="Pupil">
+ <Element Name="Iris" ID="6" Folder="Iris">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
   <Drawing Key="" Name="4" Version="1"/>
  </Element>
- <Element Name="Brow" ID="9" Folder="Brow">
+ <Element Name="Upper_Arm" ID="7" Folder="Upper_Arm">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Neck" ID="10" Folder="Neck">
+ <Element Name="Forearm" ID="8" Folder="Forearm">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Torso" ID="11" Folder="Torso">
+ <Element Name="Index_Finger" ID="9" Folder="Index_Finger">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Gold_Piece" ID="12" Folder="Gold_Piece">
+ <Element Name="Ring_Finger" ID="10" Folder="Ring_Finger">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Belt" ID="13" Folder="Belt">
+ <Element Name="Thumb" ID="11" Folder="Thumb">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Belt_Lower" ID="14" Folder="Belt_Lower">
+ <Element Name="Middle_Finger" ID="12" Folder="Middle_Finger">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Hair_BK" ID="15" Folder="Hair_BK">
+ <Element Name="Hand" ID="13" Folder="Hand">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Upper_Arm" ID="21" Folder="Upper_Arm">
+ <Element Name="Pinkie_Finger" ID="14" Folder="Pinkie_Finger">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Forearm" ID="22" Folder="Forearm">
+ <Element Name="Clothing_Torso" ID="15" Folder="Clothing_Torso">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Hand" ID="23" Folder="Hand">
+ <Element Name="Nose" ID="16" Folder="Nose">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Index_Finger" ID="24" Folder="Index_Finger">
+ <Element Name="Hair_BK" ID="17" Folder="Hair_BK">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Thumb" ID="25" Folder="Thumb">
+ <Element Name="Neck" ID="18" Folder="Neck">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Middle_Finger" ID="26" Folder="Middle_Finger">
+ <Element Name="Belt" ID="19" Folder="Belt">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Ring_Finger" ID="27" Folder="Ring_Finger">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Pinkie_Finger" ID="28" Folder="Pinkie_Finger">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Skirt" ID="29" Folder="Skirt">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Ear" ID="30" Folder="Ear">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Nose" ID="31" Folder="Nose.31">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Clothing_Torso" ID="32" Folder="Clothing_Torso">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Phoenix_Drawing_Ref" ID="33" Folder="Phoenix_Drawing_Ref">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Decor" ID="34" Folder="Decor">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Lip_Sync" ID="38" Folder="Lip_Sync">
+ <Element Name="Lip_Sync" ID="20" Folder="Lip_Sync">
   <Drawing Key="" Name="Lip_00" Version="1"/>
   <Drawing Key="" Name="Lip_01" Version="1"/>
   <Drawing Key="" Name="Lip_02" Version="1"/>
@@ -98,5 +77,20 @@
   <Drawing Key="" Name="3" Version="1"/>
   <Drawing Key="" Name="8" Version="1"/>
   <Drawing Key="" Name="9" Version="1"/>
+ </Element>
+ <Element Name="Torso" ID="21" Folder="Torso">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Gold_Piece" ID="22" Folder="Gold_Piece">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Skirt" ID="23" Folder="Skirt">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Belt_Lower" ID="24" Folder="Belt_Lower">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ear" ID="25" Folder="Ear">
+  <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>
